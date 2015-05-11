@@ -27,6 +27,8 @@ results <- read.csv(filename, header=TRUE, sep=",")
 
 # append built-up areas to results dataframe
 
+# append constituency population to results dataframe
+
 # calculate average results for built-up areas in a new column
 # for constituencies that do not belong to a built up area,
 # show show the single-constituency result in the average result column
@@ -43,6 +45,8 @@ results <- read.csv(filename, header=TRUE, sep=",")
 # if builtupArea then builtup_area_geo$lat, builtup_area_geo$long
 # else constituency_geo$lat, constituency_geo$long
 
+# calculate chi-square test statistic for voteShare by party results comparing each area to each other area
 
+# write the result to data.json
 
 

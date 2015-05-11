@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<script src="http://d3js.org/d3.v2.js"></script>
+	</head>
+	<body>
+		<script>
+
+var data = ["Aa en Hunze","Aalburg","Aalsmeer"];
+
+var selector = d3.select("body")
+	.append("select")
+	.attr("id", "cityselector")
+	.selectAll("option")
+	.data(data)
+	.enter().append("option")
+	.text(function(d) { return d; })
+	.attr("value", function (d, i) {
+		return i;
+	});
+/*
+d3.select("select")
+	.html("<option>Aa en Hunze</option>")
+*/
+
+		</script>
+	</body>
+</html>

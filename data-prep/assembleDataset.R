@@ -41,7 +41,10 @@ oa_to_constituencies_short <- oa_to_constituencies[c("OA11CD","PCON11CD","PCON11
 builtup_areas_to_constituencies <- merge(builtup_areas_to_constituencies, oa_to_constituencies_short, by="OA11CD")
 
 # list cities that have multiple constituencies
+# file <- "builtup-areas-to-constituencies.csv"
+# write.csv(builtup_areas_to_constituencies, file,row.names=FALSE, na="")
 
+bua_to_pcon <- unique(builtup_areas_to_constituencies[c("BUA11CD","name", "PCON11CD", "PCON11NM")])
 
 
 

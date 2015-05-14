@@ -45,9 +45,16 @@ builtup_areas_to_constituencies <- merge(builtup_areas_to_constituencies, oa_to_
 # write.csv(builtup_areas_to_constituencies, file,row.names=FALSE, na="")
 
 bua_to_pcon <- unique(builtup_areas_to_constituencies[c("BUA11CD","name", "PCON11CD", "PCON11NM")])
+bua_to_pcon <- merge(bua_to_pcon, population, by=c("PCON11CD", "PCON11NM"))
+names(bua_to_pcon)[names(bua_to_pcon) == 'name'] <- 'BUA11NM'
+bua_to_pcon <- merge(bua_to_pcon, constituencies[c("constituency", "PCON11CD")], by="PCON11CD")
+results_short <- results[c("constituency","party","candidate","votes","voteShare","swing","region","partyAll")]
+bua_to_pcon <- merge(bua_to_pcon, results_short, by="constituency")
 
+# sum(filter(bua_to_pcon, BUA11NM == "Greater London")$population)
 
-
+file <- "uk2015.csv"
+write.csv(bua_to_pcon, file,row.names=FALSE, na="")
 
 #####
 

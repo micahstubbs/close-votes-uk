@@ -1,3 +1,5 @@
+library(dplyr)
+
 # create R dataframes from csv files
 setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\output-areas-to-built-up-areas")
 
@@ -10,6 +12,11 @@ setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\output-areas-
 filename <- "OA11_PCON11_EER11_EW_LU.csv"
 oa_to_constituencies <- read.csv(filename, header=TRUE, sep=",")
 
+setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\built-up-areas")
+
+filename <- "BUA_MAR_2011_EW_NC.csv"
+builtup_areas <- read.csv(filename, header=TRUE, sep=",")
+
 setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep")
 
 filename <- "constituency-names.csv"
@@ -21,7 +28,25 @@ population <- read.csv(filename, header=TRUE, sep=",")
 filename <- "uk-election-results-2015.csv"
 results <- read.csv(filename, header=TRUE, sep=",")
 
-# get lat and long for built-up area centroids
+# parse city name from built-up area name
+builtup_areas$name <- builtup_areas$BUA11NM
+builtup_areas$name <- gsub("\\sBUA", "", builtup_areas$name, perl=TRUE)
+builtup_areas$city <- gsub("\\s\\(.*", "", builtup_areas$name, perl=TRUE)
+
+# build look from builtup areas to constituencies, through output areas
+oa_to_builtup_areas_short <- oa_to_builtup_areas[c("OA11CD", "BUA11CD")
+builtup_areas_to_constituencies <- merge(builtup_areas, oa_to_builtup_areas_short, by="BUA11CD")
+
+oa_to_constituencies_short <- oa_to_constituencies[c("OA11CD","PCON11CD","PCON11NM")]
+builtup_areas_to_constituencies <- merge(builtup_areas_to_constituencies, oa_to_constituencies_short, by="OA11CD")
+
+# list cities that have multiple constituencies
+
+
+
+
+
+#####
 
 # get lat and long for constituency centroids
 

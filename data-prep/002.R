@@ -13,8 +13,11 @@ bua_summary <- summarise(buas,
           parties = n_distinct(party)
           )
 
-levels(droplevels(bua_summary$BUA11NM)
-
+# drop grouped levels so that we can sort by number of constituencies
+levels(droplevels(bua_summary$BUA11NM))
 bua_summary <- arrange(bua_summary, desc(pcons))
 
 head(bua_summary)
+
+# calculate population by BUA
+population <- votes[c("constituency", "PCON11CD", "PCON11NM", "BUA11CD", "BUA11NM", "population")]

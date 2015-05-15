@@ -34,7 +34,7 @@ builtup_areas$name <- gsub("\\sBUA", "", builtup_areas$name, perl=TRUE)
 builtup_areas$city <- gsub("\\s\\(.*", "", builtup_areas$name, perl=TRUE)
 
 # build look from builtup areas to constituencies, through output areas
-oa_to_builtup_areas_short <- oa_to_builtup_areas[c("OA11CD", "BUA11CD")
+oa_to_builtup_areas_short <- oa_to_builtup_areas[c("OA11CD", "BUA11CD")]
 builtup_areas_to_constituencies <- merge(builtup_areas, oa_to_builtup_areas_short, by="BUA11CD")
 
 oa_to_constituencies_short <- oa_to_constituencies[c("OA11CD","PCON11CD","PCON11NM")]
@@ -48,10 +48,22 @@ bua_to_pcon <- unique(builtup_areas_to_constituencies[c("BUA11CD","name", "PCON1
 bua_to_pcon <- merge(bua_to_pcon, population, by=c("PCON11CD", "PCON11NM"))
 names(bua_to_pcon)[names(bua_to_pcon) == 'name'] <- 'BUA11NM'
 bua_to_pcon <- merge(bua_to_pcon, constituencies[c("constituency", "PCON11CD")], by="PCON11CD")
+
+bua_pop <- aggregate(population~BUA11NM, bua_to_pcon, sum)
+bua_pop <- arrange(num, desc(population))
+names(bua_pop)[names(bua_pop) == 'population'] <- 'buaPopulation'
+
+# estimated population by bua by summing up the population of all of the 
+# constituencies associated with it
+bua_to_pcon <- merge(bua_to_pcon, bua_pop, by="BUA11NM")
+names(bua_to_pcon)[names(bua_to_pcon) == 'population'] <- 'conPopulation'
+
 results_short <- results[c("constituency","party","candidate","votes","voteShare","swing","region","partyAll")]
 bua_to_pcon <- merge(bua_to_pcon, results_short, by="constituency")
 
-# sum(filter(bua_to_pcon, BUA11NM == "Greater London")$population)
+london_cons <- filter(bua_to_pcon, BUA11NM == "Greater London")
+london_cons <- london_cons[c("PCON11NM", "BUA11NM")]
+london_cons <- unique(london_cons)
 
 file <- "uk2015.csv"
 write.csv(bua_to_pcon, file,row.names=FALSE, na="")

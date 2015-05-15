@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://raw.githubusercontent.com/lodash/lodash/3.8.0/lodash.min.js"></script>
+    <script>
+d3.csv("uk2015.csv", function(err, data){
+
+	var data2 = []
+	// bc for bua checked for constituencies
+	var bc = []
+
+	for(var i=50; i<data.length; i++){
+		var b = data[i]["BUA11NM"];
+		var pop = data[i]["buaPopulation"];
+		
+		// if we have not seen this bua before 
+		// build an array p of constiuencies for this bua
+		if(!_.includes(bc,b)){
+
+		var p = [];
+	
+			bc.push(b);
+			//console.log(bc);
+					 
+			for(var k=0; k<200; k++) {
+				if(data[k]["BUA11NM"] === b){
+					p.push(data[k]["PCON11NM"]);
+				}
+			}
+			p = _.uniq(p);
+			//console.log(p);
+			data2[b] = {};
+			data2[b]["cons"] = p;
+			data2[b]["pop"] = pop;
+		}
+	}
+
+console.log(data2);
+
+
+
+function arrUnique(arr) {
+    var cleaned = [];
+    arr.forEach(function(itm) {
+        var unique = true;
+        cleaned.forEach(function(itm2) {
+            if (_.isEqual(itm, itm2)) unique = false;
+        });
+        if (unique)  cleaned.push(itm);
+    });
+    return cleaned;
+}
+})
+
+    </script>
+</body>
+</html>

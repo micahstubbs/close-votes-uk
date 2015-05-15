@@ -1,0 +1,31 @@
+{
+  "name": "close-votes-uk",
+  "version": "1.0.0",
+  "description": "An iteration on Jan Willem Tulp's [Close Votes](http://tulpinteractive.com/projects/close-votes/) project, this time showing the results of the May 2015 UK Parliamentary Elections.",
+  "main": "Gulpfile.js",
+  "dependencies": {
+    "JSONStream": "^1.0.3",
+    "csv-streamify": "^2.0.0",
+    "express": "^4.12.3",
+    "jsonfile": "^2.0.0",
+    "lodash": "^3.8.0",
+    "topojson": "^1.6.19"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.5.3",
+    "tiny-lr": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micahstubbs/close-votes-uk.git"
+  },
+  "author": "intentive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micahstubbs/close-votes-uk/issues"
+  },
+  "homepage": "https://github.com/micahstubbs/close-votes-uk"
+}

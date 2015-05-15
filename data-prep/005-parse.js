@@ -3,11 +3,12 @@ var jf = require('jsonfile')
 var d3 = require('d3');
 var _ = require('lodash');
 
-var jsonfile = '003.json';
 var csvfile = 'large-bua-geo.csv';
+var jsonfile = '003.json';
 
-var sourceData = JSON.parse(fs.readFileSync(jsonfile, 'utf8'));
+// geocoding from http://www.doogal.co.uk/BatchGeocoding.php
 var geoData = d3.csv.parse(fs.readFileSync(csvfile, 'utf8'));
+var sourceData = JSON.parse(fs.readFileSync(jsonfile, 'utf8'));
 
 var data = sourceData;
 

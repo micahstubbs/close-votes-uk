@@ -40,6 +40,8 @@ fs.readFile(file, 'utf8', function (err, data) {
       data3[b] = {};
       data3[b]["cons"] = pcon;
       data3[b]["pop"] = pop;
+      data3[b]["lat"] = "";
+      data3[b]["long"]= "";
     }
   }
 

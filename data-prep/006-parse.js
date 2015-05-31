@@ -12,7 +12,7 @@ var sourceData = JSON.parse(fs.readFileSync(jsonfile, 'utf8'));
 
 var data = sourceData;
 
-// lookup the voteShare from the geoData and copy it
+// lookup the voteShare from the voteData and copy it
 // into the relevant bua object in data
 	for (var i in data){
 		data[i]["voteShare"] = {};

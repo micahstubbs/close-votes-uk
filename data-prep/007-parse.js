@@ -6,17 +6,8 @@ var _ = require('lodash');
 // an implementation of the calculation described on this page
 // http://stattrek.com/chi-square-test/independence.aspx
 
-// from http://stackoverflow.com/a/14832662/1732222
-
-Array.prototype.allValuesEqual = function() {
-
-	for(var i = 1; i < this.length; i++){
-	    
-	  if(this[i] !== this[0])
-	     return false;
-		}
-		return true;
-	}
+var array1 = [28.9, 37.1, 6, 8, 5.2, 7.2, 1.4, 2.1, 0.3, 1.8, 1.2 ], // Aa en Hunze
+		array2 = [23.4, 8.7, 11, 5.4, 11.2, 2.4, 11.2, 0.6, 23.1, 1.3, 1.4 ] // Aalburg
 
 // from https://github.com/lodash/lodash/blob/master/lodash.js
 
@@ -33,43 +24,28 @@ function arraySum(array) {
 // adapted from 
 // http://www.macwright.org/simple-statistics/docs/simple_statistics.html
 
-function chiSquare(data) {
+function chiSquare(array1, array2) {
 
   
   var chi_squared = 0,
 			observed_frequencies = [],
 			expected_frequencies = [],
-			observationCount = Object.keys(data).length,
 			parameterCounts = [];
 	
-	// calculate the number of parameters in each observation object
-
-	for(key in data){
-		parameterCounts.push(
-			Object.keys(data[key]).length
-		);
-	}
-
 	// Confirm that the number of parameters for each observation is 
 	// the same.  If not, return an error.
 
-	if(!parameterCounts.allValuesEqual()){ 
+	if(array1.length != array2.length ){ 
 		return "Error - the observations have different numbers of parameters"; 
 	}
 
-	var parameterCount = parameterCounts[0];
+	// calculate the number of parameters in each observation object
+	var parameterCount = array1.length;
 	//console.log(parameterCount);
 
 	// Create an array of observed frequencies from the data
-  
-  for (observation in data) {
-  	for(parameter in data[observation]){
-  		observed_frequencies.push(
-  				Number(data[observation][parameter])
-  			);
-  		//console.log(observed_frequencies);
-  	}
-  }
+  observed_frequencies = array1.concat(array2);
+  console.log(observed_frequencies);
 	
 	// The histogram we created might be sparse - there might be gaps 
 	// between values. So we iterate through the histogram, 
@@ -84,7 +60,7 @@ function chiSquare(data) {
 	// Populate the expected_frequencies array with expected frequencies
 	// calculated from the observed frequencies
 
-	//console.log(observed_frequencies);
+	console.log(observed_frequencies);
 	//console.log(observed_frequencies.length);
 
 	for (i = 0; i < observed_frequencies.length; i++){
@@ -134,6 +110,8 @@ function chiSquare(data) {
       //console.log(chi_squared); 
   }
 
+  chi_squared = Math.round(chi_squared);
+
   // return the calculated chi-squared test statistic
 	
 	return chi_squared;
@@ -161,7 +139,7 @@ for(key in data){
 //console.log(parties);
 
 builtUpAreas = _.union(builtUpAreas, Object.keys(data));
-//console.log(builtUpAreas);
+//console.log(builtUpAreas.length);
 
 
 // if a party does not appear in a bua, add it 
@@ -169,28 +147,31 @@ builtUpAreas = _.union(builtUpAreas, Object.keys(data));
 // this helps us easily calculate the chi-square test statistic
 // for all combinations of bua and party
 for(key in data){
+	//console.log(key);
 	for(i=0; i<parties.length; i++){
 		if(data[key]['voteShare'][parties[i]] == undefined){
-			data[key]['voteShare'][parties[i]] = "0";
+			data[key]['voteShare'][parties[i]] = "0"
+			//console.log(data[key]['voteShare']);
 		}  
 	}
 }
 
-var compareObj = {};
-for(i=0; i<builtUpAreas.length; i++){
-
+for(i=0; i<1; i++){
+	//console.log(i + " " + builtUpAreas[i]);
 	for(j in data){
-			compareObj = {}
-			compareObj[builtUpAreas[i]] = data[builtUpAreas[i]]['voteShare']
-			compareObj[j] = data[j]['voteShare']
-			//console.log(compareObj)
+			//console.log(i + " " + builtUpAreas[i]);
+			//console.log(j);
+			var compareObj = {}
+			array1 = data[builtUpAreas[i]]['voteShare']
+			array2 = data[j]['voteShare']
+			console.log(compareObj)
 			console.log(j)
+			// call chiSquare() somehow changes the first key of the compareObj
+			// from 'Swansea-a' to 'Swarthmoor-a'
 			console.log(chiSquare(compareObj));
-
 	}
-	break;
 }
-
+//console.log(builtUpAreas);
 //console.log(compareObj);
 //console.log(chiSquare(compareObj));
 /*

@@ -1,9 +1,5 @@
-[
-  {
-    "city": "Swansea",
-    "pop": "449246",
-    "lat": "51.62144",
-    "long": "-3.943646",
+{
+  "Swansea": {
     "cons": [
       "Aberavon",
       "Brecon and Radnorshire",
@@ -12,6 +8,9 @@
       "Swansea East",
       "Swansea West"
     ],
+    "pop": "449246",
+    "lat": "51.62144",
+    "long": "-3.943646",
     "voteShare": {
       "Plaid Cymru": "6.4",
       "Labour": "42.6",
@@ -341,14 +340,13 @@
       36
     ]
   },
-  {
-    "city": "Maesteg",
-    "pop": "141701",
-    "lat": "51.608562",
-    "long": "-3.660466",
+  "Maesteg": {
     "cons": [
       "Ogmore"
     ],
+    "pop": "141701",
+    "lat": "51.608562",
+    "long": "-3.660466",
     "voteShare": {
       "Plaid Cymru": "10.1",
       "Labour": "52.9",
@@ -678,15 +676,14 @@
       48
     ]
   },
-  {
-    "city": "Colwyn Bay",
-    "pop": "131193",
-    "lat": "53.293182",
-    "long": "-3.72764",
+  "Colwyn Bay": {
     "cons": [
       "Aberconwy",
       "Clwyd West"
     ],
+    "pop": "131193",
+    "lat": "53.293182",
+    "long": "-3.72764",
     "voteShare": {
       "Green Party": "2.4",
       "Liberal Democrat": "3.6",
@@ -1016,17 +1013,16 @@
       16
     ]
   },
-  {
-    "city": "Farnborough/Aldershot",
-    "pop": "725002",
-    "lat": "51.283236",
-    "long": "-0.776563",
+  "Farnborough/Aldershot": {
     "cons": [
       "Aldershot",
       "East Hampshire",
       "North East Hampshire",
       "South West Surrey"
     ],
+    "pop": "725002",
+    "lat": "51.283236",
+    "long": "-0.776563",
     "voteShare": {
       "UKIP": "11.3",
       "Conservative": "56.2",
@@ -1356,11 +1352,7 @@
       11
     ]
   },
-  {
-    "city": "West Midlands",
-    "pop": "2739886",
-    "lat": "52.475074",
-    "long": "-1.829833",
+  "West Midlands": {
     "cons": [
       "Aldridge-Brownhills",
       "Birmingham, Edgbaston",
@@ -1391,6 +1383,9 @@
       "Wolverhampton South East",
       "Wolverhampton South West"
     ],
+    "pop": "2739886",
+    "lat": "52.475074",
+    "long": "-1.829833",
     "voteShare": {
       "Monster Raving Loony Party": "0.5",
       "Green Party": "2.6",
@@ -1720,11 +1715,7 @@
       25
     ]
   },
-  {
-    "city": "Greater Manchester",
-    "pop": "3075769",
-    "lat": "53.457596",
-    "long": "-2.157838",
+  "Greater Manchester": {
     "cons": [
       "Altrincham and Sale West",
       "Ashton-under-Lyne",
@@ -1758,6 +1749,9 @@
       "Worsley and Eccles South",
       "Wythenshawe and Sale East"
     ],
+    "pop": "3075769",
+    "lat": "53.457596",
+    "long": "-2.157838",
     "voteShare": {
       "Green Party": "3.8",
       "Labour": "50.1",
@@ -2087,14 +2081,13 @@
       38
     ]
   },
-  {
-    "city": "Hope (Flintshire)",
-    "pop": "154431",
-    "lat": "53.119375",
-    "long": "-3.033994",
+  "Hope (Flintshire)": {
     "cons": [
       "Wrexham"
     ],
+    "pop": "154431",
+    "lat": "53.119375",
+    "long": "-3.033994",
     "voteShare": {
       "UKIP": "15.5",
       "Liberal Democrat": "5.3",
@@ -2424,14 +2417,13 @@
       26
     ]
   },
-  {
-    "city": "Leeswood",
+  "Leeswood": {
+    "cons": [
+      "Delyn"
+    ],
     "pop": "153240",
     "lat": "53.129871",
     "long": "-3.088146",
-    "cons": [
-      "Delyn"
-    ],
     "voteShare": {
       "UKIP": "16.4",
       "Liberal Democrat": "3.7",
@@ -2761,14 +2753,13 @@
       27
     ]
   },
-  {
-    "city": "Buckley",
+  "Buckley": {
+    "cons": [
+      "Delyn"
+    ],
     "pop": "153240",
     "lat": "53.17005",
     "long": "-3.081488",
-    "cons": [
-      "Delyn"
-    ],
     "voteShare": {
       "UKIP": "16.4",
       "Liberal Democrat": "3.7",
@@ -3098,16 +3089,15 @@
       27
     ]
   },
-  {
-    "city": "Chester",
-    "pop": "263426",
-    "lat": "53.193392",
-    "long": "-2.893075",
+  "Chester": {
     "cons": [
       "Alyn and Deeside",
       "City of Chester",
       "Eddisbury"
     ],
+    "pop": "263426",
+    "lat": "53.193392",
+    "long": "-2.893075",
     "voteShare": {
       "UKIP": "12.2",
       "Liberal Democrat": "9.1",
@@ -3437,11 +3427,7 @@
       8
     ]
   },
-  {
-    "city": "Nottingham",
-    "pop": "1064345",
-    "lat": "52.954783",
-    "long": "-1.158109",
+  "Nottingham": {
     "cons": [
       "Amber Valley",
       "Ashfield",
@@ -3455,6 +3441,9 @@
       "Rushcliffe",
       "Sherwood"
     ],
+    "pop": "1064345",
+    "lat": "52.954783",
+    "long": "-1.158109",
     "voteShare": {
       "UKIP": "14.6",
       "Labour": "35.9",
@@ -3784,14 +3773,13 @@
       17
     ]
   },
-  {
-    "city": "Belper",
-    "pop": "173040",
-    "lat": "53.02439",
-    "long": "-1.477616",
+  "Belper": {
     "cons": [
       "Mid Derbyshire"
     ],
+    "pop": "173040",
+    "lat": "53.02439",
+    "long": "-1.477616",
     "voteShare": {
       "UKIP": "13.6",
       "Labour": "25.4",
@@ -4121,14 +4109,13 @@
       6
     ]
   },
-  {
-    "city": "Selston/Brinsley",
-    "pop": "192025",
-    "lat": "53.033855",
-    "long": "-1.312842",
+  "Selston/Brinsley": {
     "cons": [
       "Ashfield"
     ],
+    "pop": "192025",
+    "lat": "53.033855",
+    "long": "-1.312842",
     "voteShare": {
       "UKIP": "21.4",
       "Labour": "41",
@@ -4458,14 +4445,13 @@
       36
     ]
   },
-  {
-    "city": "Heage/Crich",
-    "pop": "167609",
-    "lat": "53.048069",
-    "long": "-1.473",
+  "Heage/Crich": {
     "cons": [
       "Derbyshire Dales"
     ],
+    "pop": "167609",
+    "lat": "53.048069",
+    "long": "-1.473",
     "voteShare": {
       "UKIP": "11.6",
       "Labour": "22.7",
@@ -4795,15 +4781,14 @@
       7
     ]
   },
-  {
-    "city": "Alfreton/South Normanton",
-    "pop": "287379",
-    "lat": "53.112972",
-    "long": "-1.398141",
+  "Alfreton/South Normanton": {
     "cons": [
       "Ashfield",
       "Bolsover"
     ],
+    "pop": "287379",
+    "lat": "53.112972",
+    "long": "-1.398141",
     "voteShare": {
       "UKIP": "21",
       "Labour": "51.2",
@@ -5133,14 +5118,13 @@
       40
     ]
   },
-  {
-    "city": "Bethesda",
-    "pop": "60939",
-    "lat": "53.178927",
-    "long": "-4.058833",
+  "Bethesda": {
     "cons": [
       "Arfon"
     ],
+    "pop": "60939",
+    "lat": "53.178927",
+    "long": "-4.058833",
     "voteShare": {
       "Plaid Cymru": "43.9",
       "Conservative": "13.1",
@@ -5470,11 +5454,7 @@
       59
     ]
   },
-  {
-    "city": "Brighton and Hove",
-    "pop": "693474",
-    "lat": "50.835161",
-    "long": "-0.126103",
+  "Brighton and Hove": {
     "cons": [
       "Arundel and South Downs",
       "Bognor Regis and Littlehampton",
@@ -5484,6 +5464,9 @@
       "East Worthing and Shoreham",
       "Worthing West"
     ],
+    "pop": "693474",
+    "lat": "50.835161",
+    "long": "-0.126103",
     "voteShare": {
       "Green Party": "5.8",
       "Liberal Democrat": "8.8",
@@ -5813,15 +5796,14 @@
       6
     ]
   },
-  {
-    "city": "Mansfield",
-    "pop": "399869",
-    "lat": "53.147195",
-    "long": "-1.198674",
+  "Mansfield": {
     "cons": [
       "Bolsover",
       "Mansfield"
     ],
+    "pop": "399869",
+    "lat": "53.147195",
+    "long": "-1.198674",
     "voteShare": {
       "UKIP": "14.6",
       "Liberal Democrat": "2.2",
@@ -6151,14 +6133,13 @@
       17
     ]
   },
-  {
-    "city": "Charing Heath",
-    "pop": "210419",
-    "lat": "51.209607",
-    "long": "0.762865",
+  "Charing Heath": {
     "cons": [
       "Faversham and Mid Kent"
     ],
+    "pop": "210419",
+    "lat": "51.209607",
+    "long": "0.762865",
     "voteShare": {
       "Conservative": "54.4",
       "Green Party": "3.9",
@@ -6488,15 +6469,14 @@
       6
     ]
   },
-  {
-    "city": "Shalmsford Street",
-    "pop": "228986",
-    "lat": "51.252786",
-    "long": "1.005722",
+  "Shalmsford Street": {
     "cons": [
       "Ashford",
       "Canterbury"
     ],
+    "pop": "228986",
+    "lat": "51.252786",
+    "long": "1.005722",
     "voteShare": {
       "Conservative": "42.9",
       "Green Party": "7",
@@ -6826,14 +6806,13 @@
       11
     ]
   },
-  {
-    "city": "Aylesbury",
+  "Aylesbury": {
+    "cons": [
+      "Buckingham"
+    ],
     "pop": "212285",
     "lat": "51.815606",
     "long": "-0.8084",
-    "cons": [
-      "Buckingham"
-    ],
     "voteShare": {
       "Liberal Democrat": "10.6",
       "Labour": "15.1",
@@ -7163,14 +7142,13 @@
       64
     ]
   },
-  {
-    "city": "Princes Risborough",
+  "Princes Risborough": {
+    "cons": [
+      "Buckingham"
+    ],
     "pop": "212285",
     "lat": "51.724376",
     "long": "-0.834518",
-    "cons": [
-      "Buckingham"
-    ],
     "voteShare": {
       "Liberal Democrat": "10.6",
       "Labour": "15.1",
@@ -7500,16 +7478,15 @@
       64
     ]
   },
-  {
-    "city": "High Wycombe",
-    "pop": "519364",
-    "lat": "51.628611",
-    "long": "-0.748229",
+  "High Wycombe": {
     "cons": [
       "Aylesbury",
       "Chesham and Amersham",
       "Wycombe"
     ],
+    "pop": "519364",
+    "lat": "51.628611",
+    "long": "-0.748229",
     "voteShare": {
       "Liberal Democrat": "8.8",
       "Labour": "22.5",
@@ -7839,14 +7816,13 @@
       9
     ]
   },
-  {
-    "city": "Adderbury",
-    "pop": "119315",
-    "lat": "52.017428",
-    "long": "-1.315045",
+  "Adderbury": {
     "cons": [
       "Banbury"
     ],
+    "pop": "119315",
+    "lat": "52.017428",
+    "long": "-1.315045",
     "voteShare": {
       "Green Party": "4.6",
       "UKIP": "13.9",
@@ -8176,11 +8152,7 @@
       4
     ]
   },
-  {
-    "city": "Greater London",
-    "pop": "11215733",
-    "lat": "51.430921",
-    "long": "-0.09365",
+  "Greater London": {
     "cons": [
       "Barking",
       "Battersea",
@@ -8283,6 +8255,9 @@
       "Windsor",
       "Woking"
     ],
+    "pop": "11215733",
+    "lat": "51.430921",
+    "long": "-0.09365",
     "voteShare": {
       "Conservative": "56.2",
       "Liberal Democrat": "11.6",
@@ -8612,17 +8587,16 @@
       11
     ]
   },
-  {
-    "city": "Barnsley/Dearne Valley",
-    "pop": "462009",
-    "lat": "53.510026",
-    "long": "-1.426247",
+  "Barnsley/Dearne Valley": {
     "cons": [
       "Barnsley Central",
       "Barnsley East",
       "Doncaster North",
       "Wentworth and Dearne"
     ],
+    "pop": "462009",
+    "lat": "53.510026",
+    "long": "-1.426247",
     "voteShare": {
       "Conservative": "14.9",
       "Labour": "56.9",
@@ -8952,14 +8926,13 @@
       51
     ]
   },
-  {
-    "city": "Swarthmoor",
-    "pop": "87488",
-    "lat": "54.1849",
-    "long": "-3.117613",
+  "Swarthmoor": {
     "cons": [
       "Barrow and Furness"
     ],
+    "pop": "87488",
+    "lat": "54.1849",
+    "long": "-3.117613",
     "voteShare": {
       "UKIP": "11.7",
       "Conservative": "40.5",
@@ -9289,16 +9262,15 @@
       24
     ]
   },
-  {
-    "city": "Basildon",
-    "pop": "377050",
-    "lat": "51.576084",
-    "long": "0.488736",
+  "Basildon": {
     "cons": [
       "Basildon and Billericay",
       "South Basildon and East Thurrock",
       "Maldon"
     ],
+    "pop": "377050",
+    "lat": "51.576084",
+    "long": "0.488736",
     "voteShare": {
       "UKIP": "22.3",
       "Labour": "12.6",
@@ -9628,14 +9600,13 @@
       11
     ]
   },
-  {
-    "city": "Billericay",
-    "pop": "275232",
-    "lat": "51.627903",
-    "long": "0.418397",
+  "Billericay": {
     "cons": [
       "Brentwood and Ongar"
     ],
+    "pop": "275232",
+    "lat": "51.627903",
+    "long": "0.418397",
     "voteShare": {
       "UKIP": "14.7",
       "Labour": "11.8",
@@ -9965,14 +9936,13 @@
       14
     ]
   },
-  {
-    "city": "Grays",
-    "pop": "217048",
-    "lat": "51.478404",
-    "long": "0.323015",
+  "Grays": {
     "cons": [
       "Thurrock"
     ],
+    "pop": "217048",
+    "lat": "51.478404",
+    "long": "0.323015",
     "voteShare": {
       "UKIP": "31.7",
       "Independent": "0.2",
@@ -10302,14 +10272,13 @@
       25
     ]
   },
-  {
-    "city": "Basingstoke",
-    "pop": "209462",
-    "lat": "51.26654",
-    "long": "-1.092396",
+  "Basingstoke": {
     "cons": [
       "North East Hampshire"
     ],
+    "pop": "209462",
+    "lat": "51.26654",
+    "long": "-1.092396",
     "voteShare": {
       "Labour": "9.8",
       "Liberal Democrat": "10.5",
@@ -10639,14 +10608,13 @@
       21
     ]
   },
-  {
-    "city": "Hook (Hart)",
-    "pop": "209462",
-    "lat": "51.280906",
-    "long": "-0.963043",
+  "Hook (Hart)": {
     "cons": [
       "Basingstoke"
     ],
+    "pop": "209462",
+    "lat": "51.280906",
+    "long": "-0.963043",
     "voteShare": {
       "Labour": "9.8",
       "Liberal Democrat": "10.5",
@@ -10976,14 +10944,13 @@
       21
     ]
   },
-  {
-    "city": "West Stockwith",
-    "pop": "197733",
-    "lat": "53.447755",
-    "long": "-0.809633",
+  "West Stockwith": {
     "cons": [
       "Gainsborough"
     ],
+    "pop": "197733",
+    "lat": "53.447755",
+    "long": "-0.809633",
     "voteShare": {
       "Conservative": "52.7",
       "Labour": "21.3",
@@ -11313,14 +11280,13 @@
       3
     ]
   },
-  {
-    "city": "Langwith",
-    "pop": "199830",
-    "lat": "53.232069",
-    "long": "-1.206924",
+  "Langwith": {
     "cons": [
       "Bassetlaw"
     ],
+    "pop": "199830",
+    "lat": "53.232069",
+    "long": "-1.206924",
     "voteShare": {
       "Conservative": "24.5",
       "Labour": "51.2",
@@ -11650,14 +11616,13 @@
       40
     ]
   },
-  {
-    "city": "Bath",
-    "pop": "180097",
-    "lat": "51.375801",
-    "long": "-2.359904",
+  "Bath": {
     "cons": [
       "Bath"
     ],
+    "pop": "180097",
+    "lat": "51.375801",
+    "long": "-2.359904",
     "voteShare": {
       "Independent": "1.1",
       "Liberal Democrat": "7.9",
@@ -11987,11 +11952,7 @@
       7
     ]
   },
-  {
-    "city": "West Yorkshire",
-    "pop": "2242797",
-    "lat": "53.810818",
-    "long": "-1.76261",
+  "West Yorkshire": {
     "cons": [
       "Batley and Spen",
       "Bradford East",
@@ -12016,6 +11977,9 @@
       "Skipton and Ripon",
       "Wakefield"
     ],
+    "pop": "2242797",
+    "lat": "53.810818",
+    "long": "-1.76261",
     "voteShare": {
       "Other": "1.1",
       "TUSC": "0.7",
@@ -12345,14 +12309,13 @@
       25
     ]
   },
-  {
-    "city": "Slough",
-    "pop": "340916",
-    "lat": "51.510538",
-    "long": "-0.595041",
+  "Slough": {
     "cons": [
       "Slough"
     ],
+    "pop": "340916",
+    "lat": "51.510538",
+    "long": "-0.595041",
     "voteShare": {
       "Conservative": "63.4",
       "Green Party": "3.7",
@@ -12682,14 +12645,13 @@
       17
     ]
   },
-  {
-    "city": "Beaconsfield",
+  "Beaconsfield": {
+    "cons": [
+      "Chesham and Amersham"
+    ],
     "pop": "193939",
     "lat": "51.602396",
     "long": "-0.644241",
-    "cons": [
-      "Chesham and Amersham"
-    ],
     "voteShare": {
       "Conservative": "59.1",
       "Green Party": "5.5",
@@ -13019,14 +12981,13 @@
       13
     ]
   },
-  {
-    "city": "Gerrards Cross",
+  "Gerrards Cross": {
+    "cons": [
+      "Chesham and Amersham"
+    ],
     "pop": "193939",
     "lat": "51.582362",
     "long": "-0.5575",
-    "cons": [
-      "Chesham and Amersham"
-    ],
     "voteShare": {
       "Conservative": "59.1",
       "Green Party": "5.5",
@@ -13356,14 +13317,13 @@
       13
     ]
   },
-  {
-    "city": "Maidenhead",
-    "pop": "203659",
-    "lat": "51.522414",
-    "long": "-0.7219",
+  "Maidenhead": {
     "cons": [
       "Maidenhead"
     ],
+    "pop": "203659",
+    "lat": "51.522414",
+    "long": "-0.7219",
     "voteShare": {
       "Conservative": "65.8",
       "Green Party": "3.6",
@@ -13693,15 +13653,14 @@
       20
     ]
   },
-  {
-    "city": "Marlow",
-    "pop": "313531",
-    "lat": "51.571944",
-    "long": "-0.776942",
+  "Marlow": {
     "cons": [
       "Maidenhead",
       "Wycombe"
     ],
+    "pop": "313531",
+    "lat": "51.571944",
+    "long": "-0.776942",
     "voteShare": {
       "Conservative": "51.4",
       "Green Party": "6",
@@ -14031,15 +13990,14 @@
       9
     ]
   },
-  {
-    "city": "Bedford",
-    "pop": "313983",
-    "lat": "52.135973",
-    "long": "-0.466655",
+  "Bedford": {
     "cons": [
       "Bedford",
       "North East Bedfordshire"
     ],
+    "pop": "313983",
+    "lat": "52.135973",
+    "long": "-0.466655",
     "voteShare": {
       "Labour": "15.8",
       "UKIP": "14.6",
@@ -14369,15 +14327,14 @@
       10
     ]
   },
-  {
-    "city": "Milton Keynes",
-    "pop": "359418",
-    "lat": "52.040622",
-    "long": "-0.759417",
+  "Milton Keynes": {
     "cons": [
       "Milton Keynes North",
       "Milton Keynes South"
     ],
+    "pop": "359418",
+    "lat": "52.040622",
+    "long": "-0.759417",
     "voteShare": {
       "Monster Raving Loony Party": "0.5",
       "Labour": "32.1",
@@ -14707,17 +14664,16 @@
       13
     ]
   },
-  {
-    "city": "Luton",
-    "pop": "423642",
-    "lat": "51.878671",
-    "long": "-0.420026",
+  "Luton": {
     "cons": [
       "Mid Bedfordshire",
       "South West Bedfordshire",
       "Luton North",
       "Luton South"
     ],
+    "pop": "423642",
+    "lat": "51.878671",
+    "long": "-0.420026",
     "voteShare": {
       "Monster Raving Loony Party": "0.5",
       "Labour": "44.2",
@@ -15047,14 +15003,13 @@
       31
     ]
   },
-  {
-    "city": "Shefford",
-    "pop": "211237",
-    "lat": "52.038699",
-    "long": "-0.333947",
+  "Shefford": {
     "cons": [
       "North East Bedfordshire"
     ],
+    "pop": "211237",
+    "lat": "52.038699",
+    "long": "-0.333947",
     "voteShare": {
       "Monster Raving Loony Party": "0.5",
       "Labour": "15.8",
@@ -15384,15 +15339,14 @@
       10
     ]
   },
-  {
-    "city": "St Neots",
-    "pop": "222770",
-    "lat": "52.230084",
-    "long": "-0.265103",
+  "St Neots": {
     "cons": [
       "North East Bedfordshire",
       "Huntingdon"
     ],
+    "pop": "222770",
+    "lat": "52.230084",
+    "long": "-0.265103",
     "voteShare": {
       "Labour": "18.3",
       "Liberal Democrat": "7.8",
@@ -15722,14 +15676,13 @@
       4
     ]
   },
-  {
-    "city": "Rushden",
-    "pop": "215053",
-    "lat": "52.289125",
-    "long": "-0.600363",
+  "Rushden": {
     "cons": [
       "Wellingborough"
     ],
+    "pop": "215053",
+    "lat": "52.289125",
+    "long": "-0.600363",
     "voteShare": {
       "Labour": "19.5",
       "Liberal Democrat": "4.4",
@@ -16059,14 +16012,13 @@
       3
     ]
   },
-  {
-    "city": "Eaton Bray",
-    "pop": "205561",
-    "lat": "51.876812",
-    "long": "-0.593461",
+  "Eaton Bray": {
     "cons": [
       "Buckingham"
     ],
+    "pop": "205561",
+    "lat": "51.876812",
+    "long": "-0.593461",
     "voteShare": {
       "Green Party": "13.8",
       "Conservative": "55",
@@ -16396,14 +16348,13 @@
       64
     ]
   },
-  {
-    "city": "Thropton",
-    "pop": "75558",
-    "lat": "55.313093",
-    "long": "-1.951753",
+  "Thropton": {
     "cons": [
       "Berwick-upon-Tweed"
     ],
+    "pop": "75558",
+    "lat": "55.313093",
+    "long": "-1.951753",
     "voteShare": {
       "UKIP": "11.2",
       "Liberal Democrat": "28.9",
@@ -16733,11 +16684,7 @@
       26
     ]
   },
-  {
-    "city": "Kingston upon Hull",
-    "pop": "461350",
-    "lat": "53.745671",
-    "long": "-0.336741",
+  "Kingston upon Hull": {
     "cons": [
       "Beverley and Holderness",
       "Haltemprice and Howden",
@@ -16745,6 +16692,9 @@
       "Kingston upon Hull North",
       "Kingston upon Hull West and Hessle"
     ],
+    "pop": "461350",
+    "lat": "53.745671",
+    "long": "-0.336741",
     "voteShare": {
       "Green Party": "3",
       "Conservative": "17.5",
@@ -17074,14 +17024,13 @@
       43
     ]
   },
-  {
-    "city": "Dunswell/Thearne",
-    "pop": "188878",
-    "lat": "53.795598",
-    "long": "-0.368606",
+  "Dunswell/Thearne": {
     "cons": [
       "Haltemprice and Howden"
     ],
+    "pop": "188878",
+    "lat": "53.795598",
+    "long": "-0.368606",
     "voteShare": {
       "Green Party": "3.7",
       "Conservative": "54.2",
@@ -17411,14 +17360,13 @@
       5
     ]
   },
-  {
-    "city": "Heathfield (Wealden)",
-    "pop": "205679",
-    "lat": "50.96674",
-    "long": "0.256443",
+  "Heathfield (Wealden)": {
     "cons": [
       "Wealden"
     ],
+    "pop": "205679",
+    "lat": "50.96674",
+    "long": "0.256443",
     "voteShare": {
       "Green Party": "6.4",
       "Conservative": "57",
@@ -17748,14 +17696,13 @@
       12
     ]
   },
-  {
-    "city": "Rye",
+  "Rye": {
+    "cons": [
+      "Hastings and Rye"
+    ],
     "pop": "210060",
     "lat": "50.949708",
     "long": "0.73726",
-    "cons": [
-      "Hastings and Rye"
-    ],
     "voteShare": {
       "Green Party": "3.8",
       "Conservative": "44.5",
@@ -18085,14 +18032,13 @@
       16
     ]
   },
-  {
-    "city": "Hastings",
+  "Hastings": {
+    "cons": [
+      "Hastings and Rye"
+    ],
     "pop": "210060",
     "lat": "50.854259",
     "long": "0.573453",
-    "cons": [
-      "Hastings and Rye"
-    ],
     "voteShare": {
       "Green Party": "3.8",
       "Conservative": "44.5",
@@ -18422,16 +18368,15 @@
       16
     ]
   },
-  {
-    "city": "Eastbourne",
-    "pop": "298963",
-    "lat": "50.768035",
-    "long": "0.290472",
+  "Eastbourne": {
     "cons": [
       "Bexhill and Battle",
       "Eastbourne",
       "Lewes"
     ],
+    "pop": "298963",
+    "lat": "50.768035",
+    "long": "0.290472",
     "voteShare": {
       "Green Party": "5.5",
       "Conservative": "38",
@@ -18761,11 +18706,7 @@
       35
     ]
   },
-  {
-    "city": "Birkenhead",
-    "pop": "407208",
-    "lat": "53.389991",
-    "long": "-3.023009",
+  "Birkenhead": {
     "cons": [
       "Birkenhead",
       "Ellesmere Port and Neston",
@@ -18773,6 +18714,9 @@
       "Wirral South",
       "Wirral West"
     ],
+    "pop": "407208",
+    "lat": "53.389991",
+    "long": "-3.023009",
     "voteShare": {
       "UKIP": "6.6",
       "Labour": "45.1",
@@ -19102,14 +19046,13 @@
       27
     ]
   },
-  {
-    "city": "Byers Green",
-    "pop": "87519",
-    "lat": "54.702735",
-    "long": "-1.659337",
+  "Byers Green": {
     "cons": [
       "Bishop Auckland"
     ],
+    "pop": "87519",
+    "lat": "54.702735",
+    "long": "-1.659337",
     "voteShare": {
       "Conservative": "32.5",
       "Liberal Democrat": "4.4",
@@ -19439,16 +19382,15 @@
       27
     ]
   },
-  {
-    "city": "Blackburn",
-    "pop": "393707",
-    "lat": "53.748575",
-    "long": "-2.487529",
+  "Blackburn": {
     "cons": [
       "Blackburn",
       "Hyndburn",
       "Rossendale and Darwen"
     ],
+    "pop": "393707",
+    "lat": "53.748575",
+    "long": "-2.487529",
     "voteShare": {
       "Labour": "35.1",
       "Liberal Democrat": "1.6",
@@ -19778,16 +19720,15 @@
       16
     ]
   },
-  {
-    "city": "Blackpool",
-    "pop": "335568",
-    "lat": "53.817505",
-    "long": "-3.035675",
+  "Blackpool": {
     "cons": [
       "Blackpool North and Cleveleys",
       "Blackpool South",
       "Wyre and Preston North"
     ],
+    "pop": "335568",
+    "lat": "53.817505",
+    "long": "-3.035675",
     "voteShare": {
       "Other": "0.5",
       "Green Party": "3.4",
@@ -20117,11 +20058,7 @@
       13
     ]
   },
-  {
-    "city": "Newport (Newport)",
-    "pop": "562733",
-    "lat": "51.584151",
-    "long": "-2.997664",
+  "Newport (Newport)": {
     "cons": [
       "Blaenau Gwent",
       "Islwyn",
@@ -20130,6 +20067,9 @@
       "Newport West",
       "Torfaen"
     ],
+    "pop": "562733",
+    "lat": "51.584151",
+    "long": "-2.997664",
     "voteShare": {
       "Green Party": "2",
       "UKIP": "19",
@@ -20459,11 +20399,7 @@
       37
     ]
   },
-  {
-    "city": "Sunderland",
-    "pop": "617150",
-    "lat": "54.906869",
-    "long": "-1.383801",
+  "Sunderland": {
     "cons": [
       "North Durham",
       "Easington",
@@ -20471,6 +20407,9 @@
       "Sunderland Central",
       "Washington and Sunderland West"
     ],
+    "pop": "617150",
+    "lat": "54.906869",
+    "long": "-1.383801",
     "voteShare": {
       "Conservative": "18.9",
       "Labour": "55",
@@ -20800,11 +20739,7 @@
       46
     ]
   },
-  {
-    "city": "Tyneside",
-    "pop": "837497",
-    "lat": "51.46525",
-    "long": "-3.15558",
+  "Tyneside": {
     "cons": [
       "Blaydon",
       "Gateshead",
@@ -20816,6 +20751,9 @@
       "Tynemouth",
       "North Tyneside"
     ],
+    "pop": "837497",
+    "lat": "51.46525",
+    "long": "-3.15558",
     "voteShare": {
       "Conservative": "19.2",
       "Labour": "55.9",
@@ -21145,14 +21083,13 @@
       47
     ]
   },
-  {
-    "city": "Cramlington",
-    "pop": "185047",
-    "lat": "55.086136",
-    "long": "-1.5808",
+  "Cramlington": {
     "cons": [
       "Blyth Valley"
     ],
+    "pop": "185047",
+    "lat": "55.086136",
+    "long": "-1.5808",
     "voteShare": {
       "Liberal Democrat": "4.4",
       "Conservative": "19.2",
@@ -21482,14 +21419,13 @@
       47
     ]
   },
-  {
-    "city": "Chesterfield",
-    "pop": "280040",
-    "lat": "53.235048",
-    "long": "-1.421629",
+  "Chesterfield": {
     "cons": [
       "Chesterfield"
     ],
+    "pop": "280040",
+    "lat": "53.235048",
+    "long": "-1.421629",
     "voteShare": {
       "Conservative": "36.7",
       "Liberal Democrat": "4.2",
@@ -21819,14 +21755,13 @@
       24
     ]
   },
-  {
-    "city": "Duckmanton",
-    "pop": "188952",
-    "lat": "53.244096",
-    "long": "-1.339234",
+  "Duckmanton": {
     "cons": [
       "Chesterfield"
     ],
+    "pop": "188952",
+    "lat": "53.244096",
+    "long": "-1.339234",
     "voteShare": {
       "Conservative": "18.1",
       "Liberal Democrat": "13.8",
@@ -22156,14 +22091,13 @@
       43
     ]
   },
-  {
-    "city": "Clay Cross/North Wingfield",
-    "pop": "186442",
-    "lat": "53.201056",
-    "long": "-1.39769",
+  "Clay Cross/North Wingfield": {
     "cons": [
       "North East Derbyshire"
     ],
+    "pop": "186442",
+    "lat": "53.201056",
+    "long": "-1.39769",
     "voteShare": {
       "Conservative": "36.7",
       "Liberal Democrat": "4.2",
@@ -22493,11 +22427,7 @@
       24
     ]
   },
-  {
-    "city": "Liverpool",
-    "pop": "1074069",
-    "lat": "53.408371",
-    "long": "-2.991573",
+  "Liverpool": {
     "cons": [
       "Bootle",
       "Garston and Halewood",
@@ -22509,6 +22439,9 @@
       "Sefton Central",
       "St Helens South and Whiston"
     ],
+    "pop": "1074069",
+    "lat": "53.408371",
+    "long": "-2.991573",
     "voteShare": {
       "Labour": "59.8",
       "Conservative": "15.9",
@@ -22838,15 +22771,14 @@
       52
     ]
   },
-  {
-    "city": "Skegness",
-    "pop": "200039",
-    "lat": "53.146403",
-    "long": "0.337881",
+  "Skegness": {
     "cons": [
       "Boston and Skegness",
       "Louth and Horncastle"
     ],
+    "pop": "200039",
+    "lat": "53.146403",
+    "long": "0.337881",
     "voteShare": {
       "Green Party": "3.1",
       "UKIP": "21.4",
@@ -23176,14 +23108,13 @@
       4
     ]
   },
-  {
-    "city": "Atherstone",
-    "pop": "190061",
-    "lat": "52.576614",
-    "long": "-1.543763",
+  "Atherstone": {
     "cons": [
       "North Warwickshire"
     ],
+    "pop": "190061",
+    "lat": "52.576614",
+    "long": "-1.543763",
     "voteShare": {
       "Conservative": "42.3",
       "UKIP": "17.4",
@@ -23513,14 +23444,13 @@
       17
     ]
   },
-  {
-    "city": "Markfield",
-    "pop": "196680",
-    "lat": "52.689224",
-    "long": "-1.277134",
+  "Markfield": {
     "cons": [
       "Charnwood"
     ],
+    "pop": "196680",
+    "lat": "52.689224",
+    "long": "-1.277134",
     "voteShare": {
       "Conservative": "54.3",
       "UKIP": "15.9",
@@ -23850,14 +23780,13 @@
       5
     ]
   },
-  {
-    "city": "Earl Shilton",
-    "pop": "201820",
-    "lat": "52.576391",
-    "long": "-1.311368",
+  "Earl Shilton": {
     "cons": [
       "Bosworth"
     ],
+    "pop": "201820",
+    "lat": "52.576391",
+    "long": "-1.311368",
     "voteShare": {
       "Conservative": "53.2",
       "UKIP": "17.4",
@@ -24187,11 +24116,7 @@
       5
     ]
   },
-  {
-    "city": "Bournemouth/Poole",
-    "pop": "553655",
-    "lat": "50.735494",
-    "long": "-1.9681",
+  "Bournemouth/Poole": {
     "cons": [
       "Bournemouth East",
       "Bournemouth West",
@@ -24200,6 +24125,9 @@
       "New Forest West",
       "Poole"
     ],
+    "pop": "553655",
+    "lat": "50.735494",
+    "long": "-1.9681",
     "voteShare": {
       "Conservative": "50.1",
       "Other": "3.7",
@@ -24529,11 +24457,7 @@
       10
     ]
   },
-  {
-    "city": "Reading",
-    "pop": "627823",
-    "lat": "51.454265",
-    "long": "-0.97813",
+  "Reading": {
     "cons": [
       "Henley",
       "Maidenhead",
@@ -24541,6 +24465,9 @@
       "Reading West",
       "Wokingham"
     ],
+    "pop": "627823",
+    "lat": "51.454265",
+    "long": "-0.97813",
     "voteShare": {
       "UKIP": "9.9",
       "Green Party": "3.7",
@@ -24870,14 +24797,13 @@
       14
     ]
   },
-  {
-    "city": "Bures",
-    "pop": "191557",
-    "lat": "51.973881",
-    "long": "0.777277",
+  "Bures": {
     "cons": [
       "Braintree"
     ],
+    "pop": "191557",
+    "lat": "51.973881",
+    "long": "0.777277",
     "voteShare": {
       "Other": "0.2",
       "Green Party": "4.3",
@@ -25207,14 +25133,13 @@
       4
     ]
   },
-  {
-    "city": "Braintree",
-    "pop": "188558",
-    "lat": "51.880087",
-    "long": "0.550927",
+  "Braintree": {
     "cons": [
       "Witham"
     ],
+    "pop": "188558",
+    "lat": "51.880087",
+    "long": "0.550927",
     "voteShare": {
       "Other": "0.2",
       "Green Party": "4.3",
@@ -25544,14 +25469,13 @@
       8
     ]
   },
-  {
-    "city": "Hay-on-Wye",
-    "pop": "167774",
-    "lat": "52.075697",
-    "long": "-3.125908",
+  "Hay-on-Wye": {
     "cons": [
       "Hereford and South Herefordshire"
     ],
+    "pop": "167774",
+    "lat": "52.075697",
+    "long": "-3.125908",
     "voteShare": {
       "Labour": "12.8",
       "Liberal Democrat": "10.6",
@@ -25881,14 +25805,13 @@
       11
     ]
   },
-  {
-    "city": "Matching Green",
-    "pop": "187785",
-    "lat": "51.77725",
-    "long": "0.228374",
+  "Matching Green": {
     "cons": [
       "Harlow"
     ],
+    "pop": "187785",
+    "lat": "51.77725",
+    "long": "0.228374",
     "voteShare": {
       "Labour": "30",
       "English Democrats": "0.3",
@@ -26218,14 +26141,13 @@
       10
     ]
   },
-  {
-    "city": "Bridgend",
-    "pop": "156430",
-    "lat": "51.504286",
-    "long": "-3.576945",
+  "Bridgend": {
     "cons": [
       "Bridgend"
     ],
+    "pop": "156430",
+    "lat": "51.504286",
+    "long": "-3.576945",
     "voteShare": {
       "Other": "0.2",
       "Independent": "1.9",
@@ -26555,15 +26477,14 @@
       48
     ]
   },
-  {
-    "city": "Burnham-on-Sea",
-    "pop": "212894",
-    "lat": "51.240139",
-    "long": "-2.993858",
+  "Burnham-on-Sea": {
     "cons": [
       "Bridgwater and West Somerset",
       "Wells"
     ],
+    "pop": "212894",
+    "lat": "51.240139",
+    "long": "-2.993858",
     "voteShare": {
       "UKIP": "9.9",
       "Liberal Democrat": "32.8",
@@ -26893,14 +26814,13 @@
       31
     ]
   },
-  {
-    "city": "Scunthorpe",
-    "pop": "177626",
-    "lat": "53.588646",
-    "long": "-0.654413",
+  "Scunthorpe": {
     "cons": [
       "Scunthorpe"
     ],
+    "pop": "177626",
+    "lat": "53.588646",
+    "long": "-0.654413",
     "voteShare": {
       "Labour": "41.7",
       "Green Party": "2.4",
@@ -27230,15 +27150,14 @@
       27
     ]
   },
-  {
-    "city": "Brigg",
-    "pop": "177626",
-    "lat": "53.55185",
-    "long": "-0.491887",
+  "Brigg": {
     "cons": [
       "Brigg and Goole",
       "Scunthorpe"
     ],
+    "pop": "177626",
+    "lat": "53.55185",
+    "long": "-0.491887",
     "voteShare": {
       "Labour": "41.7",
       "Green Party": "2.4",
@@ -27568,11 +27487,7 @@
       27
     ]
   },
-  {
-    "city": "Bristol",
-    "pop": "894959",
-    "lat": "51.454513",
-    "long": "-2.58791",
+  "Bristol": {
     "cons": [
       "Bristol East",
       "Bristol North West",
@@ -27584,6 +27499,9 @@
       "North East Somerset",
       "Thornbury and Yate"
     ],
+    "pop": "894959",
+    "lat": "51.454513",
+    "long": "-2.58791",
     "voteShare": {
       "Conservative": "41",
       "Green Party": "2.7",
@@ -27913,17 +27831,16 @@
       36
     ]
   },
-  {
-    "city": "Norwich",
-    "pop": "384868",
-    "lat": "52.669689",
-    "long": "1.27721",
+  "Norwich": {
     "cons": [
       "Broadland",
       "South Norfolk",
       "Norwich North",
       "Norwich South"
     ],
+    "pop": "384868",
+    "lat": "52.669689",
+    "long": "1.27721",
     "voteShare": {
       "Labour": "39.3",
       "Liberal Democrat": "13.6",
@@ -28253,14 +28170,13 @@
       36
     ]
   },
-  {
-    "city": "Briston",
+  "Briston": {
+    "cons": [
+      "North Norfolk"
+    ],
     "pop": "181019",
     "lat": "52.854035",
     "long": "1.061784",
-    "cons": [
-      "North Norfolk"
-    ],
     "voteShare": {
       "Labour": "10.2",
       "Liberal Democrat": "39.1",
@@ -28590,14 +28506,13 @@
       40
     ]
   },
-  {
-    "city": "Badersfield",
+  "Badersfield": {
+    "cons": [
+      "North Norfolk"
+    ],
     "pop": "181019",
     "lat": "52.763752",
     "long": "1.339471",
-    "cons": [
-      "North Norfolk"
-    ],
     "voteShare": {
       "Labour": "10.2",
       "Liberal Democrat": "39.1",
@@ -28927,14 +28842,13 @@
       40
     ]
   },
-  {
-    "city": "Hoveton",
+  "Hoveton": {
+    "cons": [
+      "North Norfolk"
+    ],
     "pop": "181019",
     "lat": "52.714772",
     "long": "1.411968",
-    "cons": [
-      "North Norfolk"
-    ],
     "voteShare": {
       "Labour": "10.2",
       "Liberal Democrat": "39.1",
@@ -29264,14 +29178,13 @@
       40
     ]
   },
-  {
-    "city": "Stoke Prior",
-    "pop": "190582",
-    "lat": "52.307352",
-    "long": "-2.073483",
+  "Stoke Prior": {
     "cons": [
       "Mid Worcestershire"
     ],
+    "pop": "190582",
+    "lat": "52.307352",
+    "long": "-2.073483",
     "voteShare": {
       "Green Party": "3.7",
       "Labour": "14.5",
@@ -29601,14 +29514,13 @@
       9
     ]
   },
-  {
-    "city": "Longwick",
-    "pop": "99702",
-    "lat": "51.735883",
-    "long": "-0.857024",
+  "Longwick": {
     "cons": [
       "Buckingham"
     ],
+    "pop": "99702",
+    "lat": "51.735883",
+    "long": "-0.857024",
     "voteShare": {
       "Green Party": "13.8",
       "Other": "64.5",
@@ -29938,15 +29850,14 @@
       84
     ]
   },
-  {
-    "city": "Burnley",
-    "pop": "268879",
-    "lat": "53.789288",
-    "long": "-2.240503",
+  "Burnley": {
     "cons": [
       "Burnley",
       "Pendle"
     ],
+    "pop": "268879",
+    "lat": "53.789288",
+    "long": "-2.240503",
     "voteShare": {
       "Labour": "34.9",
       "Liberal Democrat": "3.3",
@@ -30276,14 +30187,13 @@
       15
     ]
   },
-  {
-    "city": "Tutbury/Hatton",
-    "pop": "201016",
-    "lat": "52.875404",
-    "long": "-1.678171",
+  "Tutbury/Hatton": {
     "cons": [
       "South Derbyshire"
     ],
+    "pop": "201016",
+    "lat": "52.875404",
+    "long": "-1.678171",
     "voteShare": {
       "Labour": "26.8",
       "Liberal Democrat": "3.7",
@@ -30613,16 +30523,15 @@
       6
     ]
   },
-  {
-    "city": "Burton upon Trent",
-    "pop": "295830",
-    "lat": "52.814028",
-    "long": "-1.637136",
+  "Burton upon Trent": {
     "cons": [
       "Burton",
       "South Derbyshire",
       "North West Leicestershire"
     ],
+    "pop": "295830",
+    "lat": "52.814028",
+    "long": "-1.637136",
     "voteShare": {
       "Labour": "27.4",
       "Liberal Democrat": "3.9",
@@ -30952,14 +30861,13 @@
       7
     ]
   },
-  {
-    "city": "Bacton",
-    "pop": "214025",
-    "lat": "52.849274",
-    "long": "1.464567",
+  "Bacton": {
     "cons": [
       "Bury St Edmunds"
     ],
+    "pop": "214025",
+    "lat": "52.849274",
+    "long": "1.464567",
     "voteShare": {
       "Conservative": "56.1",
       "UKIP": "13.8",
@@ -31289,14 +31197,13 @@
       7
     ]
   },
-  {
-    "city": "Wattisham Airfield",
-    "pop": "207160",
-    "lat": "52.123998",
-    "long": "0.968281",
+  "Wattisham Airfield": {
     "cons": [
       "South Suffolk"
     ],
+    "pop": "207160",
+    "lat": "52.123998",
+    "long": "0.968281",
     "voteShare": {
       "Conservative": "53.1",
       "UKIP": "15.2",
@@ -31626,11 +31533,7 @@
       4
     ]
   },
-  {
-    "city": "Cardiff",
-    "pop": "716679",
-    "lat": "51.481581",
-    "long": "-3.17909",
+  "Cardiff": {
     "cons": [
       "Caerphilly",
       "Cardiff Central",
@@ -31641,6 +31544,9 @@
       "Pontypridd",
       "Vale of Glamorgan"
     ],
+    "pop": "716679",
+    "lat": "51.481581",
+    "long": "-3.17909",
     "voteShare": {
       "Liberal Democrat": "2.6",
       "Plaid Cymru": "5.6",
@@ -31970,14 +31876,13 @@
       16
     ]
   },
-  {
-    "city": "Treharris",
-    "pop": "162663",
-    "lat": "51.664972",
-    "long": "-3.30586",
+  "Treharris": {
     "cons": [
       "Merthyr Tydfil and Rhymney"
     ],
+    "pop": "162663",
+    "lat": "51.664972",
+    "long": "-3.30586",
     "voteShare": {
       "Liberal Democrat": "4.1",
       "Plaid Cymru": "9.5",
@@ -32307,14 +32212,13 @@
       53
     ]
   },
-  {
-    "city": "St Day",
-    "pop": "178369",
-    "lat": "50.238767",
-    "long": "-5.187696",
+  "St Day": {
     "cons": [
       "Truro and Falmouth"
     ],
+    "pop": "178369",
+    "lat": "50.238767",
+    "long": "-5.187696",
     "voteShare": {
       "Other": "0.1",
       "Liberal Democrat": "16.8",
@@ -32644,15 +32548,14 @@
       16
     ]
   },
-  {
-    "city": "Falmouth",
-    "pop": "178369",
-    "lat": "50.152571",
-    "long": "-5.06627",
+  "Falmouth": {
     "cons": [
       "Camborne and Redruth",
       "Truro and Falmouth"
     ],
+    "pop": "178369",
+    "lat": "50.152571",
+    "long": "-5.06627",
     "voteShare": {
       "Other": "0.1",
       "Liberal Democrat": "16.8",
@@ -32982,16 +32885,15 @@
       16
     ]
   },
-  {
-    "city": "Cambridge",
-    "pop": "345836",
-    "lat": "52.205337",
-    "long": "0.121817",
+  "Cambridge": {
     "cons": [
       "Cambridge",
       "South Cambridgeshire",
       "South East Cambridgeshire"
     ],
+    "pop": "345836",
+    "lat": "52.205337",
+    "long": "0.121817",
     "voteShare": {
       "Liberal Democrat": "20.2",
       "Conservative": "48.5",
@@ -33321,15 +33223,14 @@
       17
     ]
   },
-  {
-    "city": "Wisbech",
-    "pop": "219152",
-    "lat": "52.666317",
-    "long": "0.158797",
+  "Wisbech": {
     "cons": [
       "North East Cambridgeshire",
       "South West Norfolk"
     ],
+    "pop": "219152",
+    "lat": "52.666317",
+    "long": "0.158797",
     "voteShare": {
       "Liberal Democrat": "4.4",
       "Green Party": "4.1",
@@ -33659,14 +33560,13 @@
       6
     ]
   },
-  {
-    "city": "Market Deeping",
-    "pop": "230303",
-    "lat": "52.67959",
-    "long": "-0.321622",
+  "Market Deeping": {
     "cons": [
       "South Holland and The Deepings"
     ],
+    "pop": "230303",
+    "lat": "52.67959",
+    "long": "-0.321622",
     "voteShare": {
       "Conservative": "59.6",
       "Labour": "12.4",
@@ -33996,14 +33896,13 @@
       13
     ]
   },
-  {
-    "city": "Peterborough",
-    "pop": "245170",
-    "lat": "52.569498",
-    "long": "-0.24053",
+  "Peterborough": {
     "cons": [
       "Peterborough"
     ],
+    "pop": "245170",
+    "lat": "52.569498",
+    "long": "-0.24053",
     "voteShare": {
       "Conservative": "39.7",
       "Labour": "35.6",
@@ -34333,15 +34232,14 @@
       18
     ]
   },
-  {
-    "city": "Stamford",
-    "pop": "335960",
-    "lat": "52.651282",
-    "long": "-0.480216",
+  "Stamford": {
     "cons": [
       "North West Cambridgeshire",
       "Grantham and Stamford"
     ],
+    "pop": "335960",
+    "lat": "52.651282",
+    "long": "-0.480216",
     "voteShare": {
       "Conservative": "55.6",
       "Labour": "15.4",
@@ -34671,14 +34569,13 @@
       7
     ]
   },
-  {
-    "city": "Great Gransden",
-    "pop": "227639",
-    "lat": "52.185931",
-    "long": "-0.146308",
+  "Great Gransden": {
     "cons": [
       "Huntingdon"
     ],
+    "pop": "227639",
+    "lat": "52.185931",
+    "long": "-0.146308",
     "voteShare": {
       "Green Party": "3.9",
       "UKIP": "16.9",
@@ -35008,14 +34905,13 @@
       4
     ]
   },
-  {
-    "city": "Newmarket",
-    "pop": "233321",
-    "lat": "52.24488",
-    "long": "0.407962",
+  "Newmarket": {
     "cons": [
       "West Suffolk"
     ],
+    "pop": "233321",
+    "lat": "52.24488",
+    "long": "0.407962",
     "voteShare": {
       "Green Party": "3.6",
       "UKIP": "21.7",
@@ -35345,14 +35241,13 @@
       5
     ]
   },
-  {
-    "city": "Cannock",
-    "pop": "193865",
-    "lat": "52.699941",
-    "long": "-2.021829",
+  "Cannock": {
     "cons": [
       "Cannock Chase"
     ],
+    "pop": "193865",
+    "lat": "52.699941",
+    "long": "-2.021829",
     "voteShare": {
       "UKIP": "16.7",
       "Conservative": "59.4",
@@ -35682,14 +35577,13 @@
       9
     ]
   },
-  {
-    "city": "Herne Bay/Whitstable",
+  "Herne Bay/Whitstable": {
+    "cons": [
+      "North Thanet"
+    ],
     "pop": "208091",
     "lat": "51.362997",
     "long": "1.061221",
-    "cons": [
-      "North Thanet"
-    ],
     "voteShare": {
       "Conservative": "49",
       "Labour": "17.9",
@@ -36019,14 +35913,13 @@
       8
     ]
   },
-  {
-    "city": "Sturry",
+  "Sturry": {
+    "cons": [
+      "North Thanet"
+    ],
     "pop": "208091",
     "lat": "51.303576",
     "long": "1.121071",
-    "cons": [
-      "North Thanet"
-    ],
     "voteShare": {
       "Conservative": "49",
       "Labour": "17.9",
@@ -36356,14 +36249,13 @@
       8
     ]
   },
-  {
-    "city": "Barry",
-    "pop": "208375",
-    "lat": "56.980884",
-    "long": "-7.456796",
+  "Barry": {
     "cons": [
       "Vale of Glamorgan"
     ],
+    "pop": "208375",
+    "lat": "56.980884",
+    "long": "-7.456796",
     "voteShare": {
       "Conservative": "46",
       "Plaid Cymru": "5.6",
@@ -36693,15 +36585,14 @@
       16
     ]
   },
-  {
-    "city": "Carlisle",
-    "pop": "168279",
-    "lat": "54.892473",
-    "long": "-2.932931",
+  "Carlisle": {
     "cons": [
       "Carlisle",
       "Penrith and The Border"
     ],
+    "pop": "168279",
+    "lat": "54.892473",
+    "long": "-2.932931",
     "voteShare": {
       "Labour": "14.4",
       "Green Party": "5.3",
@@ -37031,14 +36922,13 @@
       12
     ]
   },
-  {
-    "city": "Wetheral",
-    "pop": "168279",
-    "lat": "54.881806",
-    "long": "-2.833422",
+  "Wetheral": {
     "cons": [
       "Penrith and The Border"
     ],
+    "pop": "168279",
+    "lat": "54.881806",
+    "long": "-2.833422",
     "voteShare": {
       "Labour": "14.4",
       "Green Party": "5.3",
@@ -37368,14 +37258,13 @@
       12
     ]
   },
-  {
-    "city": "Gwaun-Cae-Gurwen/Brynamman",
+  "Gwaun-Cae-Gurwen/Brynamman": {
+    "cons": [
+      "Neath"
+    ],
     "pop": "145001",
     "lat": "51.812582",
     "long": "-3.868359",
-    "cons": [
-      "Neath"
-    ],
     "voteShare": {
       "Green Party": "3.2",
       "Liberal Democrat": "3.2",
@@ -37705,14 +37594,13 @@
       46
     ]
   },
-  {
-    "city": "Cwmllynfell",
+  "Cwmllynfell": {
+    "cons": [
+      "Neath"
+    ],
     "pop": "145001",
     "lat": "51.802336",
     "long": "-3.824366",
-    "cons": [
-      "Neath"
-    ],
     "voteShare": {
       "Green Party": "3.2",
       "Liberal Democrat": "3.2",
@@ -38042,14 +37930,13 @@
       46
     ]
   },
-  {
-    "city": "Newcastle Emlyn",
-    "pop": "147270",
-    "lat": "52.037442",
-    "long": "-4.468711",
+  "Newcastle Emlyn": {
     "cons": [
       "Ceredigion"
     ],
+    "pop": "147270",
+    "lat": "52.037442",
+    "long": "-4.468711",
     "voteShare": {
       "Green Party": "5.6",
       "Liberal Democrat": "35.9",
@@ -38379,15 +38266,14 @@
       58
     ]
   },
-  {
-    "city": "Ammanford",
-    "pop": "153075",
-    "lat": "51.792888",
-    "long": "-3.988459",
+  "Ammanford": {
     "cons": [
       "Carmarthen East and Dinefwr",
       "Llanelli"
     ],
+    "pop": "153075",
+    "lat": "51.792888",
+    "long": "-3.988459",
     "voteShare": {
       "Green Party": "1.8",
       "Liberal Democrat": "1.9",
@@ -38717,14 +38603,13 @@
       47
     ]
   },
-  {
-    "city": "Carmarthen",
-    "pop": "148690",
-    "lat": "51.85762",
-    "long": "-4.312131",
+  "Carmarthen": {
     "cons": [
       "Carmarthen West and South Pembrokeshire"
     ],
+    "pop": "148690",
+    "lat": "51.85762",
+    "long": "-4.312131",
     "voteShare": {
       "Green Party": "3.2",
       "Liberal Democrat": "2.4",
@@ -39054,14 +38939,13 @@
       16
     ]
   },
-  {
-    "city": "Llandysul",
-    "pop": "147270",
-    "lat": "52.041675",
-    "long": "-4.309198",
+  "Llandysul": {
     "cons": [
       "Ceredigion"
     ],
+    "pop": "147270",
+    "lat": "52.041675",
+    "long": "-4.309198",
     "voteShare": {
       "Green Party": "5.6",
       "Liberal Democrat": "35.9",
@@ -39391,14 +39275,13 @@
       58
     ]
   },
-  {
-    "city": "Pontyates",
-    "pop": "153075",
-    "lat": "51.754874",
-    "long": "-4.220686",
+  "Pontyates": {
     "cons": [
       "Llanelli"
     ],
+    "pop": "153075",
+    "lat": "51.754874",
+    "long": "-4.220686",
     "voteShare": {
       "Green Party": "1.8",
       "Liberal Democrat": "1.9",
@@ -39728,14 +39611,13 @@
       47
     ]
   },
-  {
-    "city": "Lamphey",
-    "pop": "77384",
-    "lat": "51.668477",
-    "long": "-4.871848",
+  "Lamphey": {
     "cons": [
       "Carmarthen West and South Pembrokeshire"
     ],
+    "pop": "77384",
+    "lat": "51.668477",
+    "long": "-4.871848",
     "voteShare": {
       "Plaid Cymru": "10.4",
       "Green Party": "3.2",
@@ -40065,17 +39947,16 @@
       16
     ]
   },
-  {
-    "city": "Southend-on-Sea",
-    "pop": "378437",
-    "lat": "51.545927",
-    "long": "0.707712",
+  "Southend-on-Sea": {
     "cons": [
       "Castle Point",
       "Rayleigh and Wickford",
       "Rochford and Southend East",
       "Southend West"
     ],
+    "pop": "378437",
+    "lat": "51.545927",
+    "long": "0.707712",
     "voteShare": {
       "UKIP": "17.5",
       "Conservative": "49.8",
@@ -40405,15 +40286,14 @@
       6
     ]
   },
-  {
-    "city": "Cardigan",
-    "pop": "153447",
-    "lat": "52.083703",
-    "long": "-4.660864",
+  "Cardigan": {
     "cons": [
       "Ceredigion",
       "Preseli Pembrokeshire"
     ],
+    "pop": "153447",
+    "lat": "52.083703",
+    "long": "-4.660864",
     "voteShare": {
       "UKIP": "10.5",
       "Green Party": "3.6",
@@ -40743,11 +40623,7 @@
       18
     ]
   },
-  {
-    "city": "Leicester",
-    "pop": "736725",
-    "lat": "52.636878",
-    "long": "-1.139759",
+  "Leicester": {
     "cons": [
       "Charnwood",
       "Harborough",
@@ -40757,6 +40633,9 @@
       "South Leicestershire",
       "Rutland and Melton"
     ],
+    "pop": "736725",
+    "lat": "52.636878",
+    "long": "-1.139759",
     "voteShare": {
       "Liberal Democrat": "8.1",
       "Other": "0.9",
@@ -41086,14 +40965,13 @@
       8
     ]
   },
-  {
-    "city": "Sileby/Barrow upon Soar",
+  "Sileby/Barrow upon Soar": {
+    "cons": [
+      "Loughborough"
+    ],
     "pop": "198560",
     "lat": "52.75371",
     "long": "-1.145824",
-    "cons": [
-      "Loughborough"
-    ],
     "voteShare": {
       "Liberal Democrat": "4.1",
       "Other": "0.9",
@@ -41423,14 +41301,13 @@
       13
     ]
   },
-  {
-    "city": "Mountsorrel",
+  "Mountsorrel": {
+    "cons": [
+      "Loughborough"
+    ],
     "pop": "198560",
     "lat": "52.725644",
     "long": "-1.140136",
-    "cons": [
-      "Loughborough"
-    ],
     "voteShare": {
       "Liberal Democrat": "4.1",
       "Other": "0.9",
@@ -41760,14 +41637,13 @@
       13
     ]
   },
-  {
-    "city": "Ditton",
-    "pop": "200990",
-    "lat": "51.294626",
-    "long": "0.453853",
+  "Ditton": {
     "cons": [
       "Tonbridge and Malling"
     ],
+    "pop": "200990",
+    "lat": "51.294626",
+    "long": "0.453853",
     "voteShare": {
       "Christian Peoples Alliance": "0.3",
       "Green Party": "4.4",
@@ -42097,11 +41973,7 @@
       11
     ]
   },
-  {
-    "city": "Medway Towns",
-    "pop": "618207",
-    "lat": "51.397485",
-    "long": "0.544389",
+  "Medway Towns": {
     "cons": [
       "Chatham and Aylesford",
       "Faversham and Mid Kent",
@@ -42109,6 +41981,9 @@
       "Rochester and Strood",
       "Sittingbourne and Sheppey"
     ],
+    "pop": "618207",
+    "lat": "51.397485",
+    "long": "0.544389",
     "voteShare": {
       "Christian Peoples Alliance": "0.3",
       "Green Party": "2.4",
@@ -42438,15 +42313,14 @@
       7
     ]
   },
-  {
-    "city": "Chelmsford",
-    "pop": "301731",
-    "lat": "51.735587",
-    "long": "0.46855",
+  "Chelmsford": {
     "cons": [
       "Chelmsford",
       "Saffron Walden"
     ],
+    "pop": "301731",
+    "lat": "51.735587",
+    "long": "0.46855",
     "voteShare": {
       "UKIP": "13.8",
       "Green Party": "3.8",
@@ -42776,14 +42650,13 @@
       13
     ]
   },
-  {
-    "city": "Cheltenham",
-    "pop": "205649",
-    "lat": "51.899386",
-    "long": "-2.078253",
+  "Cheltenham": {
     "cons": [
       "Cheltenham"
     ],
+    "pop": "205649",
+    "lat": "51.899386",
+    "long": "-2.078253",
     "voteShare": {
       "Conservative": "54.5",
       "Green Party": "4",
@@ -43113,14 +42986,13 @@
       11
     ]
   },
-  {
-    "city": "Bovingdon",
-    "pop": "200692",
-    "lat": "51.723391",
-    "long": "-0.534632",
+  "Bovingdon": {
     "cons": [
       "Chesham and Amersham"
     ],
+    "pop": "200692",
+    "lat": "51.723391",
+    "long": "-0.534632",
     "voteShare": {
       "UKIP": "11.5",
       "Labour": "16.3",
@@ -43450,14 +43322,13 @@
       11
     ]
   },
-  {
-    "city": "Rossett",
-    "pop": "165504",
-    "lat": "53.110472",
-    "long": "-2.950822",
+  "Rossett": {
     "cons": [
       "Wrexham"
     ],
+    "pop": "165504",
+    "lat": "53.110472",
+    "long": "-2.950822",
     "voteShare": {
       "UKIP": "15.5",
       "Conservative": "31.6",
@@ -43787,14 +43658,13 @@
       26
     ]
   },
-  {
-    "city": "Haslemere",
-    "pop": "209696",
-    "lat": "51.090856",
-    "long": "-0.713373",
+  "Haslemere": {
     "cons": [
       "Chichester"
     ],
+    "pop": "209696",
+    "lat": "51.090856",
+    "long": "-0.713373",
     "voteShare": {
       "Other": "8.5",
       "Liberal Democrat": "6.3",
@@ -44124,14 +43994,13 @@
       18
     ]
   },
-  {
-    "city": "Emsworth",
-    "pop": "198572",
-    "lat": "50.848132",
-    "long": "-0.937928",
+  "Emsworth": {
     "cons": [
       "Havant"
     ],
+    "pop": "198572",
+    "lat": "50.848132",
+    "long": "-0.937928",
     "voteShare": {
       "Other": "0.2",
       "Liberal Democrat": "6.5",
@@ -44461,14 +44330,13 @@
       6
     ]
   },
-  {
-    "city": "Liss",
-    "pop": "202542",
-    "lat": "51.04273",
-    "long": "-0.891776",
+  "Liss": {
     "cons": [
       "East Hampshire"
     ],
+    "pop": "202542",
+    "lat": "51.04273",
+    "long": "-0.891776",
     "voteShare": {
       "Other": "0.2",
       "Liberal Democrat": "11.1",
@@ -44798,14 +44666,13 @@
       16
     ]
   },
-  {
-    "city": "Corsham",
-    "pop": "187628",
-    "lat": "51.431443",
-    "long": "-2.189674",
+  "Corsham": {
     "cons": [
       "North Wiltshire"
     ],
+    "pop": "187628",
+    "lat": "51.431443",
+    "long": "-2.189674",
     "voteShare": {
       "Liberal Democrat": "15.6",
       "Conservative": "57.2",
@@ -45135,14 +45002,13 @@
       17
     ]
   },
-  {
-    "city": "Limpley Stoke",
-    "pop": "186036",
-    "lat": "51.35295",
-    "long": "-2.319729",
+  "Limpley Stoke": {
     "cons": [
       "North East Somerset"
     ],
+    "pop": "186036",
+    "lat": "51.35295",
+    "long": "-2.319729",
     "voteShare": {
       "Liberal Democrat": "7.9",
       "Conservative": "49.8",
@@ -45472,15 +45338,14 @@
       7
     ]
   },
-  {
-    "city": "Trowbridge",
-    "pop": "196789",
-    "lat": "51.319664",
-    "long": "-2.208853",
+  "Trowbridge": {
     "cons": [
       "Chippenham",
       "South West Wiltshire"
     ],
+    "pop": "196789",
+    "lat": "51.319664",
+    "long": "-2.208853",
     "voteShare": {
       "Liberal Democrat": "10.6",
       "Conservative": "52.7",
@@ -45810,11 +45675,7 @@
       9
     ]
   },
-  {
-    "city": "Preston",
-    "pop": "559361",
-    "lat": "53.763201",
-    "long": "-2.70309",
+  "Preston": {
     "cons": [
       "Chorley",
       "Fylde",
@@ -45823,6 +45684,9 @@
       "South Ribble",
       "Wyre and Preston North"
     ],
+    "pop": "559361",
+    "lat": "53.763201",
+    "long": "-2.70309",
     "voteShare": {
       "Green Party": "3.4",
       "Labour": "24.8",
@@ -46152,14 +46016,13 @@
       7
     ]
   },
-  {
-    "city": "Eccleston",
-    "pop": "195370",
-    "lat": "53.646615",
-    "long": "-2.725534",
+  "Eccleston": {
     "cons": [
       "South Ribble"
     ],
+    "pop": "195370",
+    "lat": "53.646615",
+    "long": "-2.725534",
     "voteShare": {
       "Green Party": "2.1",
       "Labour": "35.1",
@@ -46489,14 +46352,13 @@
       15
     ]
   },
-  {
-    "city": "Thorpe-le-Soken",
-    "pop": "85838",
-    "lat": "51.857095",
-    "long": "1.161803",
+  "Thorpe-le-Soken": {
     "cons": [
       "Clacton"
     ],
+    "pop": "85838",
+    "lat": "51.857095",
+    "long": "1.161803",
     "voteShare": {
       "Liberal Democrat": "1.8",
       "Green Party": "2.7",
@@ -46826,15 +46688,14 @@
       30
     ]
   },
-  {
-    "city": "Grimsby",
-    "pop": "182227",
-    "lat": "53.567471",
-    "long": "-0.080784",
+  "Grimsby": {
     "cons": [
       "Cleethorpes",
       "Great Grimsby"
     ],
+    "pop": "182227",
+    "lat": "53.567471",
+    "long": "-0.080784",
     "voteShare": {
       "Green Party": "2.3",
       "UKIP": "25",
@@ -47164,15 +47025,14 @@
       31
     ]
   },
-  {
-    "city": "Wrexham",
-    "pop": "143963",
-    "lat": "53.04304",
-    "long": "-2.992494",
+  "Wrexham": {
     "cons": [
       "Clwyd South",
       "Wrexham"
     ],
+    "pop": "143963",
+    "lat": "53.04304",
+    "long": "-2.992494",
     "voteShare": {
       "Labour": "37.2",
       "Green Party": "2",
@@ -47502,16 +47362,15 @@
       26
     ]
   },
-  {
-    "city": "Colchester",
-    "pop": "293736",
-    "lat": "51.895927",
-    "long": "0.891874",
+  "Colchester": {
     "cons": [
       "Colchester",
       "Harwich and North Essex",
       "Witham"
     ],
+    "pop": "293736",
+    "lat": "51.895927",
+    "long": "0.891874",
     "voteShare": {
       "Christian Peoples Alliance": "0.2",
       "Liberal Democrat": "6.1",
@@ -47841,11 +47700,7 @@
       8
     ]
   },
-  {
-    "city": "Stoke-on-Trent",
-    "pop": "615893",
-    "lat": "53.002668",
-    "long": "-2.179404",
+  "Stoke-on-Trent": {
     "cons": [
       "Congleton",
       "Newcastle-under-Lyme",
@@ -47855,6 +47710,9 @@
       "Stoke-on-Trent South",
       "Stone"
     ],
+    "pop": "615893",
+    "lat": "53.002668",
+    "long": "-2.179404",
     "voteShare": {
       "UKIP": "16.2",
       "Labour": "20.2",
@@ -48184,14 +48042,13 @@
       5
     ]
   },
-  {
-    "city": "Alsager",
-    "pop": "200880",
-    "lat": "53.095402",
-    "long": "-2.304657",
+  "Alsager": {
     "cons": [
       "Crewe and Nantwich"
     ],
+    "pop": "200880",
+    "lat": "53.095402",
+    "long": "-2.304657",
     "voteShare": {
       "UKIP": "14.5",
       "Labour": "37.7",
@@ -48521,14 +48378,13 @@
       18
     ]
   },
-  {
-    "city": "Whitehaven",
-    "pop": "80155",
-    "lat": "54.549699",
-    "long": "-3.589233",
+  "Whitehaven": {
     "cons": [
       "Copeland"
     ],
+    "pop": "80155",
+    "lat": "54.549699",
+    "long": "-3.589233",
     "voteShare": {
       "Conservative": "35.8",
       "Labour": "42.3",
@@ -48858,14 +48714,13 @@
       26
     ]
   },
-  {
-    "city": "Little Addington",
-    "pop": "113450",
-    "lat": "52.351276",
-    "long": "-0.587897",
+  "Little Addington": {
     "cons": [
       "Corby"
     ],
+    "pop": "113450",
+    "lat": "52.351276",
+    "long": "-0.587897",
     "voteShare": {
       "Conservative": "42.8",
       "Labour": "38.5",
@@ -49195,14 +49050,13 @@
       20
     ]
   },
-  {
-    "city": "Poughill",
-    "pop": "89497",
-    "lat": "50.840987",
-    "long": "-4.527221",
+  "Poughill": {
     "cons": [
       "North Cornwall"
     ],
+    "pop": "89497",
+    "lat": "50.840987",
+    "long": "-4.527221",
     "voteShare": {
       "Other": "0.1",
       "Liberal Democrat": "31.2",
@@ -49532,14 +49386,13 @@
       30
     ]
   },
-  {
-    "city": "Looe",
-    "pop": "88440",
-    "lat": "50.356227",
-    "long": "-4.455232",
+  "Looe": {
     "cons": [
       "South East Cornwall"
     ],
+    "pop": "88440",
+    "lat": "50.356227",
+    "long": "-4.455232",
     "voteShare": {
       "UKIP": "15.2",
       "Labour": "9.3",
@@ -49869,14 +49722,13 @@
       16
     ]
   },
-  {
-    "city": "Stroud",
-    "pop": "197999",
-    "lat": "51.745734",
-    "long": "-2.217758",
+  "Stroud": {
     "cons": [
       "The Cotswolds"
     ],
+    "pop": "197999",
+    "lat": "51.745734",
+    "long": "-2.217758",
     "voteShare": {
       "Conservative": "45.7",
       "Labour": "37.7",
@@ -50206,11 +50058,7 @@
       20
     ]
   },
-  {
-    "city": "Coventry",
-    "pop": "599731",
-    "lat": "52.406822",
-    "long": "-1.519693",
+  "Coventry": {
     "cons": [
       "Coventry North East",
       "Coventry North West",
@@ -50219,6 +50067,9 @@
       "Rugby",
       "North Warwickshire"
     ],
+    "pop": "599731",
+    "lat": "52.406822",
+    "long": "-1.519693",
     "voteShare": {
       "Green Party": "1.9",
       "Labour": "36",
@@ -50548,11 +50399,7 @@
       17
     ]
   },
-  {
-    "city": "Crawley",
-    "pop": "733024",
-    "lat": "51.10914",
-    "long": "-0.187228",
+  "Crawley": {
     "cons": [
       "Crawley",
       "Horsham",
@@ -50560,6 +50407,9 @@
       "Mid Sussex",
       "Wealden"
     ],
+    "pop": "733024",
+    "lat": "51.10914",
+    "long": "-0.187228",
     "voteShare": {
       "Green Party": "6.4",
       "Conservative": "57",
@@ -50889,14 +50739,13 @@
       12
     ]
   },
-  {
-    "city": "Weston (Cheshire East)",
-    "pop": "108501",
-    "lat": "53.066854",
-    "long": "-2.40051",
+  "Weston (Cheshire East)": {
     "cons": [
       "Crewe and Nantwich"
     ],
+    "pop": "108501",
+    "lat": "53.066854",
+    "long": "-2.40051",
     "voteShare": {
       "Liberal Democrat": "2.8",
       "UKIP": "14.5",
@@ -51226,15 +51075,14 @@
       18
     ]
   },
-  {
-    "city": "Darlington",
-    "pop": "174883",
-    "lat": "54.52361",
-    "long": "-1.559458",
+  "Darlington": {
     "cons": [
       "Darlington",
       "Sedgefield"
     ],
+    "pop": "174883",
+    "lat": "54.52361",
+    "long": "-1.559458",
     "voteShare": {
       "Conservative": "29.5",
       "UKIP": "16.6",
@@ -51564,14 +51412,13 @@
       34
     ]
   },
-  {
-    "city": "Hartley",
+  "Hartley": {
+    "cons": [
+      "Sevenoaks"
+    ],
     "pop": "201421",
     "lat": "51.385147",
     "long": "0.304983",
-    "cons": [
-      "Sevenoaks"
-    ],
     "voteShare": {
       "Liberal Democrat": "7.9",
       "UKIP": "17.9",
@@ -51901,14 +51748,13 @@
       10
     ]
   },
-  {
-    "city": "South Darenth",
+  "South Darenth": {
+    "cons": [
+      "Sevenoaks"
+    ],
     "pop": "201421",
     "lat": "51.403683",
     "long": "0.247289",
-    "cons": [
-      "Sevenoaks"
-    ],
     "voteShare": {
       "Liberal Democrat": "7.9",
       "UKIP": "17.9",
@@ -52238,17 +52084,16 @@
       10
     ]
   },
-  {
-    "city": "Northampton",
-    "pop": "389907",
-    "lat": "52.240477",
-    "long": "-0.902656",
+  "Northampton": {
     "cons": [
       "Daventry",
       "Northampton North",
       "Northampton South",
       "South Northamptonshire"
     ],
+    "pop": "389907",
+    "lat": "52.240477",
+    "long": "-0.902656",
     "voteShare": {
       "Conservative": "60.1",
       "Labour": "16.7",
@@ -52578,14 +52423,13 @@
       11
     ]
   },
-  {
-    "city": "Pen-y-ffordd",
-    "pop": "70003",
-    "lat": "53.327895",
-    "long": "-3.302742",
+  "Pen-y-ffordd": {
     "cons": [
       "Delyn"
     ],
+    "pop": "70003",
+    "lat": "53.327895",
+    "long": "-3.302742",
     "voteShare": {
       "Green Party": "1.8",
       "Labour": "40.5",
@@ -52915,16 +52759,15 @@
       27
     ]
   },
-  {
-    "city": "Derby",
-    "pop": "393893",
-    "lat": "52.92253",
-    "long": "-1.474619",
+  "Derby": {
     "cons": [
       "Derby North",
       "Derby South",
       "South Derbyshire"
     ],
+    "pop": "393893",
+    "lat": "52.92253",
+    "long": "-1.474619",
     "voteShare": {
       "Labour": "26.8",
       "UKIP": "17.7",
@@ -53254,14 +53097,13 @@
       6
     ]
   },
-  {
-    "city": "Clifton (Derbyshire Dales)",
-    "pop": "78930",
-    "lat": "53.001771",
-    "long": "-1.752689",
+  "Clifton (Derbyshire Dales)": {
     "cons": [
       "Derbyshire Dales"
     ],
+    "pop": "78930",
+    "lat": "53.001771",
+    "long": "-1.752689",
     "voteShare": {
       "Other": "0.3",
       "Labour": "22.7",
@@ -53591,11 +53433,7 @@
       7
     ]
   },
-  {
-    "city": "Sheffield",
-    "pop": "965866",
-    "lat": "53.381129",
-    "long": "-1.470085",
+  "Sheffield": {
     "cons": [
       "North East Derbyshire",
       "Penistone and Stocksbridge",
@@ -53608,6 +53446,9 @@
       "Sheffield South East",
       "Wentworth and Dearne"
     ],
+    "pop": "965866",
+    "lat": "53.381129",
+    "long": "-1.470085",
     "voteShare": {
       "Conservative": "14.9",
       "UKIP": "24.9",
@@ -53937,14 +53778,13 @@
       51
     ]
   },
-  {
-    "city": "Strangways",
-    "pop": "100162",
-    "lat": "50.259698",
-    "long": "-5.05299",
+  "Strangways": {
     "cons": [
       "Devizes"
     ],
+    "pop": "100162",
+    "lat": "50.259698",
+    "long": "-5.05299",
     "voteShare": {
       "Liberal Democrat": "8.1",
       "Green Party": "5.8",
@@ -54274,16 +54114,15 @@
       11
     ]
   },
-  {
-    "city": "Exeter",
-    "pop": "295853",
-    "lat": "50.718412",
-    "long": "-3.533899",
+  "Exeter": {
     "cons": [
       "Central Devon",
       "East Devon",
       "Exeter"
     ],
+    "pop": "295853",
+    "lat": "50.718412",
+    "long": "-3.533899",
     "voteShare": {
       "Liberal Democrat": "4.3",
       "Green Party": "6.5",
@@ -54613,14 +54452,13 @@
       40
     ]
   },
-  {
-    "city": "Combe Martin",
-    "pop": "93825",
-    "lat": "51.199479",
-    "long": "-4.024285",
+  "Combe Martin": {
     "cons": [
       "North Devon"
     ],
+    "pop": "93825",
+    "lat": "51.199479",
+    "long": "-4.024285",
     "voteShare": {
       "Liberal Democrat": "29.4",
       "Conservative": "42.7",
@@ -54950,16 +54788,15 @@
       28
     ]
   },
-  {
-    "city": "Plymouth",
-    "pop": "293534",
-    "lat": "50.375457",
-    "long": "-4.142656",
+  "Plymouth": {
     "cons": [
       "South West Devon",
       "Plymouth, Moor View",
       "Plymouth, Sutton and Devonport"
     ],
+    "pop": "293534",
+    "lat": "50.375457",
+    "long": "-4.142656",
     "voteShare": {
       "UKIP": "14",
       "Liberal Democrat": "4.2",
@@ -55289,14 +55126,13 @@
       21
     ]
   },
-  {
-    "city": "Dousland",
-    "pop": "98555",
-    "lat": "50.501665",
-    "long": "-4.063988",
+  "Dousland": {
     "cons": [
       "Torridge and West Devon"
     ],
+    "pop": "98555",
+    "lat": "50.501665",
+    "long": "-4.063988",
     "voteShare": {
       "UKIP": "18.3",
       "Green Party": "7",
@@ -55626,14 +55462,13 @@
       13
     ]
   },
-  {
-    "city": "Thorne",
-    "pop": "197447",
-    "lat": "53.610421",
-    "long": "-0.96144",
+  "Thorne": {
     "cons": [
       "Doncaster North"
     ],
+    "pop": "197447",
+    "lat": "53.610421",
+    "long": "-0.96144",
     "voteShare": {
       "Conservative": "18.3",
       "TUSC": "0.7",
@@ -55963,15 +55798,14 @@
       45
     ]
   },
-  {
-    "city": "Doncaster",
-    "pop": "303622",
-    "lat": "53.52282",
-    "long": "-1.128462",
+  "Doncaster": {
     "cons": [
       "Don Valley",
       "Doncaster Central"
     ],
+    "pop": "303622",
+    "lat": "53.52282",
+    "long": "-1.128462",
     "voteShare": {
       "Conservative": "18.3",
       "TUSC": "0.7",
@@ -56301,14 +56135,13 @@
       45
     ]
   },
-  {
-    "city": "Dunscroft",
-    "pop": "197447",
-    "lat": "53.57712",
-    "long": "-1.02001",
+  "Dunscroft": {
     "cons": [
       "Doncaster North"
     ],
+    "pop": "197447",
+    "lat": "53.57712",
+    "long": "-1.02001",
     "voteShare": {
       "Conservative": "18.3",
       "TUSC": "0.7",
@@ -56638,14 +56471,13 @@
       45
     ]
   },
-  {
-    "city": "Bourton",
-    "pop": "196479",
-    "lat": "51.886805",
-    "long": "-1.763191",
+  "Bourton": {
     "cons": [
       "North Dorset"
     ],
+    "pop": "196479",
+    "lat": "51.886805",
+    "long": "-1.763191",
     "voteShare": {
       "UKIP": "17.5",
       "Conservative": "52.7",
@@ -56975,14 +56807,13 @@
       9
     ]
   },
-  {
-    "city": "Weymouth",
-    "pop": "188338",
-    "lat": "50.614428",
-    "long": "-2.457621",
+  "Weymouth": {
     "cons": [
       "South Dorset"
     ],
+    "pop": "188338",
+    "lat": "50.614428",
+    "long": "-2.457621",
     "voteShare": {
       "UKIP": "12.5",
       "Liberal Democrat": "21.6",
@@ -57312,15 +57143,14 @@
       19
     ]
   },
-  {
-    "city": "Lyme Regis",
-    "pop": "195151",
-    "lat": "50.725156",
-    "long": "-2.936639",
+  "Lyme Regis": {
     "cons": [
       "West Dorset",
       "Tiverton and Honiton"
     ],
+    "pop": "195151",
+    "lat": "50.725156",
+    "long": "-2.936639",
     "voteShare": {
       "Labour": "12.7",
       "Conservative": "54",
@@ -57650,14 +57480,13 @@
       10
     ]
   },
-  {
-    "city": "Eastry",
-    "pop": "98442",
-    "lat": "51.245154",
-    "long": "1.303401",
+  "Eastry": {
     "cons": [
       "Dover"
     ],
+    "pop": "98442",
+    "lat": "51.245154",
+    "long": "1.303401",
     "voteShare": {
       "Conservative": "43.3",
       "Labour": "30.7",
@@ -57987,14 +57816,13 @@
       13
     ]
   },
-  {
-    "city": "Sacriston",
-    "pop": "183837",
-    "lat": "54.81649",
-    "long": "-1.626463",
+  "Sacriston": {
     "cons": [
       "North Durham"
     ],
+    "pop": "183837",
+    "lat": "54.81649",
+    "long": "-1.626463",
     "voteShare": {
       "UKIP": "11.4",
       "Green Party": "5.9",
@@ -58324,14 +58152,13 @@
       39
     ]
   },
-  {
-    "city": "Annfield Plain",
-    "pop": "179433",
-    "lat": "54.857",
-    "long": "-1.737",
+  "Annfield Plain": {
     "cons": [
       "North West Durham"
     ],
+    "pop": "179433",
+    "lat": "54.857",
+    "long": "-1.737",
     "voteShare": {
       "UKIP": "17",
       "Green Party": "3.7",
@@ -58661,15 +58488,14 @@
       37
     ]
   },
-  {
-    "city": "Esh Winning",
-    "pop": "188956",
-    "lat": "54.77079",
-    "long": "-1.703089",
+  "Esh Winning": {
     "cons": [
       "North West Durham",
       "City of Durham"
     ],
+    "pop": "188956",
+    "lat": "54.77079",
+    "long": "-1.703089",
     "voteShare": {
       "Conservative": "22.2",
       "Labour": "47.3",
@@ -58999,14 +58825,13 @@
       39
     ]
   },
-  {
-    "city": "Porthmadog",
-    "pop": "60972",
-    "lat": "52.927842",
-    "long": "-4.133384",
+  "Porthmadog": {
     "cons": [
       "Dwyfor Meirionnydd"
     ],
+    "pop": "60972",
+    "lat": "52.927842",
+    "long": "-4.133384",
     "voteShare": {
       "UKIP": "10.8",
       "Labour": "13.5",
@@ -59336,11 +59161,7 @@
       50
     ]
   },
-  {
-    "city": "South Hampshire",
-    "pop": "1095053",
-    "lat": "51.08952",
-    "long": "-1.216844",
+  "South Hampshire": {
     "cons": [
       "Eastleigh",
       "Fareham",
@@ -59354,6 +59175,9 @@
       "Southampton, Test",
       "Winchester"
     ],
+    "pop": "1095053",
+    "lat": "51.08952",
+    "long": "-1.216844",
     "voteShare": {
       "Conservative": "55",
       "UKIP": "7.5",
@@ -59683,14 +59507,13 @@
       25
     ]
   },
-  {
-    "city": "Farndon/Holt",
-    "pop": "157073",
-    "lat": "53.046373",
-    "long": "-2.988616",
+  "Farndon/Holt": {
     "cons": [
       "Wrexham"
     ],
+    "pop": "157073",
+    "lat": "53.046373",
+    "long": "-2.988616",
     "voteShare": {
       "UKIP": "15.5",
       "Conservative": "31.6",
@@ -60020,15 +59843,14 @@
       26
     ]
   },
-  {
-    "city": "Northwich",
-    "pop": "258855",
-    "lat": "53.25868",
-    "long": "-2.518132",
+  "Northwich": {
     "cons": [
       "Tatton",
       "Weaver Vale"
     ],
+    "pop": "258855",
+    "lat": "53.25868",
+    "long": "-2.518132",
     "voteShare": {
       "UKIP": "9.7",
       "Conservative": "43.2",
@@ -60358,14 +60180,13 @@
       23
     ]
   },
-  {
-    "city": "Faversham",
-    "pop": "205213",
-    "lat": "51.315994",
-    "long": "0.889358",
+  "Faversham": {
     "cons": [
       "Sittingbourne and Sheppey"
     ],
+    "pop": "205213",
+    "lat": "51.315994",
+    "long": "0.889358",
     "voteShare": {
       "Monster Raving Loony Party": "0.6",
       "Green Party": "2.4",
@@ -60695,14 +60516,13 @@
       7
     ]
   },
-  {
-    "city": "Maidstone",
-    "pop": "196990",
-    "lat": "51.270363",
-    "long": "0.522699",
+  "Maidstone": {
     "cons": [
       "Maidstone and The Weald"
     ],
+    "pop": "196990",
+    "lat": "51.270363",
+    "long": "0.522699",
     "voteShare": {
       "Monster Raving Loony Party": "0.6",
       "Green Party": "2.8",
@@ -61032,14 +60852,13 @@
       21
     ]
   },
-  {
-    "city": "Aldington",
-    "pop": "114009",
-    "lat": "51.092058",
-    "long": "0.944174",
+  "Aldington": {
     "cons": [
       "Folkestone and Hythe"
     ],
+    "pop": "114009",
+    "lat": "51.092058",
+    "long": "0.944174",
     "voteShare": {
       "Liberal Democrat": "8.9",
       "Conservative": "47.9",
@@ -61369,14 +61188,13 @@
       9
     ]
   },
-  {
-    "city": "Chepstow",
-    "pop": "171409",
-    "lat": "51.641856",
-    "long": "-2.673804",
+  "Chepstow": {
     "cons": [
       "Forest of Dean"
     ],
+    "pop": "171409",
+    "lat": "51.641856",
+    "long": "-2.673804",
     "voteShare": {
       "Conservative": "49.9",
       "Liberal Democrat": "5.3",
@@ -61706,14 +61524,13 @@
       10
     ]
   },
-  {
-    "city": "Great Eccleston",
-    "pop": "171491",
-    "lat": "53.853597",
-    "long": "-2.875333",
+  "Great Eccleston": {
     "cons": [
       "Wyre and Preston North"
     ],
+    "pop": "171491",
+    "lat": "53.853597",
+    "long": "-2.875333",
     "voteShare": {
       "Labour": "24.8",
       "Conservative": "53.2",
@@ -62043,16 +61860,15 @@
       13
     ]
   },
-  {
-    "city": "Lincoln",
-    "pop": "314914",
-    "lat": "53.230688",
-    "long": "-0.540579",
+  "Lincoln": {
     "cons": [
       "Gainsborough",
       "Lincoln",
       "Sleaford and North Hykeham"
     ],
+    "pop": "314914",
+    "lat": "53.230688",
+    "long": "-0.540579",
     "voteShare": {
       "Conservative": "56.2",
       "UKIP": "15.7",
@@ -62382,14 +62198,13 @@
       7
     ]
   },
-  {
-    "city": "Burton Joyce",
-    "pop": "194472",
-    "lat": "52.986554",
-    "long": "-1.037903",
+  "Burton Joyce": {
     "cons": [
       "Newark"
     ],
+    "pop": "194472",
+    "lat": "52.986554",
+    "long": "-1.037903",
     "voteShare": {
       "UKIP": "12",
       "Green Party": "3.4",
@@ -62719,16 +62534,15 @@
       8
     ]
   },
-  {
-    "city": "Gloucester",
-    "pop": "316617",
-    "lat": "51.864245",
-    "long": "-2.238156",
+  "Gloucester": {
     "cons": [
       "Gloucester",
       "Stroud",
       "Tewkesbury"
     ],
+    "pop": "316617",
+    "lat": "51.864245",
+    "long": "-2.238156",
     "voteShare": {
       "Green Party": "4",
       "Labour": "14.8",
@@ -63058,14 +62872,13 @@
       11
     ]
   },
-  {
-    "city": "Pontarddulais",
-    "pop": "159929",
-    "lat": "51.712266",
-    "long": "-4.037071",
+  "Pontarddulais": {
     "cons": [
       "Llanelli"
     ],
+    "pop": "159929",
+    "lat": "51.712266",
+    "long": "-4.037071",
     "voteShare": {
       "Green Party": "1.8",
       "UKIP": "16.3",
@@ -63395,14 +63208,13 @@
       47
     ]
   },
-  {
-    "city": "Grantham",
-    "pop": "219742",
-    "lat": "52.912524",
-    "long": "-0.643582",
+  "Grantham": {
     "cons": [
       "Sleaford and North Hykeham"
     ],
+    "pop": "219742",
+    "lat": "52.912524",
+    "long": "-0.643582",
     "voteShare": {
       "UKIP": "15.7",
       "Liberal Democrat": "5.7",
@@ -63732,14 +63544,13 @@
       8
     ]
   },
-  {
-    "city": "Caister-on-Sea",
-    "pop": "97796",
-    "lat": "52.648647",
-    "long": "1.724422",
+  "Caister-on-Sea": {
     "cons": [
       "Great Yarmouth"
     ],
+    "pop": "97796",
+    "lat": "52.648647",
+    "long": "1.724422",
     "voteShare": {
       "Conservative": "42.9",
       "Green Party": "2.2",
@@ -64069,14 +63880,13 @@
       13
     ]
   },
-  {
-    "city": "Godalming",
-    "pop": "212634",
-    "lat": "51.185732",
-    "long": "-0.612808",
+  "Godalming": {
     "cons": [
       "South West Surrey"
     ],
+    "pop": "212634",
+    "lat": "51.185732",
+    "long": "-0.612808",
     "voteShare": {
       "Conservative": "59.9",
       "Labour": "9.5",
@@ -64406,14 +64216,13 @@
       18
     ]
   },
-  {
-    "city": "Chilworth",
-    "pop": "204722",
-    "lat": "51.214386",
-    "long": "-0.533594",
+  "Chilworth": {
     "cons": [
       "Mole Valley"
     ],
+    "pop": "204722",
+    "lat": "51.214386",
+    "long": "-0.533594",
     "voteShare": {
       "Conservative": "60.6",
       "Labour": "8.3",
@@ -64743,14 +64552,13 @@
       19
     ]
   },
-  {
-    "city": "The Sands/Moor Park",
-    "pop": "212634",
-    "lat": "51.207192",
-    "long": "-0.760167",
+  "The Sands/Moor Park": {
     "cons": [
       "South West Surrey"
     ],
+    "pop": "212634",
+    "lat": "51.207192",
+    "long": "-0.760167",
     "voteShare": {
       "Conservative": "59.9",
       "Labour": "9.5",
@@ -65080,15 +64888,14 @@
       18
     ]
   },
-  {
-    "city": "Widnes",
-    "pop": "196580",
-    "lat": "53.361024",
-    "long": "-2.733637",
+  "Widnes": {
     "cons": [
       "Halton",
       "St Helens South and Whiston"
     ],
+    "pop": "196580",
+    "lat": "53.361024",
+    "long": "-2.733637",
     "voteShare": {
       "UKIP": "14",
       "Conservative": "15.9",
@@ -65418,14 +65225,13 @@
       52
     ]
   },
-  {
-    "city": "Runcorn",
-    "pop": "183540",
-    "lat": "53.342078",
-    "long": "-2.729673",
+  "Runcorn": {
     "cons": [
       "Weaver Vale"
     ],
+    "pop": "183540",
+    "lat": "53.342078",
+    "long": "-2.729673",
     "voteShare": {
       "UKIP": "9.7",
       "Conservative": "43.2",
@@ -65755,14 +65561,13 @@
       23
     ]
   },
-  {
-    "city": "Grayshott",
-    "pop": "200348",
-    "lat": "51.111707",
-    "long": "-0.753561",
+  "Grayshott": {
     "cons": [
       "East Hampshire"
     ],
+    "pop": "200348",
+    "lat": "51.111707",
+    "long": "-0.753561",
     "voteShare": {
       "Conservative": "59.9",
       "Green Party": "5.4",
@@ -66092,15 +65897,14 @@
       18
     ]
   },
-  {
-    "city": "Tadley",
-    "pop": "309688",
-    "lat": "51.343801",
-    "long": "-1.132169",
+  "Tadley": {
     "cons": [
       "North West Hampshire",
       "Newbury"
     ],
+    "pop": "309688",
+    "lat": "51.343801",
+    "long": "-1.132169",
     "voteShare": {
       "Labour": "8.4",
       "Monster Raving Loony Party": "0.7",
@@ -66430,14 +66234,13 @@
       19
     ]
   },
-  {
-    "city": "Goodworth Clatford",
-    "pop": "102936",
-    "lat": "51.178399",
-    "long": "-1.483523",
+  "Goodworth Clatford": {
     "cons": [
       "North West Hampshire"
     ],
+    "pop": "102936",
+    "lat": "51.178399",
+    "long": "-1.483523",
     "voteShare": {
       "Liberal Democrat": "9.3",
       "Conservative": "58.1",
@@ -66767,14 +66570,13 @@
       11
     ]
   },
-  {
-    "city": "Boroughbridge",
-    "pop": "201176",
-    "lat": "54.094266",
-    "long": "-1.395385",
+  "Boroughbridge": {
     "cons": [
       "Harrogate and Knaresborough"
     ],
+    "pop": "201176",
+    "lat": "54.094266",
+    "long": "-1.395385",
     "voteShare": {
       "Liberal Democrat": "7.4",
       "Labour": "17.4",
@@ -67104,14 +66906,13 @@
       7
     ]
   },
-  {
-    "city": "Wynyard Village",
-    "pop": "184916",
-    "lat": "54.873429",
-    "long": "-1.404463",
+  "Wynyard Village": {
     "cons": [
       "Hartlepool"
     ],
+    "pop": "184916",
+    "lat": "54.873429",
+    "long": "-1.404463",
     "voteShare": {
       "UKIP": "19.2",
       "Green Party": "3.4",
@@ -67441,14 +67242,13 @@
       36
     ]
   },
-  {
-    "city": "Winchelsea Beach",
-    "pop": "108756",
-    "lat": "50.91646",
-    "long": "0.723453",
+  "Winchelsea Beach": {
     "cons": [
       "Hastings and Rye"
     ],
+    "pop": "108756",
+    "lat": "50.91646",
+    "long": "0.723453",
     "voteShare": {
       "Conservative": "44.5",
       "UKIP": "13.3",
@@ -67778,14 +67578,13 @@
       16
     ]
   },
-  {
-    "city": "New Mills",
-    "pop": "263918",
-    "lat": "53.367892",
-    "long": "-2.004771",
+  "New Mills": {
     "cons": [
       "High Peak"
     ],
+    "pop": "263918",
+    "lat": "53.367892",
+    "long": "-2.004771",
     "voteShare": {
       "Labour": "22.7",
       "Liberal Democrat": "7.7",
@@ -68115,14 +67914,13 @@
       6
     ]
   },
-  {
-    "city": "Berkhamsted",
-    "pop": "209415",
-    "lat": "51.759766",
-    "long": "-0.567857",
+  "Berkhamsted": {
     "cons": [
       "South West Hertfordshire"
     ],
+    "pop": "209415",
+    "lat": "51.759766",
+    "long": "-0.567857",
     "voteShare": {
       "Liberal Democrat": "10.3",
       "Conservative": "56.9",
@@ -68452,14 +68250,13 @@
       11
     ]
   },
-  {
-    "city": "Moulsford/South Stoke",
-    "pop": "208301",
-    "lat": "51.547171",
-    "long": "-1.175494",
+  "Moulsford/South Stoke": {
     "cons": [
       "Wantage"
     ],
+    "pop": "208301",
+    "lat": "51.547171",
+    "long": "-1.175494",
     "voteShare": {
       "UKIP": "12.5",
       "Green Party": "5.1",
@@ -68789,14 +68586,13 @@
       10
     ]
   },
-  {
-    "city": "Pangbourne",
-    "pop": "201393",
-    "lat": "51.483255",
-    "long": "-1.087386",
+  "Pangbourne": {
     "cons": [
       "Reading West"
     ],
+    "pop": "201393",
+    "lat": "51.483255",
+    "long": "-1.087386",
     "voteShare": {
       "UKIP": "10",
       "Green Party": "2.9",
@@ -69126,14 +68922,13 @@
       15
     ]
   },
-  {
-    "city": "Goring",
-    "pop": "207411",
-    "lat": "51.522753",
-    "long": "-1.133345",
+  "Goring": {
     "cons": [
       "Newbury"
     ],
+    "pop": "207411",
+    "lat": "51.522753",
+    "long": "-1.133345",
     "voteShare": {
       "UKIP": "10.8",
       "Green Party": "4.1",
@@ -69463,14 +69258,13 @@
       19
     ]
   },
-  {
-    "city": "Wargrave",
-    "pop": "201485",
-    "lat": "51.500294",
-    "long": "-0.864528",
+  "Wargrave": {
     "cons": [
       "Maidenhead"
     ],
+    "pop": "201485",
+    "lat": "51.500294",
+    "long": "-0.864528",
     "voteShare": {
       "UKIP": "8.4",
       "Green Party": "3.6",
@@ -69800,16 +69594,15 @@
       20
     ]
   },
-  {
-    "city": "Oxford",
-    "pop": "328992",
-    "lat": "51.752021",
-    "long": "-1.257726",
+  "Oxford": {
     "cons": [
       "Henley",
       "Oxford East",
       "Oxford West and Abingdon"
     ],
+    "pop": "328992",
+    "lat": "51.752021",
+    "long": "-1.257726",
     "voteShare": {
       "UKIP": "6.9",
       "Green Party": "4.4",
@@ -70139,14 +69932,13 @@
       27
     ]
   },
-  {
-    "city": "Wallingford",
-    "pop": "208301",
-    "lat": "51.597418",
-    "long": "-1.133561",
+  "Wallingford": {
     "cons": [
       "Wantage"
     ],
+    "pop": "208301",
+    "lat": "51.597418",
+    "long": "-1.133561",
     "voteShare": {
       "UKIP": "12.5",
       "Green Party": "5.1",
@@ -70476,15 +70268,14 @@
       10
     ]
   },
-  {
-    "city": "Hereford",
-    "pop": "186087",
-    "lat": "52.056398",
-    "long": "-2.715974",
+  "Hereford": {
     "cons": [
       "Hereford and South Herefordshire",
       "North Herefordshire"
     ],
+    "pop": "186087",
+    "lat": "52.056398",
+    "long": "-2.715974",
     "voteShare": {
       "UKIP": "14",
       "Conservative": "55.6",
@@ -70814,14 +70605,13 @@
       13
     ]
   },
-  {
-    "city": "Great Malvern",
-    "pop": "180074",
-    "lat": "52.112421",
-    "long": "-2.327182",
+  "Great Malvern": {
     "cons": [
       "West Worcestershire"
     ],
+    "pop": "180074",
+    "lat": "52.112421",
+    "long": "-2.327182",
     "voteShare": {
       "Green Party": "6.5",
       "Liberal Democrat": "9.7",
@@ -71151,16 +70941,15 @@
       11
     ]
   },
-  {
-    "city": "Welwyn Garden City",
-    "pop": "301352",
-    "lat": "51.803169",
-    "long": "-0.208661",
+  "Welwyn Garden City": {
     "cons": [
       "North East Hertfordshire",
       "Stevenage",
       "Welwyn Hatfield"
     ],
+    "pop": "301352",
+    "lat": "51.803169",
+    "long": "-0.208661",
     "voteShare": {
       "UKIP": "13.1",
       "Liberal Democrat": "6.3",
@@ -71490,14 +71279,13 @@
       7
     ]
   },
-  {
-    "city": "Potters Bar",
-    "pop": "210101",
-    "lat": "51.696636",
-    "long": "-0.175948",
+  "Potters Bar": {
     "cons": [
       "Welwyn Hatfield"
     ],
+    "pop": "210101",
+    "lat": "51.696636",
+    "long": "-0.175948",
     "voteShare": {
       "Conservative": "50.4",
       "Labour": "26.1",
@@ -71827,14 +71615,13 @@
       7
     ]
   },
-  {
-    "city": "Stannington Station",
-    "pop": "76123",
-    "lat": "55.128637",
-    "long": "-1.657705",
+  "Stannington Station": {
     "cons": [
       "Hexham"
     ],
+    "pop": "76123",
+    "lat": "55.128637",
+    "long": "-1.657705",
     "voteShare": {
       "Liberal Democrat": "6.8",
       "Conservative": "52.7",
@@ -72164,14 +71951,13 @@
       9
     ]
   },
-  {
-    "city": "Stevenage",
-    "pop": "196728",
-    "lat": "51.903761",
-    "long": "-0.196612",
+  "Stevenage": {
     "cons": [
       "Stevenage"
     ],
+    "pop": "196728",
+    "lat": "51.903761",
+    "long": "-0.196612",
     "voteShare": {
       "Labour": "34.2",
       "Conservative": "44.5",
@@ -72501,14 +72287,13 @@
       15
     ]
   },
-  {
-    "city": "Accrington/Rossendale",
-    "pop": "188773",
-    "lat": "53.777775",
-    "long": "-2.267973",
+  "Accrington/Rossendale": {
     "cons": [
       "Rossendale and Darwen"
     ],
+    "pop": "188773",
+    "lat": "53.777775",
+    "long": "-2.267973",
     "voteShare": {
       "Liberal Democrat": "1.6",
       "Labour": "35.1",
@@ -72838,17 +72623,16 @@
       16
     ]
   },
-  {
-    "city": "Ipswich",
-    "pop": "400887",
-    "lat": "52.056736",
-    "long": "1.14822",
+  "Ipswich": {
     "cons": [
       "Ipswich",
       "Central Suffolk and North Ipswich",
       "Suffolk Coastal",
       "South Suffolk"
     ],
+    "pop": "400887",
+    "lat": "52.056736",
+    "long": "1.14822",
     "voteShare": {
       "UKIP": "15.2",
       "Labour": "19.3",
@@ -73178,14 +72962,13 @@
       4
     ]
   },
-  {
-    "city": "Shorwell",
-    "pop": "138393",
-    "lat": "50.6447",
-    "long": "-1.35537",
+  "Shorwell": {
     "cons": [
       "Isle of Wight"
     ],
+    "pop": "138393",
+    "lat": "50.6447",
+    "long": "-1.35537",
     "voteShare": {
       "UKIP": "21.2",
       "Labour": "12.8",
@@ -73515,14 +73298,13 @@
       17
     ]
   },
-  {
-    "city": "Argoed",
-    "pop": "75605",
-    "lat": "51.690569",
-    "long": "-3.191349",
+  "Argoed": {
     "cons": [
       "Islwyn"
     ],
+    "pop": "75605",
+    "lat": "51.690569",
+    "long": "-3.191349",
     "voteShare": {
       "Labour": "49",
       "Conservative": "15.2",
@@ -73852,14 +73634,13 @@
       46
     ]
   },
-  {
-    "city": "Cross Hills",
-    "pop": "196523",
-    "lat": "53.901785",
-    "long": "-1.988246",
+  "Cross Hills": {
     "cons": [
       "Skipton and Ripon"
     ],
+    "pop": "196523",
+    "lat": "53.901785",
+    "long": "-1.988246",
     "voteShare": {
       "Conservative": "55.4",
       "Green Party": "5.7",
@@ -74189,14 +73970,13 @@
       7
     ]
   },
-  {
-    "city": "Wellesbourne",
-    "pop": "170479",
-    "lat": "52.196557",
-    "long": "-1.589643",
+  "Wellesbourne": {
     "cons": [
       "Stratford-on-Avon"
     ],
+    "pop": "170479",
+    "lat": "52.196557",
+    "long": "-1.589643",
     "voteShare": {
       "Liberal Democrat": "12",
       "UKIP": "13.2",
@@ -74526,14 +74306,13 @@
       13
     ]
   },
-  {
-    "city": "Royal Leamington Spa",
-    "pop": "179921",
-    "lat": "52.285191",
-    "long": "-1.520079",
+  "Royal Leamington Spa": {
     "cons": [
       "Warwick and Leamington"
     ],
+    "pop": "179921",
+    "lat": "52.285191",
+    "long": "-1.520079",
     "voteShare": {
       "Liberal Democrat": "5",
       "UKIP": "8.3",
@@ -74863,14 +74642,13 @@
       17
     ]
   },
-  {
-    "city": "Wilbarston",
-    "pop": "95748",
-    "lat": "52.485324",
-    "long": "-0.801849",
+  "Wilbarston": {
     "cons": [
       "Kettering"
     ],
+    "pop": "95748",
+    "lat": "52.485324",
+    "long": "-0.801849",
     "voteShare": {
       "Conservative": "51.8",
       "Liberal Democrat": "3.2",
@@ -75200,14 +74978,13 @@
       5
     ]
   },
-  {
-    "city": "Kirkby",
-    "pop": "188153",
-    "lat": "53.48121",
-    "long": "-2.891012",
+  "Kirkby": {
     "cons": [
       "Sefton Central"
     ],
+    "pop": "188153",
+    "lat": "53.48121",
+    "long": "-2.891012",
     "voteShare": {
       "Liberal Democrat": "4.3",
       "Labour": "53.8",
@@ -75537,14 +75314,13 @@
       40
     ]
   },
-  {
-    "city": "Southport",
-    "pop": "186406",
-    "lat": "53.645708",
-    "long": "-3.010113",
+  "Southport": {
     "cons": [
       "Southport"
     ],
+    "pop": "186406",
+    "lat": "53.645708",
+    "long": "-3.010113",
     "voteShare": {
       "Green Party": "2.8",
       "Conservative": "28",
@@ -75874,14 +75650,13 @@
       33
     ]
   },
-  {
-    "city": "Shevington Vale/Shevington",
-    "pop": "198183",
-    "lat": "53.583149",
-    "long": "-2.706121",
+  "Shevington Vale/Shevington": {
     "cons": [
       "Wigan"
     ],
+    "pop": "198183",
+    "lat": "53.583149",
+    "long": "-2.706121",
     "voteShare": {
       "Green Party": "2.8",
       "Conservative": "20.7",
@@ -76211,15 +75986,14 @@
       43
     ]
   },
-  {
-    "city": "Wigan",
-    "pop": "296692",
-    "lat": "53.545065",
-    "long": "-2.632507",
+  "Wigan": {
     "cons": [
       "West Lancashire",
       "Wigan"
     ],
+    "pop": "296692",
+    "lat": "53.545065",
+    "long": "-2.632507",
     "voteShare": {
       "Green Party": "2.8",
       "Conservative": "20.7",
@@ -76549,15 +76323,14 @@
       43
     ]
   },
-  {
-    "city": "Lancaster/Morecambe",
-    "pop": "176551",
-    "lat": "54.074166",
-    "long": "-2.864968",
+  "Lancaster/Morecambe": {
     "cons": [
       "Lancaster and Fleetwood",
       "Morecambe and Lunesdale"
     ],
+    "pop": "176551",
+    "lat": "54.074166",
+    "long": "-2.864968",
     "voteShare": {
       "Labour": "34.9",
       "Liberal Democrat": "3.7",
@@ -76887,14 +76660,13 @@
       16
     ]
   },
-  {
-    "city": "Burgess Hill",
-    "pop": "197881",
-    "lat": "50.954469",
-    "long": "-0.128701",
+  "Burgess Hill": {
     "cons": [
       "Mid Sussex"
     ],
+    "pop": "197881",
+    "lat": "50.954469",
+    "long": "-0.128701",
     "voteShare": {
       "UKIP": "12",
       "Green Party": "4.3",
@@ -77224,14 +76996,13 @@
       12
     ]
   },
-  {
-    "city": "Yoxall",
-    "pop": "94175",
-    "lat": "52.767929",
-    "long": "-1.791039",
+  "Yoxall": {
     "cons": [
       "Lichfield"
     ],
+    "pop": "94175",
+    "lat": "52.767929",
+    "long": "-1.791039",
     "voteShare": {
       "Liberal Democrat": "5.2",
       "Other": "0.2",
@@ -77561,14 +77332,13 @@
       5
     ]
   },
-  {
-    "city": "Wymeswold",
-    "pop": "101667",
-    "lat": "52.806001",
-    "long": "-1.105156",
+  "Wymeswold": {
     "cons": [
       "Loughborough"
     ],
+    "pop": "101667",
+    "lat": "52.806001",
+    "long": "-1.105156",
     "voteShare": {
       "Green Party": "3.5",
       "Liberal Democrat": "4.1",
@@ -77898,14 +77668,13 @@
       13
     ]
   },
-  {
-    "city": "Tenbury Wells",
-    "pop": "178066",
-    "lat": "52.307662",
-    "long": "-2.596406",
+  "Tenbury Wells": {
     "cons": [
       "West Worcestershire"
     ],
+    "pop": "178066",
+    "lat": "52.307662",
+    "long": "-2.596406",
     "voteShare": {
       "Green Party": "6.5",
       "Conservative": "56.1",
@@ -78235,16 +78004,15 @@
       11
     ]
   },
-  {
-    "city": "Telford",
-    "pop": "268655",
-    "lat": "52.678419",
-    "long": "-2.445258",
+  "Telford": {
     "cons": [
       "Ludlow",
       "Telford",
       "The Wrekin"
     ],
+    "pop": "268655",
+    "lat": "52.678419",
+    "long": "-2.445258",
     "voteShare": {
       "Green Party": "3.2",
       "Conservative": "49.7",
@@ -78574,14 +78342,13 @@
       5
     ]
   },
-  {
-    "city": "Hurley/Danesfield",
-    "pop": "212842",
-    "lat": "51.551992",
-    "long": "-0.828705",
+  "Hurley/Danesfield": {
     "cons": [
       "Wycombe"
     ],
+    "pop": "212842",
+    "lat": "51.551992",
+    "long": "-0.828705",
     "voteShare": {
       "Green Party": "6",
       "UKIP": "10.1",
@@ -78911,14 +78678,13 @@
       9
     ]
   },
-  {
-    "city": "Windsor",
-    "pop": "206464",
-    "lat": "51.481728",
-    "long": "-0.613576",
+  "Windsor": {
     "cons": [
       "Windsor"
     ],
+    "pop": "206464",
+    "lat": "51.481728",
+    "long": "-0.613576",
     "voteShare": {
       "Green Party": "3.7",
       "UKIP": "10",
@@ -79248,15 +79014,14 @@
       17
     ]
   },
-  {
-    "city": "Wateringbury",
-    "pop": "204164",
-    "lat": "51.254896",
-    "long": "0.423035",
+  "Wateringbury": {
     "cons": [
       "Maidstone and The Weald",
       "Tonbridge and Malling"
     ],
+    "pop": "204164",
+    "lat": "51.254896",
+    "long": "0.423035",
     "voteShare": {
       "Green Party": "4.4",
       "Liberal Democrat": "6.8",
@@ -79586,14 +79351,13 @@
       11
     ]
   },
-  {
-    "city": "Rainworth",
-    "pop": "201169",
-    "lat": "53.120619",
-    "long": "-1.123482",
+  "Rainworth": {
     "cons": [
       "Sherwood"
     ],
+    "pop": "201169",
+    "lat": "53.120619",
+    "long": "-1.123482",
     "voteShare": {
       "TUSC": "0.7",
       "Conservative": "45",
@@ -79923,14 +79687,13 @@
       17
     ]
   },
-  {
-    "city": "New Tredegar",
-    "pop": "75389",
-    "lat": "51.721527",
-    "long": "-3.24018",
+  "New Tredegar": {
     "cons": [
       "Merthyr Tydfil and Rhymney"
     ],
+    "pop": "75389",
+    "lat": "51.721527",
+    "long": "-3.24018",
     "voteShare": {
       "Independent": "1.4",
       "Liberal Democrat": "4.1",
@@ -80260,11 +80023,7 @@
       53
     ]
   },
-  {
-    "city": "Teesside",
-    "pop": "467080",
-    "lat": "54.572925",
-    "long": "-1.233889",
+  "Teesside": {
     "cons": [
       "Middlesbrough",
       "Middlesbrough South and East Cleveland",
@@ -80272,6 +80031,9 @@
       "Stockton North",
       "Stockton South"
     ],
+    "pop": "467080",
+    "lat": "54.572925",
+    "long": "-1.233889",
     "voteShare": {
       "UKIP": "10.6",
       "Conservative": "46.8",
@@ -80601,14 +80363,13 @@
       18
     ]
   },
-  {
-    "city": "Stoke Goldington",
-    "pop": "125461",
-    "lat": "52.133007",
-    "long": "-0.780219",
+  "Stoke Goldington": {
     "cons": [
       "Milton Keynes North"
     ],
+    "pop": "125461",
+    "lat": "52.133007",
+    "long": "-0.780219",
     "voteShare": {
       "Conservative": "47.2",
       "Independent": "0.2",
@@ -80938,14 +80699,13 @@
       11
     ]
   },
-  {
-    "city": "Caerleon",
-    "pop": "169993",
-    "lat": "51.610283",
-    "long": "-2.956269",
+  "Caerleon": {
     "cons": [
       "Newport West"
     ],
+    "pop": "169993",
+    "lat": "51.610283",
+    "long": "-2.956269",
     "voteShare": {
       "Liberal Democrat": "3.9",
       "English Democrats": "0.2",
@@ -81275,14 +81035,13 @@
       27
     ]
   },
-  {
-    "city": "Cil-y-coed",
-    "pop": "162870",
-    "lat": "51.64089",
-    "long": "-4.006147",
+  "Cil-y-coed": {
     "cons": [
       "Newport East"
     ],
+    "pop": "162870",
+    "lat": "51.64089",
+    "long": "-4.006147",
     "voteShare": {
       "Liberal Democrat": "6.4",
       "English Democrats": "0.2",
@@ -81612,15 +81371,14 @@
       30
     ]
   },
-  {
-    "city": "Pant",
-    "pop": "169177",
-    "lat": "52.79134",
-    "long": "-3.081478",
+  "Pant": {
     "cons": [
       "Montgomeryshire",
       "North Shropshire"
     ],
+    "pop": "169177",
+    "lat": "52.79134",
+    "long": "-3.081478",
     "voteShare": {
       "Labour": "20.1",
       "Liberal Democrat": "6",
@@ -81950,14 +81708,13 @@
       5
     ]
   },
-  {
-    "city": "Pontrhydyfen",
-    "pop": "139898",
-    "lat": "51.633519",
-    "long": "-3.743294",
+  "Pontrhydyfen": {
     "cons": [
       "Neath"
     ],
+    "pop": "139898",
+    "lat": "51.633519",
+    "long": "-3.743294",
     "voteShare": {
       "Plaid Cymru": "18.1",
       "Labour": "43.8",
@@ -82287,14 +82044,13 @@
       46
     ]
   },
-  {
-    "city": "Tiptoe",
-    "pop": "178062",
-    "lat": "50.778569",
-    "long": "-1.637452",
+  "Tiptoe": {
     "cons": [
       "New Forest East"
     ],
+    "pop": "178062",
+    "lat": "50.778569",
+    "long": "-1.637452",
     "voteShare": {
       "Conservative": "59.9",
       "Liberal Democrat": "6.9",
@@ -82624,14 +82380,13 @@
       13
     ]
   },
-  {
-    "city": "Lymington",
-    "pop": "178062",
-    "lat": "50.758531",
-    "long": "-1.54191",
+  "Lymington": {
     "cons": [
       "New Forest West"
     ],
+    "pop": "178062",
+    "lat": "50.758531",
+    "long": "-1.54191",
     "voteShare": {
       "Conservative": "59.9",
       "Liberal Democrat": "6.9",
@@ -82961,14 +82716,13 @@
       13
     ]
   },
-  {
-    "city": "Morgan's Vale",
-    "pop": "177475",
-    "lat": "50.985231",
-    "long": "-1.723509",
+  "Morgan's Vale": {
     "cons": [
       "Salisbury"
     ],
+    "pop": "177475",
+    "lat": "50.985231",
+    "long": "-1.723509",
     "voteShare": {
       "UKIP": "12.1",
       "Liberal Democrat": "10.1",
@@ -83298,14 +83052,13 @@
       10
     ]
   },
-  {
-    "city": "Sutton on Trent",
-    "pop": "100906",
-    "lat": "53.185446",
-    "long": "-0.811975",
+  "Sutton on Trent": {
     "cons": [
       "Newark"
     ],
+    "pop": "100906",
+    "lat": "53.185446",
+    "long": "-0.811975",
     "voteShare": {
       "UKIP": "12",
       "Conservative": "57",
@@ -83635,14 +83388,13 @@
       8
     ]
   },
-  {
-    "city": "Wideopen",
-    "pop": "194097",
-    "lat": "55.051556",
-    "long": "-1.627601",
+  "Wideopen": {
     "cons": [
       "North Tyneside"
     ],
+    "pop": "194097",
+    "lat": "55.051556",
+    "long": "-1.627601",
     "voteShare": {
       "Green Party": "3.1",
       "Labour": "55.9",
@@ -83972,14 +83724,13 @@
       47
     ]
   },
-  {
-    "city": "Starcross",
-    "pop": "86965",
-    "lat": "50.626973",
-    "long": "-3.450557",
+  "Starcross": {
     "cons": [
       "Newton Abbot"
     ],
+    "pop": "86965",
+    "lat": "50.626973",
+    "long": "-3.450557",
     "voteShare": {
       "Labour": "9.8",
       "Liberal Democrat": "23.9",
@@ -84309,14 +84060,13 @@
       21
     ]
   },
-  {
-    "city": "Wymondham (South Norfolk)",
-    "pop": "101581",
-    "lat": "52.569354",
-    "long": "1.115305",
+  "Wymondham (South Norfolk)": {
     "cons": [
       "Mid Norfolk"
     ],
+    "pop": "101581",
+    "lat": "52.569354",
+    "long": "1.115305",
     "voteShare": {
       "Green Party": "4.2",
       "Conservative": "52.1",
@@ -84646,14 +84396,13 @@
       3
     ]
   },
-  {
-    "city": "Wells-next-the-Sea",
-    "pop": "85019",
-    "lat": "52.954641",
-    "long": "0.848927",
+  "Wells-next-the-Sea": {
     "cons": [
       "North Norfolk"
     ],
+    "pop": "85019",
+    "lat": "52.954641",
+    "long": "0.848927",
     "voteShare": {
       "Conservative": "30.9",
       "Green Party": "3",
@@ -84983,14 +84732,13 @@
       40
     ]
   },
-  {
-    "city": "Great Bircham",
-    "pop": "95933",
-    "lat": "52.861599",
-    "long": "0.626175",
+  "Great Bircham": {
     "cons": [
       "North West Norfolk"
     ],
+    "pop": "95933",
+    "lat": "52.861599",
+    "long": "0.626175",
     "voteShare": {
       "UKIP": "17.8",
       "Green Party": "3.8",
@@ -85320,14 +85068,13 @@
       3
     ]
   },
-  {
-    "city": "Diss",
-    "pop": "200419",
-    "lat": "52.376491",
-    "long": "1.108394",
+  "Diss": {
     "cons": [
       "Central Suffolk and North Ipswich"
     ],
+    "pop": "200419",
+    "lat": "52.376491",
+    "long": "1.108394",
     "voteShare": {
       "UKIP": "13.8",
       "Green Party": "4.9",
@@ -85657,15 +85404,14 @@
       7
     ]
   },
-  {
-    "city": "Pontefract",
-    "pop": "206052",
-    "lat": "53.691688",
-    "long": "-1.308648",
+  "Pontefract": {
     "cons": [
       "Normanton, Pontefract and Castleford",
       "Selby and Ainsty"
     ],
+    "pop": "206052",
+    "lat": "53.691688",
+    "long": "-1.308648",
     "voteShare": {
       "Conservative": "52.5",
       "UKIP": "14",
@@ -85995,14 +85741,13 @@
       7
     ]
   },
-  {
-    "city": "Nuneaton",
-    "pop": "189711",
-    "lat": "52.520489",
-    "long": "-1.465382",
+  "Nuneaton": {
     "cons": [
       "Nuneaton"
     ],
+    "pop": "189711",
+    "lat": "52.520489",
+    "long": "-1.465382",
     "voteShare": {
       "Green Party": "2.9",
       "Liberal Democrat": "5.7",
@@ -86332,14 +86077,13 @@
       8
     ]
   },
-  {
-    "city": "Llantrisant",
-    "pop": "156515",
-    "lat": "51.542919",
-    "long": "-3.374953",
+  "Llantrisant": {
     "cons": [
       "Ogmore"
     ],
+    "pop": "156515",
+    "lat": "51.542919",
+    "long": "-3.374953",
     "voteShare": {
       "Labour": "40.7",
       "TUSC": "0.1",
@@ -86669,14 +86413,13 @@
       40
     ]
   },
-  {
-    "city": "Abingdon",
-    "pop": "216544",
-    "lat": "51.67078",
-    "long": "-1.287953",
+  "Abingdon": {
     "cons": [
       "Wantage"
     ],
+    "pop": "216544",
+    "lat": "51.67078",
+    "long": "-1.287953",
     "voteShare": {
       "UKIP": "12.5",
       "Green Party": "5.1",
@@ -87006,14 +86749,13 @@
       10
     ]
   },
-  {
-    "city": "Barnoldswick",
-    "pop": "90131",
-    "lat": "53.913015",
-    "long": "-2.186918",
+  "Barnoldswick": {
     "cons": [
       "Pendle"
     ],
+    "pop": "90131",
+    "lat": "53.913015",
+    "long": "-2.186918",
     "voteShare": {
       "Liberal Democrat": "3.3",
       "Conservative": "47.2",
@@ -87343,14 +87085,13 @@
       15
     ]
   },
-  {
-    "city": "Thorney",
-    "pop": "117711",
-    "lat": "52.62142",
-    "long": "-0.108068",
+  "Thorney": {
     "cons": [
       "Peterborough"
     ],
+    "pop": "117711",
+    "lat": "52.62142",
+    "long": "-0.108068",
     "voteShare": {
       "Green Party": "2.6",
       "Other": "1.4",
@@ -87680,14 +87421,13 @@
       18
     ]
   },
-  {
-    "city": "Tonypandy",
-    "pop": "150645",
-    "lat": "51.624352",
-    "long": "-3.458067",
+  "Tonypandy": {
     "cons": [
       "Rhondda"
     ],
+    "pop": "150645",
+    "lat": "51.624352",
+    "long": "-3.458067",
     "voteShare": {
       "Conservative": "6.7",
       "Labour": "50.7",
@@ -88017,15 +87757,14 @@
       60
     ]
   },
-  {
-    "city": "Redditch",
-    "pop": "178838",
-    "lat": "52.30897",
-    "long": "-1.940936",
+  "Redditch": {
     "cons": [
       "Redditch",
       "Stratford-on-Avon"
     ],
+    "pop": "178838",
+    "lat": "52.30897",
+    "long": "-1.940936",
     "voteShare": {
       "Green Party": "4.1",
       "UKIP": "13.2",
@@ -88355,14 +88094,13 @@
       13
     ]
   },
-  {
-    "city": "Ferndale",
-    "pop": "69628",
-    "lat": "51.662619",
-    "long": "-3.448638",
+  "Ferndale": {
     "cons": [
       "Rhondda"
     ],
+    "pop": "69628",
+    "lat": "51.662619",
+    "long": "-3.448638",
     "voteShare": {
       "Liberal Democrat": "1.5",
       "Conservative": "6.7",
@@ -88692,14 +88430,13 @@
       60
     ]
   },
-  {
-    "city": "Longridge",
-    "pop": "186488",
-    "lat": "53.831915",
-    "long": "-2.598802",
+  "Longridge": {
     "cons": [
       "Wyre and Preston North"
     ],
+    "pop": "186488",
+    "lat": "53.831915",
+    "long": "-2.598802",
     "voteShare": {
       "Green Party": "3.4",
       "Labour": "24.8",
@@ -89029,14 +88766,13 @@
       7
     ]
   },
-  {
-    "city": "Barton (Richmondshire)",
-    "pop": "109643",
-    "lat": "54.473714",
-    "long": "-1.64434",
+  "Barton (Richmondshire)": {
     "cons": [
       "Richmond (Yorks)"
     ],
+    "pop": "109643",
+    "lat": "54.473714",
+    "long": "-1.64434",
     "voteShare": {
       "Independent": "3.4",
       "Green Party": "4.3",
@@ -89366,14 +89102,13 @@
       8
     ]
   },
-  {
-    "city": "Hoo Marina Park",
-    "pop": "108482",
-    "lat": "51.41406",
-    "long": "0.559621",
+  "Hoo Marina Park": {
     "cons": [
       "Rochester and Strood"
     ],
+    "pop": "108482",
+    "lat": "51.41406",
+    "long": "0.559621",
     "voteShare": {
       "UKIP": "30.5",
       "Labour": "19.8",
@@ -89703,14 +89438,13 @@
       14
     ]
   },
-  {
-    "city": "West Wellow",
-    "pop": "180819",
-    "lat": "50.973733",
-    "long": "-1.585232",
+  "West Wellow": {
     "cons": [
       "Salisbury"
     ],
+    "pop": "180819",
+    "lat": "50.973733",
+    "long": "-1.585232",
     "voteShare": {
       "UKIP": "12.1",
       "Labour": "15.3",
@@ -90040,14 +89774,13 @@
       10
     ]
   },
-  {
-    "city": "Writtle",
-    "pop": "105515",
-    "lat": "51.730815",
-    "long": "0.430753",
+  "Writtle": {
     "cons": [
       "Saffron Walden"
     ],
+    "pop": "105515",
+    "lat": "51.730815",
+    "long": "0.430753",
     "voteShare": {
       "UKIP": "13.8",
       "Liberal Democrat": "10.6",
@@ -90377,14 +90110,13 @@
       12
     ]
   },
-  {
-    "city": "Alderbury",
-    "pop": "92655",
-    "lat": "51.041767",
-    "long": "-1.734636",
+  "Alderbury": {
     "cons": [
       "Salisbury"
     ],
+    "pop": "92655",
+    "lat": "51.041767",
+    "long": "-1.734636",
     "voteShare": {
       "Independent": "1.4",
       "Conservative": "55.6",
@@ -90714,14 +90446,13 @@
       10
     ]
   },
-  {
-    "city": "Glaisdale",
-    "pop": "96862",
-    "lat": "54.438763",
-    "long": "-0.806253",
+  "Glaisdale": {
     "cons": [
       "Scarborough and Whitby"
     ],
+    "pop": "96862",
+    "lat": "54.438763",
+    "long": "-0.806253",
     "voteShare": {
       "UKIP": "17.1",
       "Liberal Democrat": "4.5",
@@ -91051,14 +90782,13 @@
       12
     ]
   },
-  {
-    "city": "Hightown",
-    "pop": "84267",
-    "lat": "53.524383",
-    "long": "-3.060387",
+  "Hightown": {
     "cons": [
       "Sefton Central"
     ],
+    "pop": "84267",
+    "lat": "53.524383",
+    "long": "-3.060387",
     "voteShare": {
       "Green Party": "2.4",
       "Liberal Democrat": "4.3",
@@ -91388,14 +91118,13 @@
       40
     ]
   },
-  {
-    "city": "Eynsford",
-    "pop": "94915",
-    "lat": "51.366456",
-    "long": "0.211539",
+  "Eynsford": {
     "cons": [
       "Sevenoaks"
     ],
+    "pop": "94915",
+    "lat": "51.366456",
+    "long": "0.211539",
     "voteShare": {
       "Liberal Democrat": "7.9",
       "UKIP": "17.9",
@@ -91725,14 +91454,13 @@
       10
     ]
   },
-  {
-    "city": "Dorrington (Shropshire)",
-    "pop": "102876",
-    "lat": "52.622369",
-    "long": "-2.773315",
+  "Dorrington (Shropshire)": {
     "cons": [
       "Shrewsbury and Atcham"
     ],
+    "pop": "102876",
+    "lat": "52.622369",
+    "long": "-2.773315",
     "voteShare": {
       "Liberal Democrat": "7.9",
       "Other": "0.2",
@@ -92062,14 +91790,13 @@
       9
     ]
   },
-  {
-    "city": "Yatton",
-    "pop": "206135",
-    "lat": "51.388168",
-    "long": "-2.822503",
+  "Yatton": {
     "cons": [
       "Weston-Super-Mare"
     ],
+    "pop": "206135",
+    "lat": "51.388168",
+    "long": "-2.822503",
     "voteShare": {
       "Liberal Democrat": "10.4",
       "Labour": "18.3",
@@ -92399,14 +92126,13 @@
       6
     ]
   },
-  {
-    "city": "Barton St David",
-    "pop": "104355",
-    "lat": "51.085728",
-    "long": "-2.65618",
+  "Barton St David": {
     "cons": [
       "Somerton and Frome"
     ],
+    "pop": "104355",
+    "lat": "51.085728",
+    "long": "-2.65618",
     "voteShare": {
       "Labour": "7.3",
       "Liberal Democrat": "19.4",
@@ -92736,14 +92462,13 @@
       21
     ]
   },
-  {
-    "city": "Gedney Drove End",
-    "pop": "102844",
-    "lat": "52.840671",
-    "long": "0.173231",
+  "Gedney Drove End": {
     "cons": [
       "South Holland and The Deepings"
     ],
+    "pop": "102844",
+    "lat": "52.840671",
+    "long": "0.173231",
     "voteShare": {
       "Conservative": "59.6",
       "UKIP": "21.8",
@@ -93073,14 +92798,13 @@
       13
     ]
   },
-  {
-    "city": "Hatfield",
-    "pop": "208829",
-    "lat": "51.763366",
-    "long": "-0.22309",
+  "Hatfield": {
     "cons": [
       "Welwyn Hatfield"
     ],
+    "pop": "208829",
+    "lat": "51.763366",
+    "long": "-0.22309",
     "voteShare": {
       "Liberal Democrat": "6.3",
       "Green Party": "3.5",
@@ -93410,14 +93134,13 @@
       7
     ]
   },
-  {
-    "city": "Fowey",
-    "pop": "101038",
-    "lat": "50.33499",
-    "long": "-4.636525",
+  "Fowey": {
     "cons": [
       "St Austell and Newquay"
     ],
+    "pop": "101038",
+    "lat": "50.33499",
+    "long": "-4.636525",
     "voteShare": {
       "UKIP": "16.9",
       "Labour": "10.2",
@@ -93747,14 +93470,13 @@
       23
     ]
   },
-  {
-    "city": "Penzance",
-    "pop": "86226",
-    "lat": "50.118798",
-    "long": "-5.537592",
+  "Penzance": {
     "cons": [
       "St Ives"
     ],
+    "pop": "86226",
+    "lat": "50.118798",
+    "long": "-5.537592",
     "voteShare": {
       "Other": "1.1",
       "Liberal Democrat": "33.2",
@@ -94084,14 +93806,13 @@
       32
     ]
   },
-  {
-    "city": "Derrington",
-    "pop": "96008",
-    "lat": "52.800673",
-    "long": "-2.166964",
+  "Derrington": {
     "cons": [
       "Stafford"
     ],
+    "pop": "96008",
+    "lat": "52.800673",
+    "long": "-2.166964",
     "voteShare": {
       "Green Party": "2.9",
       "Labour": "29.6",
@@ -94421,14 +94142,13 @@
       11
     ]
   },
-  {
-    "city": "Coney Weston",
-    "pop": "117033",
-    "lat": "52.371455",
-    "long": "0.869435",
+  "Coney Weston": {
     "cons": [
       "West Suffolk"
     ],
+    "pop": "117033",
+    "lat": "52.371455",
+    "long": "0.869435",
     "voteShare": {
       "Green Party": "3.6",
       "UKIP": "21.7",
@@ -94758,14 +94478,13 @@
       5
     ]
   },
-  {
-    "city": "Cuckfield",
-    "pop": "108144",
-    "lat": "51.005813",
-    "long": "-0.143636",
+  "Cuckfield": {
     "cons": [
       "Mid Sussex"
     ],
+    "pop": "108144",
+    "lat": "51.005813",
+    "long": "-0.143636",
     "voteShare": {
       "Liberal Democrat": "11.5",
       "UKIP": "12",
@@ -95095,16 +94814,15 @@
       12
     ]
   },
-  {
-    "city": "Swindon",
-    "pop": "304065",
-    "lat": "51.555774",
-    "long": "-1.779718",
+  "Swindon": {
     "cons": [
       "North Swindon",
       "South Swindon",
       "North Wiltshire"
     ],
+    "pop": "304065",
+    "lat": "51.555774",
+    "long": "-1.779718",
     "voteShare": {
       "Liberal Democrat": "15.6",
       "UKIP": "11.5",
@@ -95434,14 +95152,13 @@
       17
     ]
   },
-  {
-    "city": "Tamworth",
-    "pop": "186005",
-    "lat": "52.633584",
-    "long": "-1.691032",
+  "Tamworth": {
     "cons": [
       "North Warwickshire"
     ],
+    "pop": "186005",
+    "lat": "52.633584",
+    "long": "-1.691032",
     "voteShare": {
       "Labour": "36",
       "Green Party": "1.9",
@@ -95771,14 +95488,13 @@
       17
     ]
   },
-  {
-    "city": "Wellington (Taunton Deane)",
-    "pop": "112116",
-    "lat": "50.978564",
-    "long": "-3.224499",
+  "Wellington (Taunton Deane)": {
     "cons": [
       "Taunton Deane"
     ],
+    "pop": "112116",
+    "lat": "50.978564",
+    "long": "-3.224499",
     "voteShare": {
       "UKIP": "12",
       "Independent": "4.4",
@@ -96108,14 +95824,13 @@
       20
     ]
   },
-  {
-    "city": "Cliffs End",
-    "pop": "193529",
-    "lat": "51.33015",
-    "long": "1.365983",
+  "Cliffs End": {
     "cons": [
       "South Thanet"
     ],
+    "pop": "193529",
+    "lat": "51.33015",
+    "long": "1.365983",
     "voteShare": {
       "Conservative": "38.1",
       "UKIP": "32.4",
@@ -96445,15 +96160,14 @@
       19
     ]
   },
-  {
-    "city": "Thanet",
-    "pop": "193529",
-    "lat": "51.360252",
-    "long": "1.348466",
+  "Thanet": {
     "cons": [
       "North Thanet",
       "South Thanet"
     ],
+    "pop": "193529",
+    "lat": "51.360252",
+    "long": "1.348466",
     "voteShare": {
       "Conservative": "38.1",
       "UKIP": "32.4",
@@ -96783,14 +96497,13 @@
       19
     ]
   },
-  {
-    "city": "Oswaldkirk",
-    "pop": "97727",
-    "lat": "54.20168",
-    "long": "-1.046185",
+  "Oswaldkirk": {
     "cons": [
       "Thirsk and Malton"
     ],
+    "pop": "97727",
+    "lat": "54.20168",
+    "long": "-1.046185",
     "voteShare": {
       "UKIP": "14.9",
       "Conservative": "52.6",
@@ -97120,14 +96833,13 @@
       7
     ]
   },
-  {
-    "city": "South Ockendon",
-    "pop": "119874",
-    "lat": "51.521164",
-    "long": "0.294353",
+  "South Ockendon": {
     "cons": [
       "Thurrock"
     ],
+    "pop": "119874",
+    "lat": "51.521164",
+    "long": "0.294353",
     "voteShare": {
       "Labour": "32.6",
       "Liberal Democrat": "1.3",
@@ -97457,15 +97169,14 @@
       25
     ]
   },
-  {
-    "city": "Paignton/Torquay",
-    "pop": "181566",
-    "lat": "50.443672",
-    "long": "-3.563957",
+  "Paignton/Torquay": {
     "cons": [
       "Torbay",
       "Totnes"
     ],
+    "pop": "181566",
+    "lat": "50.443672",
+    "long": "-3.563957",
     "voteShare": {
       "Conservative": "53",
       "Liberal Democrat": "9.9",
@@ -97795,14 +97506,13 @@
       12
     ]
   },
-  {
-    "city": "Horsmonden",
-    "pop": "105859",
-    "lat": "51.139154",
-    "long": "0.430121",
+  "Horsmonden": {
     "cons": [
       "Tunbridge Wells"
     ],
+    "pop": "105859",
+    "lat": "51.139154",
+    "long": "0.430121",
     "voteShare": {
       "Liberal Democrat": "8.4",
       "Labour": "14.2",
@@ -98132,14 +97842,13 @@
       12
     ]
   },
-  {
-    "city": "Henllan",
-    "pop": "71588",
-    "lat": "53.201155",
-    "long": "-3.463268",
+  "Henllan": {
     "cons": [
       "Vale of Clwyd"
     ],
+    "pop": "71588",
+    "lat": "53.201155",
+    "long": "-3.463268",
     "voteShare": {
       "Labour": "38.4",
       "Conservative": "39",
@@ -98469,14 +98178,13 @@
       23
     ]
   },
-  {
-    "city": "Bedlington",
-    "pop": "81898",
-    "lat": "55.131664",
-    "long": "-1.599454",
+  "Bedlington": {
     "cons": [
       "Wansbeck"
     ],
+    "pop": "81898",
+    "lat": "55.131664",
+    "long": "-1.599454",
     "voteShare": {
       "UKIP": "18.2",
       "Conservative": "21.8",
@@ -98806,14 +98514,13 @@
       41
     ]
   },
-  {
-    "city": "Wantage",
-    "pop": "109786",
-    "lat": "51.588868",
-    "long": "-1.426453",
+  "Wantage": {
     "cons": [
       "Wantage"
     ],
+    "pop": "109786",
+    "lat": "51.588868",
+    "long": "-1.426453",
     "voteShare": {
       "Conservative": "53.3",
       "Liberal Democrat": "13.1",
@@ -99143,15 +98850,14 @@
       10
     ]
   },
-  {
-    "city": "Warrington",
-    "pop": "205109",
-    "lat": "53.390044",
-    "long": "-2.59695",
+  "Warrington": {
     "cons": [
       "Warrington North",
       "Warrington South"
     ],
+    "pop": "205109",
+    "lat": "53.390044",
+    "long": "-2.59695",
     "voteShare": {
       "Green Party": "3",
       "Conservative": "43.7",
@@ -99481,14 +99187,13 @@
       21
     ]
   },
-  {
-    "city": "Bishop's Tachbrook",
-    "pop": "98265",
-    "lat": "52.249267",
-    "long": "-1.544728",
+  "Bishop's Tachbrook": {
     "cons": [
       "Warwick and Leamington"
     ],
+    "pop": "98265",
+    "lat": "52.249267",
+    "long": "-1.544728",
     "voteShare": {
       "Labour": "34.9",
       "Liberal Democrat": "5",
@@ -99818,14 +99523,13 @@
       17
     ]
   },
-  {
-    "city": "Barnby",
-    "pop": "103120",
-    "lat": "52.450387",
-    "long": "1.641082",
+  "Barnby": {
     "cons": [
       "Waveney"
     ],
+    "pop": "103120",
+    "lat": "52.450387",
+    "long": "1.641082",
     "voteShare": {
       "UKIP": "14.5",
       "Green Party": "3.4",
@@ -100155,14 +99859,13 @@
       19
     ]
   },
-  {
-    "city": "Bozeat",
-    "pop": "107542",
-    "lat": "52.220341",
-    "long": "-0.676",
+  "Bozeat": {
     "cons": [
       "Wellingborough"
     ],
+    "pop": "107542",
+    "lat": "52.220341",
+    "long": "-0.676",
     "voteShare": {
       "Green Party": "4.4",
       "Liberal Democrat": "4.4",
@@ -100492,14 +100195,13 @@
       3
     ]
   },
-  {
-    "city": "Holme (South Lakeland)",
-    "pop": "83799",
-    "lat": "54.203341",
-    "long": "-2.730586",
+  "Holme (South Lakeland)": {
     "cons": [
       "Westmorland and Lonsdale"
     ],
+    "pop": "83799",
+    "lat": "54.203341",
+    "long": "-2.730586",
     "voteShare": {
       "UKIP": "6.2",
       "Green Party": "3.7",
@@ -100829,14 +100531,13 @@
       52
     ]
   },
-  {
-    "city": "Burrington",
-    "pop": "106211",
-    "lat": "50.933928",
-    "long": "-3.939541",
+  "Burrington": {
     "cons": [
       "Weston-Super-Mare"
     ],
+    "pop": "106211",
+    "lat": "50.933928",
+    "long": "-3.939541",
     "voteShare": {
       "UKIP": "17.8",
       "Conservative": "48",
@@ -101166,14 +100867,13 @@
       6
     ]
   },
-  {
-    "city": "Aspull",
-    "pop": "102511",
-    "lat": "53.568213",
-    "long": "-2.588311",
+  "Aspull": {
     "cons": [
       "Wigan"
     ],
+    "pop": "102511",
+    "lat": "53.568213",
+    "long": "-2.588311",
     "voteShare": {
       "Conservative": "20.7",
       "Liberal Democrat": "2.8",
@@ -101503,14 +101203,13 @@
       43
     ]
   },
-  {
-    "city": "Heswall",
-    "pop": "141819",
-    "lat": "53.328429",
-    "long": "-3.09873",
+  "Heswall": {
     "cons": [
       "Wirral West"
     ],
+    "pop": "141819",
+    "lat": "53.328429",
+    "long": "-3.09873",
     "voteShare": {
       "Conservative": "44.2",
       "Liberal Democrat": "3.4",
@@ -101840,14 +101539,13 @@
       27
     ]
   },
-  {
-    "city": "Witney",
-    "pop": "107989",
-    "lat": "51.785937",
-    "long": "-1.485054",
+  "Witney": {
     "cons": [
       "Witney"
     ],
+    "pop": "107989",
+    "lat": "51.785937",
+    "long": "-1.485054",
     "voteShare": {
       "Labour": "17.2",
       "Other": "0.1",
@@ -102177,16 +101875,15 @@
       13
     ]
   },
-  {
-    "city": "Worcester",
-    "pop": "288988",
-    "lat": "52.193636",
-    "long": "-2.221575",
+  "Worcester": {
     "cons": [
       "Worcester",
       "Mid Worcestershire",
       "West Worcestershire"
     ],
+    "pop": "288988",
+    "lat": "52.193636",
+    "long": "-2.221575",
     "voteShare": {
       "UKIP": "14.4",
       "Labour": "13.4",
@@ -102516,14 +102213,13 @@
       11
     ]
   },
-  {
-    "city": "Stourport-on-Severn",
+  "Stourport-on-Severn": {
+    "cons": [
+      "Wyre Forest"
+    ],
     "pop": "194259",
     "lat": "52.341784",
     "long": "-2.277593",
-    "cons": [
-      "Wyre Forest"
-    ],
     "voteShare": {
       "Labour": "19.3",
       "Liberal Democrat": "2.5",
@@ -102853,14 +102549,13 @@
       14
     ]
   },
-  {
-    "city": "Kidderminster",
+  "Kidderminster": {
+    "cons": [
+      "Wyre Forest"
+    ],
     "pop": "194259",
     "lat": "52.388596",
     "long": "-2.249684",
-    "cons": [
-      "Wyre Forest"
-    ],
     "voteShare": {
       "Labour": "19.3",
       "Liberal Democrat": "2.5",
@@ -103190,14 +102885,13 @@
       14
     ]
   },
-  {
-    "city": "Pershore",
-    "pop": "188583",
-    "lat": "52.109994",
-    "long": "-2.074814",
+  "Pershore": {
     "cons": [
       "West Worcestershire"
     ],
+    "pop": "188583",
+    "lat": "52.109994",
+    "long": "-2.074814",
     "voteShare": {
       "Labour": "13.4",
       "Liberal Democrat": "9.7",
@@ -103527,14 +103221,13 @@
       11
     ]
   },
-  {
-    "city": "Broughton Moor",
-    "pop": "78349",
-    "lat": "54.687188",
-    "long": "-3.46979",
+  "Broughton Moor": {
     "cons": [
       "Workington"
     ],
+    "pop": "78349",
+    "lat": "54.687188",
+    "long": "-3.46979",
     "voteShare": {
       "Labour": "42.3",
       "Liberal Democrat": "4.4",
@@ -103864,14 +103557,13 @@
       29
     ]
   },
-  {
-    "city": "Far Forest",
-    "pop": "98421",
-    "lat": "52.36837",
-    "long": "-2.399249",
+  "Far Forest": {
     "cons": [
       "Wyre Forest"
     ],
+    "pop": "98421",
+    "lat": "52.36837",
+    "long": "-2.399249",
     "voteShare": {
       "UKIP": "16.1",
       "Conservative": "45.3",
@@ -104201,14 +103893,13 @@
       14
     ]
   },
-  {
-    "city": "West Chinnock",
-    "pop": "108739",
-    "lat": "50.919032",
-    "long": "-2.757744",
+  "West Chinnock": {
     "cons": [
       "Yeovil"
     ],
+    "pop": "108739",
+    "lat": "50.919032",
+    "long": "-2.757744",
     "voteShare": {
       "Labour": "7.1",
       "UKIP": "13.4",
@@ -104538,15 +104229,14 @@
       31
     ]
   },
-  {
-    "city": "York",
-    "pop": "202433",
-    "lat": "53.959965",
-    "long": "-1.087298",
+  "York": {
     "cons": [
       "York Central",
       "York Outer"
     ],
+    "pop": "202433",
+    "lat": "53.959965",
+    "long": "-1.087298",
     "voteShare": {
       "Other": "0.6",
       "TUSC": "0.6",
@@ -104876,14 +104566,13 @@
       11
     ]
   },
-  {
-    "city": "Goodmanham",
-    "pop": "100980",
-    "lat": "53.875365",
-    "long": "-0.646082",
+  "Goodmanham": {
     "cons": [
       "East Yorkshire"
     ],
+    "pop": "100980",
+    "lat": "53.875365",
+    "long": "-0.646082",
     "voteShare": {
       "Other": "1.4",
       "UKIP": "17.9",
@@ -105213,4 +104902,4 @@
       0
     ]
   }
-]
+}

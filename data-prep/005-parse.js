@@ -4,7 +4,7 @@ var d3 = require('d3');
 var _ = require('lodash');
 
 var csvfile = 'large-bua-geo.csv';
-var jsonfile = '003.json';
+var jsonfile = '002.json';
 
 // geocoding from http://www.doogal.co.uk/BatchGeocoding.php
 var geoData = d3.csv.parse(fs.readFileSync(csvfile, 'utf8'));
@@ -14,9 +14,13 @@ var data = sourceData;
 
 // lookup the lat and long from the geoData and copy it
 // into the relevant bua object in data
-for (var i in data){
-  for(var j in geoData){
-    if(i === geoData[j]["bua"]){
+var i = data.length;
+while(i--){
+	var outerMetro = data[i]['metro']
+	var j = geoData.length;
+	while(j--){
+		var innerMetro = geoData[j]["bua"];
+    if(outerMetro === innerMetro){
       data[i]["lat"] = geoData[j]["lat"];
       data[i]["long"] = geoData[j]["long"];
     }

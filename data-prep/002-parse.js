@@ -3,116 +3,127 @@ var jf = require('jsonfile')
 var d3 = require('d3');
 var _ = require('lodash');
 
-var file = 'uk2015.csv'
+var file = '000-uk2015.csv'
 
-fs.readFile(file, 'utf8', function (err, data) {
+// the goal of this script is to generate a unique list of metros
+// sorted by population
+// with each parliamentary constituency assigned to 
+// the largest population metro it coincides with
+
+fs.readFile(file, 'utf8', function (err, csvdata) {
   
-  data2 = d3.csv.parse(data);
+  data = d3.csv.parse(csvdata);
 
-  var data3 = {};
-  // build a list of buas we have seen before
-  var bc = []
+  // will use 'metro' to refer to
+  // 'builtup area' for England and Wales
+  // 'settlement' for Scotland
+  // metropolitan districts or large settlements for Northern Ireland 
 
-  // loop through the whole dataset 
-  for(var i=50; i<data2.length; i++){
-    var b = data2[i]["BUA11NM"];
-    var pop = data2[i]["buaPopulation"];
-    
-    // if we have not seen this bua before 
-    // build an array p of constiuencies for this bua
-    if(!_.includes(bc,b)){
+  var outputData = [];
+  // build a list of metros accounted for 
+  // we need to do this because metros are not unique rows
+  var maf = []
 
-    var pcon = [];
-  
-      bc.push(b);
-      //console.log(bc);
+  var metros = [];
+  for(var i=0; i<data.length; i++){
+    metros.push(data[i]["BUA11NM"]);
+  }
 
-      // loop through the whole dataset again
-      // find all of the parliamentary constiuencies
-      // associated with a built-up area
-      for(var k=0; k<data2.length; k++) {
-        if(data2[k]["BUA11NM"] === b){
-          pcon.push(data2[k]["PCON11NM"]);
-        }
+  metros = _.uniq(metros);
+  metros = metros.sort()
+  //console.log(metros);
+
+
+  // loop through the list of unique metros 
+  for(var i=0; i<metros.length; i++){
+    var outerMetro = metros[i],
+        cons = [];
+        pop = null;
+
+    // now we loop through the whole dataset 
+    // and find all of the parliamentary constituencies
+    // associated with a metro
+    for(var j=0; j<data.length; j++) {
+      var innerMetro = data[j]["BUA11NM"];
+          
+      if(innerMetro === outerMetro){
+        cons.push(data[j]["PCON11NM"]);
+        pop = data[j]["buaPopulation"];
       }
-      pcon = _.uniq(pcon);
-      //console.log(p);
-      data3[b] = {};
-      data3[b]["cons"] = pcon;
-      data3[b]["pop"] = pop;
-      data3[b]["lat"] = "";
-      data3[b]["long"]= "";
     }
+    cons = _.uniq(cons);
+
+    outputData[i] = {};
+    outputData[i]["metro"] = outerMetro; 
+    outputData[i]["pop"] = pop;
+    outputData[i]["cons"] = cons;
+
   }
 
-  //console.log(data3);
-
-  // sort the buas by population and assign a rank
-
-  // http://stackoverflow.com/questions/13758467/how-do-i-sort-a-json-object-by-a-nested-value 
-  
-  // First create the array of keys/net_total so that we can sort it:
-  var sort_array = [];
-  for (i in data3) {
-      sort_array.push({
-        key:i,
-        pop:data3[i]["pop"]
-      });
-  }
-
-  // Now sort it:
-  sort_array.sort(function(a, b) {
+  // sort the metros by population and assign a rank
+  outputData.sort(function(a, b) {
     return b.pop - a.pop;
   })
 
-  //console.log(sort_array);
+  // now we assign constituencies to the largest metro they coincide with
 
-  // constiuencies mapped to the larged bua they overlap with
-  // assigned constiuencies 
+  // new empty array of assigned constituencies 
   var ac = [];
 
-  // Now process that object with it:
-  for (var i=0; i<sort_array.length; i++) {
-    var bua = data3[sort_array[i].key];
+  for (var i=0; i<outputData.length; i++){
+    cons = outputData[i]['cons'];
+    //console.log(cons);
     
-    // now do stuff with each item
+    // loop over the array of constituencies for each metro
+    // http://stackoverflow.com/questions/9882284/looping-through-array-and-removing-items-without-breaking-for-loop
+    var j = cons.length;
+    while(j--){
+      var con = cons[j];
 
-    // loop over list of constiuencies for each bua
-    for(var j=0; j<bua.cons.length; j++){
-      var con = bua.cons[j];
-      // if the constiuency is in the list of 
-      // already assigned constiuencies, 
-      // remove the constituency from this bua
+      // if the constituency is already assigned to a 
+      // larger metro 
+      // remove the constituency from this metro
       if(_.includes(ac,con)){
+        //console.log(outputData[i]["metro"]);
+        //console.log("already assigned " + con);
         if (j > -1) {
-          bua.cons.splice(j, 1);
+          //console.log(Array.isArray(outputData[i]['cons'])) 
+          outputData[i]['cons'].splice(j, 1);
         }
       }
       // if not, add it to the list of
-      // assigned constiuencies
+      // assigned constituencies
       else {
         ac.push(con);
       }
+      //console.log(ac.length);
     }
+    
   }
+  //console.log(ac);
 
-  // remove all small buas that no longer have 
-  // constiuencies assigned to them
-  for (var key in data3) {
-    if (data3.hasOwnProperty(key)) {
-      console.log(key);
-      if (data3[key]["cons"].length === 0){
-        delete data3[key];
-      }
+  // remove all small metros that no longer have 
+  // constituencies assigned to them
+  var i = outputData.length;
+  while(i--){
+    console.log(i);
+    console.log(outputData[i]["cons"].length);
+    if (outputData[i]["cons"].length === 0){
+        if (i > -1) {
+          //console.log(Array.isArray(outputData));
+          outputData.splice(i, 1);
+        }
     }
   }
+  
 
   var outputFile = '002.json'
 
-  var outputJsonObj = data3;
+  var outputJsonObj = outputData;
 
   jf.writeFile(outputFile, outputJsonObj, function(err){
   console.log(err)
   })
 
 })
+

@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<script src="http://d3js.org/d3.v3.js"></script>
+		<script src="http://d3js.org/queue.v1.min.js"></script>
 		<link href='http://fonts.googleapis.com/css?family=Quicksand: 400, 700' rel='stylesheet' type='text/css'>
 		<meta property="og:title" content="CLOSE VOTES - TULP interactive">
 		<meta property="og:image" content="http://tulpinteractive.com/projects/close-votes/close_votes_large.png" /> 
@@ -54,11 +55,14 @@
 		<div id="viz"></div>
 		<script type="text/javascript">
 
+queue()
+	.defer(d3.json, 'data.json')
+	.defer(d3.json, 'parties.json')
+	.await(vis); // function that uses files
 
-d3.json("data.json", function(data) {
+function vis(error, data, parties) {
 
 	var index = Math.round(Math.random() * data.length),
-			parties = Object.keys(data[0]['voteShare']).sort()
 			w = 1000, 
 			h = 1000;
 
@@ -397,6 +401,7 @@ d3.json("data.json", function(data) {
 	var bg = svg.append("g")
 		.attr("transform", "translate(200, 50)")
 
+
 	var party = bg.selectAll(".party")
 		.data(parties) // ["VVD", "PvdA", "PVV", "SP", "CDA", "D66", "CU", "GrLinks", "SGP", "PvdD", "50+"]
 		.enter().append("text")
@@ -419,7 +424,7 @@ d3.json("data.json", function(data) {
 
 
 
-});    
+};    
 
 		</script>
 		<script>

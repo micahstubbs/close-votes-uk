@@ -165,8 +165,34 @@ while(i--){
 					voteShare[n] = voteDataSubset[k]['voteShare']
 				}  
 			}
+			voteShares.push(voteShare);
 		}
-	}		
+	}	
+	// average all of the voteShare arrays in voteShares
+	function mean(array) { 
+    var i,
+        sum = 0, 
+        len = array.length; 
+    for (i = 0; i < len; i++) { 
+        sum += array[i]; 
+    } 
+    return sum / len;
+	}
+
+	var meanMetroVoteShare = [];
+	var p = parties.length;
+	while(p--){
+		var byParty = [];
+
+		var q = voteShares.length;
+		while(q--){
+			byParty.push(voteShares[q][p]);
+		}
+		meanMetroVoteShare.push(mean(byParty));
+
+	}
+	data[i]['voteShare'] = meanMetroVoteShare;	
+
 }
 
 

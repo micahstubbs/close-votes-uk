@@ -15,7 +15,7 @@ fs.readFile(file, 'utf8', function (err, csvdata) {
 
   for(var i=50; i<data.length; i++){
     var outerMetro = data[i]["BUA11NM"];
-    var pop = data[i]["buaPopulation"];
+    var pop = data[i]["metroPopulation"];
     
     // if we have not seen this bua before 
     // build an array p of constituencies for this bua

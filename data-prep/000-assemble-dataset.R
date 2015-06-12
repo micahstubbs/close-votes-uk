@@ -1,31 +1,38 @@
 library(dplyr)
 
+# Windows 7 filepaths
+# Mac OSX filepaths
+
 # create R dataframes from csv files
-setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\output-areas-to-built-up-areas")
+# setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\output-areas-to-built-up-areas")
+setwd("~/workspace/blocks/close-votes-uk/data-prep/output-areas-to-built-up-areas")
 
 # Where 'oa' abbreviates 'output area'
 filename <- "OA11_BUASD11_BUA11_LAD11_RGN11_EW_LU.csv"
 oa_to_builtup_areas <- read.csv(filename, header=TRUE, sep=",")
 
-setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\output-areas-to-constituencies")
+#setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\output-areas-to-constituencies")
+setwd("~/workspace/blocks/close-votes-uk/data-prep/output-areas-to-constituencies")
 
 # link output areas to constituencies
 filename <- "OA11_PCON11_EER11_EW_LU.csv"
 oa_to_constituencies <- read.csv(filename, header=TRUE, sep=",")
 
-setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\built-up-areas")
+#setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep\\built-up-areas")
+setwd("~/workspace/blocks/close-votes-uk/data-prep/built-up-areas")
 
 filename <- "BUA_MAR_2011_EW_NC.csv"
 builtup_areas <- read.csv(filename, header=TRUE, sep=",")
 
-setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep")
+#setwd("C:\\Users\\m\\workspace\\blocks\\close-votes-uk\\data-prep")
+setwd("~/workspace/blocks/close-votes-uk/data-prep")
 
 filename <- "constituency-names.csv"
 constituencies <- read.csv(filename, header=TRUE, sep=",")
 
 # add population data by parliamentary constituency
 # important since we will aggregate by constituency later
-filename <- "population-by-constituency.csv"
+filename <- "000-pop-by-con-england-wales.csv"
 population <- read.csv(filename, header=TRUE, sep=",")
 
 filename <- "uk-election-results-2015.csv"
@@ -48,6 +55,15 @@ builtup_areas_to_constituencies <- merge(builtup_areas_to_constituencies, oa_to_
 # write.csv(builtup_areas_to_constituencies, file,row.names=FALSE, na="")
 
 bua_to_pcon <- unique(builtup_areas_to_constituencies[c("BUA11CD","name", "PCON11CD", "PCON11NM")])
+
+file <- "000-metros-cons-england-wales.csv"
+write.csv(bua_to_pcon, file, row.names=FALSE, na="")
+
+# add Scotland and Northen Ireland constituencies here
+
+
+
+
 
 # assign population to unique combinations of builtup areas and constituency
 bua_to_pcon <- merge(bua_to_pcon, population, by=c("PCON11CD", "PCON11NM"))

@@ -12,7 +12,7 @@ d3.csv("uk2015.csv", function(err, data){
 
 	for(var i=50; i<data.length; i++){
 		var b = data[i]["BUA11NM"];
-		var pop = data[i]["buaPopulation"];
+		var pop = data[i]["metroPopulation"];
 		
 		// if we have not seen this bua before 
 		// build an array p of constiuencies for this bua

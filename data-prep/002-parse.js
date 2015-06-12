@@ -48,7 +48,7 @@ fs.readFile(file, 'utf8', function (err, csvdata) {
           
       if(innerMetro === outerMetro){
         cons.push(data[j]["PCON11NM"]);
-        pop = data[j]["buaPopulation"];
+        pop = data[j]["metroPopulation"];
       }
     }
     cons = _.uniq(cons);

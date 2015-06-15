@@ -1,0 +1,3882 @@
+[
+  {
+    "settlementName": "Aberchirder",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Aberdeen",
+    "cons": [
+      "Gordon",
+      "Aberdeen South",
+      "Aberdeen North"
+    ]
+  },
+  {
+    "settlementName": "Aberdour",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Aberfeldy",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Aberfoyle",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Aberlady",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Aberlour",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Abernethy",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Aboyne",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Airth",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Alford",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Allanton",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Alloa",
+    "cons": [
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Almondbank",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Alness",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Alva",
+    "cons": [
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Alyth",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Annan",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Annbank",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Anstruther and Pittenweem",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Arbroath",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Ardersier",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Ardrishaig",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Ardrossan",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Armadale",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Auchenblae",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Auchinleck",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Auchinloch",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Auchterarder",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Auchtermuchty",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Auldearn",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Aviemore",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Avoch",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Avonbridge",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Ayr",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Ayton",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Baile a'Mhanaich (Balivanich)",
+    "cons": [
+      "Na h-Eileanan an Iar"
+    ]
+  },
+  {
+    "settlementName": "Balfron",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Balintore",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Ballachulish",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Ballater",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Ballingry, Lochore and Crosshill",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Balmedie",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Balmullo",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Banchory",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Banff",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Bankfoot",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Bathgate",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Beauly",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Beith",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Bellsbank",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Biggar",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Bilston",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Birkhill and Muirhead",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Bishopton",
+    "cons": [
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North"
+    ]
+  },
+  {
+    "settlementName": "Blackburn (Aberdeenshire)",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Blackford",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Blackridge",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Blairgowrie",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Blairhall",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Boddam",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Bo'ness",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Bonnybridge",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Bowmore",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Braco",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Brae",
+    "cons": [
+      "Orkney and Shetland"
+    ]
+  },
+  {
+    "settlementName": "Brechin",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Bridge of Earn",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Bridge of Weir",
+    "cons": [
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North"
+    ]
+  },
+  {
+    "settlementName": "Bridgend",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Broadford",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Brodick",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Brookfield",
+    "cons": [
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North"
+    ]
+  },
+  {
+    "settlementName": "Brora",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Broxburn",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Buchlyvie",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Buckie",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Burghead",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Burntisland",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Burrelton",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Cairneyhill",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Calderbank",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Caldercruix",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "California",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Callander",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Campbeltown",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Cardenden and Auchterderran",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Cardrona",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Cardross",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Cargenbridge",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Carluke",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Carmunnock",
+    "cons": [
+      "Glasgow South West",
+      "Glasgow South",
+      "Glasgow North West",
+      "Glasgow North East",
+      "Glasgow North",
+      "Glasgow East",
+      "Glasgow Central"
+    ]
+  },
+  {
+    "settlementName": "Carnoustie",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Carnwath",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Carstairs",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Carstairs Junction",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Castle Douglas",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Castletown",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Catrine",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Ceres",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Chapelton",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Chirnside",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Chryston",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Clackmannan",
+    "cons": [
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Cleland",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Coalburn",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Coaltown of Wemyss",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Coatbridge and Airdrie",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Cockenzie",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Coldingham",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Coldstream",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Comrie (Perth and Kinross)",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Conon Bridge and Maryburgh",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Coupar Angus",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Cowdenbeath",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Cowie",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Coylton",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Crail",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Creetown",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Crieff",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Crimond",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Cromarty",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Crook of Devon",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Crossford (Fife)",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Crossford (South Lanarkshire)",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Crosshill",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Crosshouse",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Croy",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Cruden Bay",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Cullen",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Culloden",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Cumbernauld",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Motherwell and Wishaw",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Cuminestown",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Cumnock",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Cupar",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Dailly",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Dalbeattie",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Dalgety Bay",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Dalkeith",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Dalmellington",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Dalry",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Dalrymple",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Danderhall",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Darvel",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Dechmont",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Denholm",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Dingwall",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Dollar",
+    "cons": [
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Dornoch",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Douglas",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Doune",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Drongan",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Drumnadrochit",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Drumoak",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Drymen",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Dufftown",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Dullatur",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Dumbarton",
+    "cons": [
+      "West Dunbartonshire"
+    ]
+  },
+  {
+    "settlementName": "Dumfries",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Dunbar",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Dunbeg",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Dunblane",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Dundee",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus",
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Dundonald",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Dunfermline",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Dunkeld and Birnam",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Dunlop",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Dunning",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Dunoon",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Duns",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Eaglesfield",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Eaglesham",
+    "cons": [
+      "East Renfrewshire"
+    ]
+  },
+  {
+    "settlementName": "Earlston",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "East Calder",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "East Kilbride",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "East Linton",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "East Wemyss",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Eastriggs",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Ecclefechan",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Edinburgh",
+    "cons": [
+      "East Lothian",
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ]
+  },
+  {
+    "settlementName": "Edzell",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Elgin",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Elie and Earlsferry",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Ellon",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Elphinstone",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Errol",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Erskine",
+    "cons": [
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North"
+    ]
+  },
+  {
+    "settlementName": "Evanton",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Eyemouth",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Fairlie",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Falkirk",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Falkland",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Fallin",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Fauldhouse",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Fenwick",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Findhorn",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Findochty",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Fochabers",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Forfar",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Forgandenny",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Forres",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Fort Augustus",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Fort William",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Forth",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Fortrose",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Fraserburgh",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Freuchie",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Friockheim",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Galashiels",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Galston",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Gardenstown",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Garelochhead",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Gargunnock",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Garmouth",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Gartcosh",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Gatehouse of Fleet",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Gauldry",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Gifford",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Girvan",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Glassford",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Glenboig",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Glenfarg",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Glenluce",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Glenmavis",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Glenrothes",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Golspie",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Gorebridge",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Gourdon",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Grantown-on-Spey",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Greater Glasgow",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "East Renfrewshire",
+      "Glasgow South West",
+      "Glasgow South",
+      "Glasgow North West",
+      "Glasgow North East",
+      "Glasgow North",
+      "Glasgow East",
+      "Glasgow Central",
+      "Motherwell and Wishaw",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts",
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North",
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "West Dunbartonshire"
+    ]
+  },
+  {
+    "settlementName": "Greenlaw",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Greenock",
+    "cons": [
+      "Inverclyde"
+    ]
+  },
+  {
+    "settlementName": "Gretna",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Gullane",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Haddington",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Halkirk",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Hallglen",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Hamilton",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Harthill",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts",
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Hatton of Cruden",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Hawick",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Helensburgh",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "High Valleyfield",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Hillhead",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Hillside",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Hopeman",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Houston",
+    "cons": [
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North"
+    ]
+  },
+  {
+    "settlementName": "Howwood",
+    "cons": [
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North"
+    ]
+  },
+  {
+    "settlementName": "Huntly",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Inchture",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Innellan",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Innerleithen",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Insch",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Inverallochy and Cairnbulg",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Inveraray",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Inverbervie",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Invergordon",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Inverkip",
+    "cons": [
+      "Inverclyde"
+    ]
+  },
+  {
+    "settlementName": "Inverness",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Inverurie",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Irvine",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Jedburgh",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Johnshaven",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Keith",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Kelso and Maxwellheugh",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Kelty",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife",
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Kemnay",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Kilbirnie",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Kilcreggan",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Killearn",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Killin",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Kilmacolm",
+    "cons": [
+      "Inverclyde"
+    ]
+  },
+  {
+    "settlementName": "Kilmarnock",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Kilmaurs",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Kilsyth",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Kilwinning",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Kincardine",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Kinghorn",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Kinglassie",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Kingseat (Aberdeenshire)",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Kingseat (Fife)",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Kingskettle",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Kingswells",
+    "cons": [
+      "Gordon",
+      "Aberdeen South",
+      "Aberdeen North"
+    ]
+  },
+  {
+    "settlementName": "Kingussie",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Kinlochleven",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Kinloss",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Kinnesswood",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Kinross",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Kintore",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Kippen",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Kirkcaldy",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Kirkconnel",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Kirkcudbright",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Kirkfieldbank",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Kirkhill",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Kirkintilloch",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East"
+    ]
+  },
+  {
+    "settlementName": "Kirkliston",
+    "cons": [
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ]
+  },
+  {
+    "settlementName": "Kirkmuirhill and Blackwood",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Kirknewton",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Kirkwall",
+    "cons": [
+      "Orkney and Shetland"
+    ]
+  },
+  {
+    "settlementName": "Kirriemuir",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Kyle of Lochalsh",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Ladybank",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Lamlash",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Lanark",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Langbank",
+    "cons": [
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North"
+    ]
+  },
+  {
+    "settlementName": "Langholm",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Largs",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Larkhall",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Lauder",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Laurencekirk",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Law",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Lennoxtown",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East"
+    ]
+  },
+  {
+    "settlementName": "Lerwick",
+    "cons": [
+      "Orkney and Shetland"
+    ]
+  },
+  {
+    "settlementName": "Lesmahagow",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Letham",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Leuchars",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Lhanbryde",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Liff",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Limekilns",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Linlithgow",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Livingston",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Loanhead",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Loans",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Locharbriggs",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Lochgilphead",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Lochmaben",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Lochwinnoch",
+    "cons": [
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North"
+    ]
+  },
+  {
+    "settlementName": "Lockerbie",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Logan",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Longforgan",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Longniddry",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Longridge",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Longside",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Lossiemouth",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Lower Largo and Lundin Links",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Lumphanan",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Luncarty",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Macduff",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Macmerry",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Mallaig",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Mauchline",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Maud",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Maybole",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Melrose",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Menstrie",
+    "cons": [
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Methil, Leven and Buckhaven",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Methven",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Millport",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Milnathort",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Milton and Kildary",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Milton of Campsie",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East"
+    ]
+  },
+  {
+    "settlementName": "Milton of Leys",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Mintlaw",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Moffat",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Moniaive",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Montrose",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Moodiesburn",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Morningside",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Mossblown",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Mosstodloch",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Motherwell and Bellshill",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Muir of Ord",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Muirkirk",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Murthly",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Muthill",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Nairn",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Neilston",
+    "cons": [
+      "East Renfrewshire"
+    ]
+  },
+  {
+    "settlementName": "Netherburn",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Nethy Bridge",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "New Cumnock",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "New Deer",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "New Pitsligo",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Newburgh (Aberdeenshire)",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Newburgh (Fife)",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Newcastleton",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Newmachar",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Newmilns",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Newport-on-Tay and Wormit",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Newton Stewart",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Newtonhill",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Newtonmore",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Newtown St Boswells",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Newtyle",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "North Berwick",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "North Kessock",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "North Queensferry",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Oakley",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Oban",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Ochiltree",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Oldmeldrum",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Ormiston",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Overtown",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Pathhead",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Patna",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Peebles",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Pencaitland",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Penicuik",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Perth",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Peterculter",
+    "cons": [
+      "Gordon",
+      "Aberdeen South",
+      "Aberdeen North"
+    ]
+  },
+  {
+    "settlementName": "Peterhead",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Pitlochry",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Pitmedden",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Plains",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Plean",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Port Bannatyne",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Port Ellen",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Portgordon",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Portknockie",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Portlethen",
+    "cons": [
+      "Gordon",
+      "Aberdeen South",
+      "Aberdeen North",
+      "West Aberdeenshire and Kincardine",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Portpatrick",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Portree",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Portsoy",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Potterton",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Prestonpans",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Quarrier's Village",
+    "cons": [
+      "Inverclyde"
+    ]
+  },
+  {
+    "settlementName": "Quarter",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Queenzieburn",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Ratho",
+    "cons": [
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ]
+  },
+  {
+    "settlementName": "Ratho Station",
+    "cons": [
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ]
+  },
+  {
+    "settlementName": "Rigside",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Rosehearty",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Rosemarkie",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Rosewell",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Roslin",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "settlementName": "Rosneath",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Rothes",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "settlementName": "Rothesay",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Rothienorman",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Saline",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Salsburgh",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Sandhaven",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Sanquhar",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Scalloway",
+    "cons": [
+      "Orkney and Shetland"
+    ]
+  },
+  {
+    "settlementName": "Scone",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Seafield",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Selkirk",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Shieldhill",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Shotts, Dykehead and Stane",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Slamannan",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "South Queensferry",
+    "cons": [
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ]
+  },
+  {
+    "settlementName": "Spean Bridge",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Springfield",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Springside",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "St Andrews",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "St Boswells",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "St Combs",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "St Cyrus",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "St Fergus",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "St Madoes and Glencarse",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "St Monans",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Stanley",
+    "cons": [
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Steornabhagh (Stornoway)",
+    "cons": [
+      "Na h-Eileanan an Iar"
+    ]
+  },
+  {
+    "settlementName": "Stewarton",
+    "cons": [
+      "Kilmarnock and Loudoun",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Stirling",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Stonehaven",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Stonehouse",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Stoneyburn",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Stow",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Stranraer",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Strathaven",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Strathblane",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Strathkinness",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Strathmiglo",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Strathpeffer",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Strichen",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Stromness",
+    "cons": [
+      "Orkney and Shetland"
+    ]
+  },
+  {
+    "settlementName": "Stuartfield",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Symington (South Ayrshire)",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Symington (South Lanarkshire)",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Tain",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Tarbert",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Tarbolton",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Tarland",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Tarves",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Tayport",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Thankerton",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Thornhill (Dumfries and Galloway)",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Thornhill (Stirling)",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "settlementName": "Thorntonhall",
+    "cons": [
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Thurso",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Tighnabruaich",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Tillicoultry",
+    "cons": [
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Tobermory",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "settlementName": "Torphichen",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Torphins",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Torrance",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East"
+    ]
+  },
+  {
+    "settlementName": "Townhill",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "settlementName": "Tranent",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Troon",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "settlementName": "Tullibody",
+    "cons": [
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "settlementName": "Turriff",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Twechar",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East"
+    ]
+  },
+  {
+    "settlementName": "Ullapool",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Uplawmoor",
+    "cons": [
+      "East Renfrewshire"
+    ]
+  },
+  {
+    "settlementName": "Vale of Leven",
+    "cons": [
+      "West Dunbartonshire"
+    ]
+  },
+  {
+    "settlementName": "Walkerburn",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Waterfoot",
+    "cons": [
+      "East Renfrewshire",
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale"
+    ]
+  },
+  {
+    "settlementName": "Wattston and Greengairs",
+    "cons": [
+      "Motherwell and Wishaw",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts"
+    ]
+  },
+  {
+    "settlementName": "Wellbank",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus"
+    ]
+  },
+  {
+    "settlementName": "Wemyss Bay",
+    "cons": [
+      "Inverclyde",
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "West Barns",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "West Calder",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "West Kilbride",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "West Linton",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "settlementName": "Westhill (Aberdeenshire)",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Whitburn",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Whitecraig",
+    "cons": [
+      "East Lothian"
+    ]
+  },
+  {
+    "settlementName": "Whitecross",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Whitehills",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Gordon",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "settlementName": "Whithorn",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Whiting Bay",
+    "cons": [
+      "North Ayrshire and Arran",
+      "Central Ayrshire"
+    ]
+  },
+  {
+    "settlementName": "Wick",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "settlementName": "Wigtown",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "settlementName": "Winchburgh",
+    "cons": [
+      "Livingston",
+      "Linlithgow and East Falkirk"
+    ]
+  },
+  {
+    "settlementName": "Yetholm",
+    "cons": [
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  }
+]

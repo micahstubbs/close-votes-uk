@@ -1,0 +1,187 @@
+[
+  {
+    "settlementName": "Greater Glasgow",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "East Renfrewshire",
+      "Glasgow South West",
+      "Glasgow South",
+      "Glasgow North West",
+      "Glasgow North East",
+      "Glasgow North",
+      "Glasgow East",
+      "Glasgow Central",
+      "Motherwell and Wishaw",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts",
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North",
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "West Dunbartonshire"
+    ],
+    "spop": 976970
+  },
+  {
+    "settlementName": "Edinburgh",
+    "cons": [
+      "East Lothian",
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ],
+    "spop": 488610
+  },
+  {
+    "settlementName": "Aberdeen",
+    "cons": [
+      "Gordon",
+      "Aberdeen South",
+      "Aberdeen North"
+    ],
+    "spop": 209460
+  },
+  {
+    "settlementName": "Dundee",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus",
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ],
+    "spop": 157690
+  },
+  {
+    "settlementName": "Falkirk",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ],
+    "spop": 100480
+  },
+  {
+    "settlementName": "Dunfermline",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ],
+    "spop": 71820
+  },
+  {
+    "settlementName": "Greenock",
+    "cons": [
+      "Inverclyde"
+    ],
+    "spop": 69450
+  },
+  {
+    "settlementName": "Ayr",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ],
+    "spop": 62870
+  },
+  {
+    "settlementName": "Livingston",
+    "cons": [
+      "Livingston"
+    ],
+    "spop": 60030
+  },
+  {
+    "settlementName": "Kilmarnock",
+    "cons": [
+      "Kilmarnock and Loudoun"
+    ],
+    "spop": 51150
+  },
+  {
+    "settlementName": "Stirling",
+    "cons": [
+      "Stirling"
+    ],
+    "spop": 48480
+  },
+  {
+    "settlementName": "Inverness",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ],
+    "spop": 46870
+  },
+  {
+    "settlementName": "Dalkeith",
+    "cons": [
+      "Midlothian"
+    ],
+    "spop": 42220
+  },
+  {
+    "settlementName": "Irvine",
+    "cons": [
+      "North Ayrshire and Arran"
+    ],
+    "spop": 37380
+  },
+  {
+    "settlementName": "Dumfries",
+    "cons": [
+      "Dumfries and Galloway"
+    ],
+    "spop": 33280
+  },
+  {
+    "settlementName": "Elgin",
+    "cons": [
+      "Moray"
+    ],
+    "spop": 22980
+  },
+  {
+    "settlementName": "Peterhead",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Banff and Buchan"
+    ],
+    "spop": 18450
+  },
+  {
+    "settlementName": "Helensburgh",
+    "cons": [
+      "Argyll and Bute"
+    ],
+    "spop": 15590
+  },
+  {
+    "settlementName": "Galashiels",
+    "cons": [
+      "Berwickshire, Roxburgh and Selkirk"
+    ],
+    "spop": 14760
+  },
+  {
+    "settlementName": "Steornabhagh (Stornoway)",
+    "cons": [
+      "Na h-Eileanan an Iar"
+    ],
+    "spop": 7500
+  },
+  {
+    "settlementName": "Kirkwall",
+    "cons": [
+      "Orkney and Shetland"
+    ],
+    "spop": 7150
+  }
+]

@@ -1,0 +1,1654 @@
+[
+  {
+    "metro": "Greater London",
+    "pop": "11215733",
+    "cons": [
+      "Barking",
+      "Battersea",
+      "Beaconsfield",
+      "Beckenham",
+      "Bermondsey and Old Southwark",
+      "Bethnal Green and Bow",
+      "Bexleyheath and Crayford",
+      "Bracknell",
+      "Brent Central",
+      "Brent North",
+      "Brentford and Isleworth",
+      "Brentwood and Ongar",
+      "Bromley and Chislehurst",
+      "Broxbourne",
+      "Camberwell and Peckham",
+      "Carshalton and Wallington",
+      "Chelsea and Fulham",
+      "Chingford and Woodford Green",
+      "Chipping Barnet",
+      "Cities of London and Westminster",
+      "Croydon Central",
+      "Croydon North",
+      "Croydon South",
+      "Dagenham and Rainham",
+      "Dartford",
+      "Dulwich and West Norwood",
+      "Ealing Central and Acton",
+      "Ealing North",
+      "Ealing, Southall",
+      "East Ham",
+      "Edmonton",
+      "Eltham",
+      "Enfield North",
+      "Enfield, Southgate",
+      "Epping Forest",
+      "Epsom and Ewell",
+      "Erith and Thamesmead",
+      "Esher and Walton",
+      "Feltham and Heston",
+      "Finchley and Golders Green",
+      "Gravesham",
+      "Greenwich and Woolwich",
+      "Guildford",
+      "Hackney North and Stoke Newington",
+      "Hackney South and Shoreditch",
+      "Hammersmith",
+      "Hampstead and Kilburn",
+      "Harlow",
+      "Harrow East",
+      "Harrow West",
+      "Hayes and Harlington",
+      "Hemel Hempstead",
+      "Hendon",
+      "Hertford and Stortford",
+      "South West Hertfordshire",
+      "Hertsmere",
+      "Hitchin and Harpenden",
+      "Holborn and St Pancras",
+      "Hornchurch and Upminster",
+      "Hornsey and Wood Green",
+      "Ilford North",
+      "Ilford South",
+      "Islington North",
+      "Islington South and Finsbury",
+      "Kensington",
+      "Kingston and Surbiton",
+      "Lewisham, Deptford",
+      "Lewisham East",
+      "Lewisham West and Penge",
+      "Leyton and Wanstead",
+      "Mitcham and Morden",
+      "Mole Valley",
+      "Old Bexley and Sidcup",
+      "Orpington",
+      "Poplar and Limehouse",
+      "Putney",
+      "Reigate",
+      "Richmond Park",
+      "Romford",
+      "Ruislip, Northwood and Pinner",
+      "Runnymede and Weybridge",
+      "Spelthorne",
+      "St Albans",
+      "Streatham",
+      "East Surrey",
+      "Surrey Heath",
+      "South West Surrey",
+      "Sutton and Cheam",
+      "Tooting",
+      "Tottenham",
+      "Twickenham",
+      "Uxbridge and South Ruislip",
+      "Vauxhall",
+      "Walthamstow",
+      "Watford",
+      "West Ham",
+      "Westminster North",
+      "Wimbledon",
+      "Windsor",
+      "Woking"
+    ]
+  },
+  {
+    "metro": "Greater Manchester",
+    "pop": "3075769",
+    "cons": [
+      "Altrincham and Sale West",
+      "Ashton-under-Lyne",
+      "Blackley and Broughton",
+      "Bolton North East",
+      "Bolton South East",
+      "Bolton West",
+      "Bury North",
+      "Bury South",
+      "Cheadle",
+      "Denton and Reddish",
+      "Hazel Grove",
+      "Heywood and Middleton",
+      "High Peak",
+      "Leigh",
+      "Macclesfield",
+      "Makerfield",
+      "Manchester Central",
+      "Manchester, Gorton",
+      "Manchester, Withington",
+      "Oldham East and Saddleworth",
+      "Oldham West and Royton",
+      "Rochdale",
+      "Rossendale and Darwen",
+      "Salford and Eccles",
+      "St Helens North",
+      "Stalybridge and Hyde",
+      "Stockport",
+      "Stretford and Urmston",
+      "Tatton",
+      "Worsley and Eccles South",
+      "Wythenshawe and Sale East"
+    ]
+  },
+  {
+    "metro": "West Midlands",
+    "pop": "2739886",
+    "cons": [
+      "Aldridge-Brownhills",
+      "Birmingham, Edgbaston",
+      "Birmingham, Erdington",
+      "Birmingham, Hall Green",
+      "Birmingham, Hodge Hill",
+      "Birmingham, Ladywood",
+      "Birmingham, Northfield",
+      "Birmingham, Perry Barr",
+      "Birmingham, Selly Oak",
+      "Birmingham, Yardley",
+      "Bromsgrove",
+      "Dudley North",
+      "Dudley South",
+      "Halesowen and Rowley Regis",
+      "Meriden",
+      "Solihull",
+      "South Staffordshire",
+      "Stourbridge",
+      "Sutton Coldfield",
+      "Tamworth",
+      "Walsall North",
+      "Walsall South",
+      "Warley",
+      "West Bromwich East",
+      "West Bromwich West",
+      "Wolverhampton North East",
+      "Wolverhampton South East",
+      "Wolverhampton South West"
+    ]
+  },
+  {
+    "metro": "West Yorkshire",
+    "pop": "2242797",
+    "cons": [
+      "Batley and Spen",
+      "Bradford East",
+      "Bradford South",
+      "Bradford West",
+      "Calder Valley",
+      "Colne Valley",
+      "Dewsbury",
+      "Elmet and Rothwell",
+      "Halifax",
+      "Hemsworth",
+      "Huddersfield",
+      "Keighley",
+      "Leeds Central",
+      "Leeds East",
+      "Leeds North East",
+      "Leeds North West",
+      "Leeds West",
+      "Morley and Outwood",
+      "Pudsey",
+      "Shipley",
+      "Skipton and Ripon",
+      "Wakefield"
+    ]
+  },
+  {
+    "metro": "South Hampshire",
+    "pop": "1095053",
+    "cons": [
+      "Eastleigh",
+      "Fareham",
+      "Gosport",
+      "Havant",
+      "Meon Valley",
+      "Portsmouth North",
+      "Portsmouth South",
+      "Romsey and Southampton North",
+      "Southampton, Itchen",
+      "Southampton, Test",
+      "Winchester"
+    ]
+  },
+  {
+    "metro": "Liverpool",
+    "pop": "1074069",
+    "cons": [
+      "Bootle",
+      "Garston and Halewood",
+      "Knowsley",
+      "Liverpool, Riverside",
+      "Liverpool, Walton",
+      "Liverpool, Wavertree",
+      "Liverpool, West Derby",
+      "Sefton Central",
+      "St Helens South and Whiston"
+    ]
+  },
+  {
+    "metro": "Nottingham",
+    "pop": "1064345",
+    "cons": [
+      "Amber Valley",
+      "Ashfield",
+      "Broxtowe",
+      "Mid Derbyshire",
+      "Erewash",
+      "Gedling",
+      "Nottingham East",
+      "Nottingham North",
+      "Nottingham South",
+      "Rushcliffe",
+      "Sherwood"
+    ]
+  },
+  {
+    "metro": "Sheffield",
+    "pop": "965866",
+    "cons": [
+      "North East Derbyshire",
+      "Penistone and Stocksbridge",
+      "Rother Valley",
+      "Rotherham",
+      "Sheffield, Brightside and Hillsborough",
+      "Sheffield Central",
+      "Sheffield, Hallam",
+      "Sheffield, Heeley",
+      "Sheffield South East",
+      "Wentworth and Dearne"
+    ]
+  },
+  {
+    "metro": "Bristol",
+    "pop": "894959",
+    "cons": [
+      "Bristol East",
+      "Bristol North West",
+      "Bristol South",
+      "Bristol West",
+      "Filton and Bradley Stoke",
+      "Kingswood",
+      "North Somerset",
+      "North East Somerset",
+      "Thornbury and Yate"
+    ]
+  },
+  {
+    "metro": "Tyneside",
+    "pop": "837497",
+    "cons": [
+      "Blaydon",
+      "Gateshead",
+      "Jarrow",
+      "Newcastle upon Tyne Central",
+      "Newcastle upon Tyne East",
+      "Newcastle upon Tyne North",
+      "South Shields",
+      "Tynemouth",
+      "North Tyneside"
+    ]
+  },
+  {
+    "metro": "Leicester",
+    "pop": "736725",
+    "cons": [
+      "Charnwood",
+      "Harborough",
+      "Leicester East",
+      "Leicester South",
+      "Leicester West",
+      "South Leicestershire",
+      "Rutland and Melton"
+    ]
+  },
+  {
+    "metro": "Crawley",
+    "pop": "733024",
+    "cons": [
+      "Crawley",
+      "Horsham",
+      "Mid Sussex",
+      "Wealden"
+    ]
+  },
+  {
+    "metro": "Farnborough/Aldershot",
+    "pop": "725002",
+    "cons": [
+      "Aldershot",
+      "East Hampshire",
+      "North East Hampshire"
+    ]
+  },
+  {
+    "metro": "Cardiff",
+    "pop": "716679",
+    "cons": [
+      "Caerphilly",
+      "Cardiff Central",
+      "Cardiff North",
+      "Cardiff South and Penarth",
+      "Cardiff West",
+      "Cynon Valley",
+      "Pontypridd",
+      "Vale of Glamorgan"
+    ]
+  },
+  {
+    "metro": "Brighton and Hove",
+    "pop": "693474",
+    "cons": [
+      "Arundel and South Downs",
+      "Bognor Regis and Littlehampton",
+      "Brighton, Kemptown",
+      "Brighton, Pavilion",
+      "Hove",
+      "East Worthing and Shoreham",
+      "Worthing West"
+    ]
+  },
+  {
+    "metro": "Reading",
+    "pop": "627823",
+    "cons": [
+      "Henley",
+      "Maidenhead",
+      "Reading East",
+      "Reading West",
+      "Wokingham"
+    ]
+  },
+  {
+    "metro": "Medway Towns",
+    "pop": "618207",
+    "cons": [
+      "Chatham and Aylesford",
+      "Faversham and Mid Kent",
+      "Gillingham and Rainham",
+      "Rochester and Strood",
+      "Sittingbourne and Sheppey"
+    ]
+  },
+  {
+    "metro": "Sunderland",
+    "pop": "617150",
+    "cons": [
+      "North Durham",
+      "Easington",
+      "Houghton and Sunderland South",
+      "Sunderland Central",
+      "Washington and Sunderland West"
+    ]
+  },
+  {
+    "metro": "Stoke-on-Trent",
+    "pop": "615893",
+    "cons": [
+      "Congleton",
+      "Newcastle-under-Lyme",
+      "Staffordshire Moorlands",
+      "Stoke-on-Trent Central",
+      "Stoke-on-Trent North",
+      "Stoke-on-Trent South",
+      "Stone"
+    ]
+  },
+  {
+    "metro": "Coventry",
+    "pop": "599731",
+    "cons": [
+      "Coventry North East",
+      "Coventry North West",
+      "Coventry South",
+      "Kenilworth and Southam",
+      "Rugby",
+      "North Warwickshire"
+    ]
+  },
+  {
+    "metro": "Newport (Newport)",
+    "pop": "562733",
+    "cons": [
+      "Blaenau Gwent",
+      "Islwyn",
+      "Monmouth",
+      "Newport East",
+      "Newport West",
+      "Torfaen"
+    ]
+  },
+  {
+    "metro": "Preston",
+    "pop": "559361",
+    "cons": [
+      "Chorley",
+      "Fylde",
+      "Preston",
+      "Ribble Valley",
+      "South Ribble",
+      "Wyre and Preston North"
+    ]
+  },
+  {
+    "metro": "Bournemouth/Poole",
+    "pop": "553655",
+    "cons": [
+      "Bournemouth East",
+      "Bournemouth West",
+      "Christchurch",
+      "Mid Dorset and North Poole",
+      "New Forest West",
+      "Poole"
+    ]
+  },
+  {
+    "metro": "High Wycombe",
+    "pop": "519364",
+    "cons": [
+      "Aylesbury",
+      "Chesham and Amersham",
+      "Wycombe"
+    ]
+  },
+  {
+    "metro": "Teesside",
+    "pop": "467080",
+    "cons": [
+      "Middlesbrough",
+      "Middlesbrough South and East Cleveland",
+      "Redcar",
+      "Stockton North",
+      "Stockton South"
+    ]
+  },
+  {
+    "metro": "Barnsley/Dearne Valley",
+    "pop": "462009",
+    "cons": [
+      "Barnsley Central",
+      "Barnsley East",
+      "Doncaster North"
+    ]
+  },
+  {
+    "metro": "Kingston upon Hull",
+    "pop": "461350",
+    "cons": [
+      "Beverley and Holderness",
+      "Haltemprice and Howden",
+      "Kingston upon Hull East",
+      "Kingston upon Hull North",
+      "Kingston upon Hull West and Hessle"
+    ]
+  },
+  {
+    "metro": "Swansea",
+    "pop": "449246",
+    "cons": [
+      "Aberavon",
+      "Brecon and Radnorshire",
+      "Gower",
+      "Neath",
+      "Swansea East",
+      "Swansea West"
+    ]
+  },
+  {
+    "metro": "Luton",
+    "pop": "423642",
+    "cons": [
+      "Mid Bedfordshire",
+      "South West Bedfordshire",
+      "Luton North",
+      "Luton South"
+    ]
+  },
+  {
+    "metro": "Birkenhead",
+    "pop": "407208",
+    "cons": [
+      "Birkenhead",
+      "Ellesmere Port and Neston",
+      "Wallasey",
+      "Wirral South",
+      "Wirral West"
+    ]
+  },
+  {
+    "metro": "Ipswich",
+    "pop": "400887",
+    "cons": [
+      "Ipswich",
+      "Central Suffolk and North Ipswich",
+      "Suffolk Coastal",
+      "South Suffolk"
+    ]
+  },
+  {
+    "metro": "Mansfield",
+    "pop": "399869",
+    "cons": [
+      "Bolsover",
+      "Mansfield"
+    ]
+  },
+  {
+    "metro": "Derby",
+    "pop": "393893",
+    "cons": [
+      "Derby North",
+      "Derby South",
+      "South Derbyshire"
+    ]
+  },
+  {
+    "metro": "Blackburn",
+    "pop": "393707",
+    "cons": [
+      "Blackburn",
+      "Hyndburn"
+    ]
+  },
+  {
+    "metro": "Northampton",
+    "pop": "389907",
+    "cons": [
+      "Daventry",
+      "Northampton North",
+      "Northampton South",
+      "South Northamptonshire"
+    ]
+  },
+  {
+    "metro": "Norwich",
+    "pop": "384868",
+    "cons": [
+      "Broadland",
+      "South Norfolk",
+      "Norwich North",
+      "Norwich South"
+    ]
+  },
+  {
+    "metro": "Southend-on-Sea",
+    "pop": "378437",
+    "cons": [
+      "Castle Point",
+      "Rayleigh and Wickford",
+      "Rochford and Southend East",
+      "Southend West"
+    ]
+  },
+  {
+    "metro": "Basildon",
+    "pop": "377050",
+    "cons": [
+      "Basildon and Billericay",
+      "South Basildon and East Thurrock",
+      "Maldon"
+    ]
+  },
+  {
+    "metro": "Milton Keynes",
+    "pop": "359418",
+    "cons": [
+      "Milton Keynes North",
+      "Milton Keynes South"
+    ]
+  },
+  {
+    "metro": "Cambridge",
+    "pop": "345836",
+    "cons": [
+      "Cambridge",
+      "South Cambridgeshire",
+      "South East Cambridgeshire"
+    ]
+  },
+  {
+    "metro": "Slough",
+    "pop": "340916",
+    "cons": [
+      "Slough"
+    ]
+  },
+  {
+    "metro": "Stamford",
+    "pop": "335960",
+    "cons": [
+      "North West Cambridgeshire",
+      "Grantham and Stamford"
+    ]
+  },
+  {
+    "metro": "Blackpool",
+    "pop": "335568",
+    "cons": [
+      "Blackpool North and Cleveleys",
+      "Blackpool South"
+    ]
+  },
+  {
+    "metro": "Oxford",
+    "pop": "328992",
+    "cons": [
+      "Oxford East",
+      "Oxford West and Abingdon"
+    ]
+  },
+  {
+    "metro": "Gloucester",
+    "pop": "316617",
+    "cons": [
+      "Gloucester",
+      "Stroud",
+      "Tewkesbury"
+    ]
+  },
+  {
+    "metro": "Lincoln",
+    "pop": "314914",
+    "cons": [
+      "Gainsborough",
+      "Lincoln",
+      "Sleaford and North Hykeham"
+    ]
+  },
+  {
+    "metro": "Bedford",
+    "pop": "313983",
+    "cons": [
+      "Bedford",
+      "North East Bedfordshire"
+    ]
+  },
+  {
+    "metro": "Tadley",
+    "pop": "309688",
+    "cons": [
+      "North West Hampshire",
+      "Newbury"
+    ]
+  },
+  {
+    "metro": "Swindon",
+    "pop": "304065",
+    "cons": [
+      "North Swindon",
+      "South Swindon",
+      "North Wiltshire"
+    ]
+  },
+  {
+    "metro": "Doncaster",
+    "pop": "303622",
+    "cons": [
+      "Don Valley",
+      "Doncaster Central"
+    ]
+  },
+  {
+    "metro": "Chelmsford",
+    "pop": "301731",
+    "cons": [
+      "Chelmsford",
+      "Saffron Walden"
+    ]
+  },
+  {
+    "metro": "Welwyn Garden City",
+    "pop": "301352",
+    "cons": [
+      "North East Hertfordshire",
+      "Stevenage",
+      "Welwyn Hatfield"
+    ]
+  },
+  {
+    "metro": "Eastbourne",
+    "pop": "298963",
+    "cons": [
+      "Bexhill and Battle",
+      "Eastbourne",
+      "Lewes"
+    ]
+  },
+  {
+    "metro": "Wigan",
+    "pop": "296692",
+    "cons": [
+      "West Lancashire",
+      "Wigan"
+    ]
+  },
+  {
+    "metro": "Exeter",
+    "pop": "295853",
+    "cons": [
+      "Central Devon",
+      "East Devon",
+      "Exeter"
+    ]
+  },
+  {
+    "metro": "Burton upon Trent",
+    "pop": "295830",
+    "cons": [
+      "Burton",
+      "North West Leicestershire"
+    ]
+  },
+  {
+    "metro": "Colchester",
+    "pop": "293736",
+    "cons": [
+      "Colchester",
+      "Harwich and North Essex",
+      "Witham"
+    ]
+  },
+  {
+    "metro": "Plymouth",
+    "pop": "293534",
+    "cons": [
+      "South West Devon",
+      "Plymouth, Moor View",
+      "Plymouth, Sutton and Devonport"
+    ]
+  },
+  {
+    "metro": "Worcester",
+    "pop": "288988",
+    "cons": [
+      "Worcester",
+      "Mid Worcestershire",
+      "West Worcestershire"
+    ]
+  },
+  {
+    "metro": "Chesterfield",
+    "pop": "280040",
+    "cons": [
+      "Chesterfield"
+    ]
+  },
+  {
+    "metro": "Burnley",
+    "pop": "268879",
+    "cons": [
+      "Burnley",
+      "Pendle"
+    ]
+  },
+  {
+    "metro": "Telford",
+    "pop": "268655",
+    "cons": [
+      "Ludlow",
+      "Telford",
+      "The Wrekin"
+    ]
+  },
+  {
+    "metro": "Chester",
+    "pop": "263426",
+    "cons": [
+      "Alyn and Deeside",
+      "City of Chester",
+      "Eddisbury"
+    ]
+  },
+  {
+    "metro": "Northwich",
+    "pop": "258855",
+    "cons": [
+      "Weaver Vale"
+    ]
+  },
+  {
+    "metro": "Peterborough",
+    "pop": "245170",
+    "cons": [
+      "Peterborough"
+    ]
+  },
+  {
+    "metro": "Newmarket",
+    "pop": "233321",
+    "cons": [
+      "West Suffolk"
+    ]
+  },
+  {
+    "metro": "Market Deeping",
+    "pop": "230303",
+    "cons": [
+      "South Holland and The Deepings"
+    ]
+  },
+  {
+    "metro": "Shalmsford Street",
+    "pop": "228986",
+    "cons": [
+      "Ashford",
+      "Canterbury"
+    ]
+  },
+  {
+    "metro": "Great Gransden",
+    "pop": "227639",
+    "cons": [
+      "Huntingdon"
+    ]
+  },
+  {
+    "metro": "Wisbech",
+    "pop": "219152",
+    "cons": [
+      "North East Cambridgeshire",
+      "South West Norfolk"
+    ]
+  },
+  {
+    "metro": "Grays",
+    "pop": "217048",
+    "cons": [
+      "Thurrock"
+    ]
+  },
+  {
+    "metro": "Abingdon",
+    "pop": "216544",
+    "cons": [
+      "Wantage"
+    ]
+  },
+  {
+    "metro": "Rushden",
+    "pop": "215053",
+    "cons": [
+      "Wellingborough"
+    ]
+  },
+  {
+    "metro": "Bacton",
+    "pop": "214025",
+    "cons": [
+      "Bury St Edmunds"
+    ]
+  },
+  {
+    "metro": "Burnham-on-Sea",
+    "pop": "212894",
+    "cons": [
+      "Bridgwater and West Somerset",
+      "Wells"
+    ]
+  },
+  {
+    "metro": "Princes Risborough",
+    "pop": "212285",
+    "cons": [
+      "Buckingham"
+    ]
+  },
+  {
+    "metro": "Hastings",
+    "pop": "210060",
+    "cons": [
+      "Hastings and Rye"
+    ]
+  },
+  {
+    "metro": "Haslemere",
+    "pop": "209696",
+    "cons": [
+      "Chichester"
+    ]
+  },
+  {
+    "metro": "Hook (Hart)",
+    "pop": "209462",
+    "cons": [
+      "Basingstoke"
+    ]
+  },
+  {
+    "metro": "Sturry",
+    "pop": "208091",
+    "cons": [
+      "North Thanet"
+    ]
+  },
+  {
+    "metro": "Yatton",
+    "pop": "206135",
+    "cons": [
+      "Weston-Super-Mare"
+    ]
+  },
+  {
+    "metro": "Pontefract",
+    "pop": "206052",
+    "cons": [
+      "Normanton, Pontefract and Castleford",
+      "Selby and Ainsty"
+    ]
+  },
+  {
+    "metro": "Cheltenham",
+    "pop": "205649",
+    "cons": [
+      "Cheltenham"
+    ]
+  },
+  {
+    "metro": "Warrington",
+    "pop": "205109",
+    "cons": [
+      "Warrington North",
+      "Warrington South"
+    ]
+  },
+  {
+    "metro": "Wateringbury",
+    "pop": "204164",
+    "cons": [
+      "Maidstone and The Weald",
+      "Tonbridge and Malling"
+    ]
+  },
+  {
+    "metro": "York",
+    "pop": "202433",
+    "cons": [
+      "York Central",
+      "York Outer"
+    ]
+  },
+  {
+    "metro": "Earl Shilton",
+    "pop": "201820",
+    "cons": [
+      "Bosworth"
+    ]
+  },
+  {
+    "metro": "Hartley",
+    "pop": "201421",
+    "cons": [
+      "Sevenoaks"
+    ]
+  },
+  {
+    "metro": "Boroughbridge",
+    "pop": "201176",
+    "cons": [
+      "Harrogate and Knaresborough"
+    ]
+  },
+  {
+    "metro": "Alsager",
+    "pop": "200880",
+    "cons": [
+      "Crewe and Nantwich"
+    ]
+  },
+  {
+    "metro": "Skegness",
+    "pop": "200039",
+    "cons": [
+      "Boston and Skegness",
+      "Louth and Horncastle"
+    ]
+  },
+  {
+    "metro": "Langwith",
+    "pop": "199830",
+    "cons": [
+      "Bassetlaw"
+    ]
+  },
+  {
+    "metro": "Mountsorrel",
+    "pop": "198560",
+    "cons": [
+      "Loughborough"
+    ]
+  },
+  {
+    "metro": "Stroud",
+    "pop": "197999",
+    "cons": [
+      "The Cotswolds"
+    ]
+  },
+  {
+    "metro": "Trowbridge",
+    "pop": "196789",
+    "cons": [
+      "Chippenham",
+      "South West Wiltshire"
+    ]
+  },
+  {
+    "metro": "Widnes",
+    "pop": "196580",
+    "cons": [
+      "Halton"
+    ]
+  },
+  {
+    "metro": "Bourton",
+    "pop": "196479",
+    "cons": [
+      "North Dorset"
+    ]
+  },
+  {
+    "metro": "Lyme Regis",
+    "pop": "195151",
+    "cons": [
+      "West Dorset",
+      "Tiverton and Honiton"
+    ]
+  },
+  {
+    "metro": "Burton Joyce",
+    "pop": "194472",
+    "cons": [
+      "Newark"
+    ]
+  },
+  {
+    "metro": "Stourport-on-Severn",
+    "pop": "194259",
+    "cons": [
+      "Wyre Forest"
+    ]
+  },
+  {
+    "metro": "Cannock",
+    "pop": "193865",
+    "cons": [
+      "Cannock Chase"
+    ]
+  },
+  {
+    "metro": "Cliffs End",
+    "pop": "193529",
+    "cons": [
+      "South Thanet"
+    ]
+  },
+  {
+    "metro": "Bures",
+    "pop": "191557",
+    "cons": [
+      "Braintree"
+    ]
+  },
+  {
+    "metro": "Nuneaton",
+    "pop": "189711",
+    "cons": [
+      "Nuneaton"
+    ]
+  },
+  {
+    "metro": "Esh Winning",
+    "pop": "188956",
+    "cons": [
+      "North West Durham",
+      "City of Durham"
+    ]
+  },
+  {
+    "metro": "Weymouth",
+    "pop": "188338",
+    "cons": [
+      "South Dorset"
+    ]
+  },
+  {
+    "metro": "Southport",
+    "pop": "186406",
+    "cons": [
+      "Southport"
+    ]
+  },
+  {
+    "metro": "Hereford",
+    "pop": "186087",
+    "cons": [
+      "Hereford and South Herefordshire",
+      "North Herefordshire"
+    ]
+  },
+  {
+    "metro": "Cramlington",
+    "pop": "185047",
+    "cons": [
+      "Blyth Valley"
+    ]
+  },
+  {
+    "metro": "Wynyard Village",
+    "pop": "184916",
+    "cons": [
+      "Hartlepool"
+    ]
+  },
+  {
+    "metro": "Grimsby",
+    "pop": "182227",
+    "cons": [
+      "Cleethorpes",
+      "Great Grimsby"
+    ]
+  },
+  {
+    "metro": "Paignton/Torquay",
+    "pop": "181566",
+    "cons": [
+      "Torbay",
+      "Totnes"
+    ]
+  },
+  {
+    "metro": "Badersfield",
+    "pop": "181019",
+    "cons": [
+      "North Norfolk"
+    ]
+  },
+  {
+    "metro": "West Wellow",
+    "pop": "180819",
+    "cons": [
+      "Salisbury"
+    ]
+  },
+  {
+    "metro": "Bath",
+    "pop": "180097",
+    "cons": [
+      "Bath"
+    ]
+  },
+  {
+    "metro": "Royal Leamington Spa",
+    "pop": "179921",
+    "cons": [
+      "Warwick and Leamington"
+    ]
+  },
+  {
+    "metro": "Redditch",
+    "pop": "178838",
+    "cons": [
+      "Redditch",
+      "Stratford-on-Avon"
+    ]
+  },
+  {
+    "metro": "St Day",
+    "pop": "178369",
+    "cons": [
+      "Camborne and Redruth",
+      "Truro and Falmouth"
+    ]
+  },
+  {
+    "metro": "Lymington",
+    "pop": "178062",
+    "cons": [
+      "New Forest East"
+    ]
+  },
+  {
+    "metro": "Brigg",
+    "pop": "177626",
+    "cons": [
+      "Brigg and Goole",
+      "Scunthorpe"
+    ]
+  },
+  {
+    "metro": "Lancaster/Morecambe",
+    "pop": "176551",
+    "cons": [
+      "Lancaster and Fleetwood",
+      "Morecambe and Lunesdale"
+    ]
+  },
+  {
+    "metro": "Darlington",
+    "pop": "174883",
+    "cons": [
+      "Darlington",
+      "Sedgefield"
+    ]
+  },
+  {
+    "metro": "Chepstow",
+    "pop": "171409",
+    "cons": [
+      "Forest of Dean"
+    ]
+  },
+  {
+    "metro": "Pant",
+    "pop": "169177",
+    "cons": [
+      "Montgomeryshire",
+      "North Shropshire"
+    ]
+  },
+  {
+    "metro": "Wetheral",
+    "pop": "168279",
+    "cons": [
+      "Carlisle",
+      "Penrith and The Border"
+    ]
+  },
+  {
+    "metro": "Heage/Crich",
+    "pop": "167609",
+    "cons": [
+      "Derbyshire Dales"
+    ]
+  },
+  {
+    "metro": "Rossett",
+    "pop": "165504",
+    "cons": [
+      "Wrexham"
+    ]
+  },
+  {
+    "metro": "Treharris",
+    "pop": "162663",
+    "cons": [
+      "Merthyr Tydfil and Rhymney"
+    ]
+  },
+  {
+    "metro": "Pontarddulais",
+    "pop": "159929",
+    "cons": [
+      "Llanelli"
+    ]
+  },
+  {
+    "metro": "Llantrisant",
+    "pop": "156515",
+    "cons": [
+      "Ogmore"
+    ]
+  },
+  {
+    "metro": "Bridgend",
+    "pop": "156430",
+    "cons": [
+      "Bridgend"
+    ]
+  },
+  {
+    "metro": "Cardigan",
+    "pop": "153447",
+    "cons": [
+      "Ceredigion",
+      "Preseli Pembrokeshire"
+    ]
+  },
+  {
+    "metro": "Buckley",
+    "pop": "153240",
+    "cons": [
+      "Delyn"
+    ]
+  },
+  {
+    "metro": "Ammanford",
+    "pop": "153075",
+    "cons": [
+      "Carmarthen East and Dinefwr"
+    ]
+  },
+  {
+    "metro": "Tonypandy",
+    "pop": "150645",
+    "cons": [
+      "Rhondda"
+    ]
+  },
+  {
+    "metro": "Carmarthen",
+    "pop": "148690",
+    "cons": [
+      "Carmarthen West and South Pembrokeshire"
+    ]
+  },
+  {
+    "metro": "Wrexham",
+    "pop": "143963",
+    "cons": [
+      "Clwyd South"
+    ]
+  },
+  {
+    "metro": "Niton",
+    "pop": "138393",
+    "cons": [
+      "Isle of Wight"
+    ]
+  },
+  {
+    "metro": "Colwyn Bay",
+    "pop": "131193",
+    "cons": [
+      "Aberconwy",
+      "Clwyd West"
+    ]
+  },
+  {
+    "metro": "Stratton Audley",
+    "pop": "119315",
+    "cons": [
+      "Banbury"
+    ]
+  },
+  {
+    "metro": "Lydd",
+    "pop": "114009",
+    "cons": [
+      "Folkestone and Hythe"
+    ]
+  },
+  {
+    "metro": "Collyweston",
+    "pop": "113450",
+    "cons": [
+      "Corby"
+    ]
+  },
+  {
+    "metro": "Bishops Lydeard",
+    "pop": "112116",
+    "cons": [
+      "Taunton Deane"
+    ]
+  },
+  {
+    "metro": "Melsonby",
+    "pop": "109643",
+    "cons": [
+      "Richmond (Yorks)"
+    ]
+  },
+  {
+    "metro": "Hardington Moor/Hardington Mandeville",
+    "pop": "108739",
+    "cons": [
+      "Yeovil"
+    ]
+  },
+  {
+    "metro": "Sutton (West Oxfordshire)",
+    "pop": "107989",
+    "cons": [
+      "Witney"
+    ]
+  },
+  {
+    "metro": "Brenchley",
+    "pop": "105859",
+    "cons": [
+      "Tunbridge Wells"
+    ]
+  },
+  {
+    "metro": "Drayton (South Somerset)",
+    "pop": "104355",
+    "cons": [
+      "Somerton and Frome"
+    ]
+  },
+  {
+    "metro": "Lowestoft",
+    "pop": "103120",
+    "cons": [
+      "Waveney"
+    ]
+  },
+  {
+    "metro": "Dorrington (Shropshire)",
+    "pop": "102876",
+    "cons": [
+      "Shrewsbury and Atcham"
+    ]
+  },
+  {
+    "metro": "Beeston",
+    "pop": "101581",
+    "cons": [
+      "Mid Norfolk"
+    ]
+  },
+  {
+    "metro": "Roche",
+    "pop": "101038",
+    "cons": [
+      "St Austell and Newquay"
+    ]
+  },
+  {
+    "metro": "Flamborough",
+    "pop": "100980",
+    "cons": [
+      "East Yorkshire"
+    ]
+  },
+  {
+    "metro": "Seend",
+    "pop": "100162",
+    "cons": [
+      "Devizes"
+    ]
+  },
+  {
+    "metro": "Halwill Junction",
+    "pop": "98555",
+    "cons": [
+      "Torridge and West Devon"
+    ]
+  },
+  {
+    "metro": "Aylesham",
+    "pop": "98442",
+    "cons": [
+      "Dover"
+    ]
+  },
+  {
+    "metro": "St Olaves",
+    "pop": "97796",
+    "cons": [
+      "Great Yarmouth"
+    ]
+  },
+  {
+    "metro": "Knayton",
+    "pop": "97727",
+    "cons": [
+      "Thirsk and Malton"
+    ]
+  },
+  {
+    "metro": "Hawsker",
+    "pop": "96862",
+    "cons": [
+      "Scarborough and Whitby"
+    ]
+  },
+  {
+    "metro": "Stafford",
+    "pop": "96008",
+    "cons": [
+      "Stafford"
+    ]
+  },
+  {
+    "metro": "North Runcton",
+    "pop": "95933",
+    "cons": [
+      "North West Norfolk"
+    ]
+  },
+  {
+    "metro": "Braybrooke",
+    "pop": "95748",
+    "cons": [
+      "Kettering"
+    ]
+  },
+  {
+    "metro": "Upper Longdon",
+    "pop": "94175",
+    "cons": [
+      "Lichfield"
+    ]
+  },
+  {
+    "metro": "Instow",
+    "pop": "93825",
+    "cons": [
+      "North Devon"
+    ]
+  },
+  {
+    "metro": "Bude",
+    "pop": "89497",
+    "cons": [
+      "North Cornwall"
+    ]
+  },
+  {
+    "metro": "Cargreen",
+    "pop": "88440",
+    "cons": [
+      "South East Cornwall"
+    ]
+  },
+  {
+    "metro": "Low Etherley",
+    "pop": "87519",
+    "cons": [
+      "Bishop Auckland"
+    ]
+  },
+  {
+    "metro": "Swarthmoor",
+    "pop": "87488",
+    "cons": [
+      "Barrow and Furness"
+    ]
+  },
+  {
+    "metro": "Starcross",
+    "pop": "86965",
+    "cons": [
+      "Newton Abbot"
+    ]
+  },
+  {
+    "metro": "Ruan Minor",
+    "pop": "86226",
+    "cons": [
+      "St Ives"
+    ]
+  },
+  {
+    "metro": "Point Clear",
+    "pop": "85838",
+    "cons": [
+      "Clacton"
+    ]
+  },
+  {
+    "metro": "Kirkby Lonsdale",
+    "pop": "83799",
+    "cons": [
+      "Westmorland and Lonsdale"
+    ]
+  },
+  {
+    "metro": "Stakeford",
+    "pop": "81898",
+    "cons": [
+      "Wansbeck"
+    ]
+  },
+  {
+    "metro": "Arlecdon",
+    "pop": "80155",
+    "cons": [
+      "Copeland"
+    ]
+  },
+  {
+    "metro": "Abbeytown",
+    "pop": "78349",
+    "cons": [
+      "Workington"
+    ]
+  },
+  {
+    "metro": "Tow House",
+    "pop": "76123",
+    "cons": [
+      "Hexham"
+    ]
+  },
+  {
+    "metro": "Belford",
+    "pop": "75558",
+    "cons": [
+      "Berwick-upon-Tweed"
+    ]
+  },
+  {
+    "metro": "Trefnant",
+    "pop": "71588",
+    "cons": [
+      "Vale of Clwyd"
+    ]
+  },
+  {
+    "metro": "Tywyn",
+    "pop": "60972",
+    "cons": [
+      "Dwyfor Meirionnydd"
+    ]
+  },
+  {
+    "metro": "Bangor",
+    "pop": "60939",
+    "cons": [
+      "Arfon"
+    ]
+  }
+]

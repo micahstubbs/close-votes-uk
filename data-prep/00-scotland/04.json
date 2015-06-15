@@ -1,0 +1,166 @@
+[
+  {
+    "metro": "Greater Glasgow",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "East Renfrewshire",
+      "Glasgow South West",
+      "Glasgow South",
+      "Glasgow North West",
+      "Glasgow North East",
+      "Glasgow North",
+      "Glasgow East",
+      "Glasgow Central",
+      "Motherwell and Wishaw",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts",
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North",
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "West Dunbartonshire"
+    ]
+  },
+  {
+    "metro": "Edinburgh",
+    "cons": [
+      "East Lothian",
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ]
+  },
+  {
+    "metro": "Aberdeen",
+    "cons": [
+      "Gordon",
+      "Aberdeen South",
+      "Aberdeen North"
+    ]
+  },
+  {
+    "metro": "Dundee",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus",
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ]
+  },
+  {
+    "metro": "Falkirk",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ]
+  },
+  {
+    "metro": "Dunfermline",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ]
+  },
+  {
+    "metro": "Greenock",
+    "cons": [
+      "Inverclyde"
+    ]
+  },
+  {
+    "metro": "Ayr",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ]
+  },
+  {
+    "metro": "Livingston",
+    "cons": [
+      "Livingston"
+    ]
+  },
+  {
+    "metro": "Kilmarnock",
+    "cons": [
+      "Kilmarnock and Loudoun"
+    ]
+  },
+  {
+    "metro": "Stirling",
+    "cons": [
+      "Stirling"
+    ]
+  },
+  {
+    "metro": "Inverness",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ]
+  },
+  {
+    "metro": "Dalkeith",
+    "cons": [
+      "Midlothian"
+    ]
+  },
+  {
+    "metro": "Irvine",
+    "cons": [
+      "North Ayrshire and Arran"
+    ]
+  },
+  {
+    "metro": "Dumfries",
+    "cons": [
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "metro": "Elgin",
+    "cons": [
+      "Moray"
+    ]
+  },
+  {
+    "metro": "Peterhead",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Banff and Buchan"
+    ]
+  },
+  {
+    "metro": "Helensburgh",
+    "cons": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "metro": "Galashiels",
+    "cons": [
+      "Berwickshire, Roxburgh and Selkirk"
+    ]
+  },
+  {
+    "metro": "Steornabhagh (Stornoway)",
+    "cons": [
+      "Na h-Eileanan an Iar"
+    ]
+  },
+  {
+    "metro": "Kirkwall",
+    "cons": [
+      "Orkney and Shetland"
+    ]
+  }
+]

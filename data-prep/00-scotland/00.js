@@ -39,7 +39,7 @@ while(i--){
   }
 }
 
-var outputFile = '00-02.json'
+var outputFile = '00.json'
 var outputJsonObj = ojo;
 
 jf.writeFile(outputFile, outputJsonObj, function(err){

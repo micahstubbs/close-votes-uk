@@ -3,16 +3,18 @@ var jf = require('jsonfile')
 var d3 = require('d3');
 var _ = require('lodash');
 
-var file = '000-uk2015.csv'
+var csvfile1 = '00-uk2015.csv',
+    csvfile2 = '00-pop-by-con-england-wales.csv';
 
 // the goal of this script is to generate a unique list of metros
 // sorted by population
 // with each parliamentary constituency assigned to 
 // the largest population metro it coincides with
 
-fs.readFile(file, 'utf8', function (err, csvdata) {
+var data = d3.csv.parse(fs.readFileSync(csvfile1, 'utf8')),
+    popData = d3.csv.parse(fs.readFileSync(csvfile2, 'utf8'));
   
-  data = d3.csv.parse(csvdata);
+  
 
   // will use 'metro' to refer to
   // 'builtup area' for England and Wales
@@ -70,6 +72,16 @@ fs.readFile(file, 'utf8', function (err, csvdata) {
   // new empty array of assigned constituencies 
   var ac = [];
 
+  var popByCon = {};
+
+  var m = popData.length;
+  while(m--){
+    //console.log(popData[m]['PCON11NM']);
+    //console.log(popData[m]['population']);
+    popByCon[popData[m]['PCON11NM']] = popData[m]['population'];
+  }
+  
+
   for (var i=0; i<outputData.length; i++){
     cons = outputData[i]['cons'];
     //console.log(cons);
@@ -89,7 +101,19 @@ fs.readFile(file, 'utf8', function (err, csvdata) {
         if (j > -1) {
           //console.log(Array.isArray(outputData[i]['cons'])) 
           outputData[i]['cons'].splice(j, 1);
+
+        
         }
+        // subtract the population of the removed constituency
+        // from the metro population          
+        var metroPop = outputData[i]['pop'];
+        var currentMetro = outputData[i]['metro'];
+        var conPop = popByCon[outputData[i]['metro']];
+        //console.log(metroPop);
+        //console.log(currentMetro);
+        //console.log(conPop);
+        //console.log(outputData[i])
+        //outputData[i]['pop'] = parseFloat(outputData[i]['pop']) - parseFloat(popByCon[outputData[i]['metro']]);
       }
       // if not, add it to the list of
       // assigned constituencies
@@ -106,8 +130,8 @@ fs.readFile(file, 'utf8', function (err, csvdata) {
   // constituencies assigned to them
   var i = outputData.length;
   while(i--){
-    console.log(i);
-    console.log(outputData[i]["cons"].length);
+    //console.log(i);
+    //console.log(outputData[i]["cons"].length);
     if (outputData[i]["cons"].length === 0){
         if (i > -1) {
           //console.log(Array.isArray(outputData));
@@ -125,5 +149,5 @@ fs.readFile(file, 'utf8', function (err, csvdata) {
   console.log(err)
   })
 
-})
+
 

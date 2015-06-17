@@ -24,7 +24,7 @@ var data = d3.csv.parse(fs.readFileSync(csvfile1, 'utf8')),
   var outputData = [];
   // build a list of metros accounted for 
   // we need to do this because metros are not unique rows
-  var maf = []
+  var maf = [];
 
   var metros = [];
   for(var i=0; i<data.length; i++){

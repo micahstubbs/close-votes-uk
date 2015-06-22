@@ -72,16 +72,6 @@ var data = d3.csv.parse(fs.readFileSync(csvfile1, 'utf8')),
   // new empty array of assigned constituencies 
   var ac = [];
 
-  var popByCon = {};
-
-  var m = popData.length;
-  while(m--){
-    //console.log(popData[m]['PCON11NM']);
-    //console.log(popData[m]['population']);
-    popByCon[popData[m]['PCON11NM']] = popData[m]['population'];
-  }
-  
-
   for (var i=0; i<outputData.length; i++){
     cons = outputData[i]['cons'];
     //console.log(cons);
@@ -104,16 +94,6 @@ var data = d3.csv.parse(fs.readFileSync(csvfile1, 'utf8')),
 
         
         }
-        // subtract the population of the removed constituency
-        // from the metro population          
-        var metroPop = outputData[i]['pop'];
-        var currentMetro = outputData[i]['metro'];
-        var conPop = popByCon[outputData[i]['metro']];
-        //console.log(metroPop);
-        //console.log(currentMetro);
-        //console.log(conPop);
-        //console.log(outputData[i])
-        //outputData[i]['pop'] = parseFloat(outputData[i]['pop']) - parseFloat(popByCon[outputData[i]['metro']]);
       }
       // if not, add it to the list of
       // assigned constituencies
@@ -126,7 +106,7 @@ var data = d3.csv.parse(fs.readFileSync(csvfile1, 'utf8')),
   }
   //console.log(ac);
 
-  // remove all small metros that no longer have 
+  // then remove all small metros that no longer have 
   // constituencies assigned to them
   var i = outputData.length;
   while(i--){
@@ -139,7 +119,6 @@ var data = d3.csv.parse(fs.readFileSync(csvfile1, 'utf8')),
         }
     }
   }
-  
 
   var outputFile = '002.json'
 

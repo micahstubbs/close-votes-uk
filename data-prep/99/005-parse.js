@@ -3,8 +3,8 @@ var jf = require('jsonfile')
 var d3 = require('d3');
 var _ = require('lodash');
 
-var csvfile = 'metro-geo.csv';
-var jsonfile1 = '002.json';
+var csvfile = '../geography/metro-geo.csv';
+var jsonfile1 = '003.json';
 var jsonfile2 = '../00-northern-ireland/00.json'
 var jsonfile3 = '../00-scotland/04.json'
 

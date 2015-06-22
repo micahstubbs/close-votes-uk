@@ -1,7 +1,7 @@
 [
   {
     "metro": "Greater London",
-    "pop": "11215733",
+    "pop": 11215733,
     "cons": [
       "Barking",
       "Battersea",
@@ -109,7 +109,7 @@
   },
   {
     "metro": "Greater Manchester",
-    "pop": "3075769",
+    "pop": 3075769,
     "cons": [
       "Altrincham and Sale West",
       "Ashton-under-Lyne",
@@ -148,7 +148,7 @@
   },
   {
     "metro": "West Midlands",
-    "pop": "2739886",
+    "pop": 2739886,
     "cons": [
       "Aldridge-Brownhills",
       "Birmingham, Edgbaston",
@@ -184,7 +184,7 @@
   },
   {
     "metro": "West Yorkshire",
-    "pop": "2242797",
+    "pop": 2242797,
     "cons": [
       "Batley and Spen",
       "Bradford East",
@@ -214,7 +214,7 @@
   },
   {
     "metro": "South Hampshire",
-    "pop": "1095053",
+    "pop": 1095053,
     "cons": [
       "Eastleigh",
       "Fareham",
@@ -233,7 +233,7 @@
   },
   {
     "metro": "Liverpool",
-    "pop": "1074069",
+    "pop": 878435,
     "cons": [
       "Bootle",
       "Garston and Halewood",
@@ -250,7 +250,7 @@
   },
   {
     "metro": "Nottingham",
-    "pop": "1064345",
+    "pop": 1064345,
     "cons": [
       "Amber Valley",
       "Ashfield",
@@ -269,7 +269,7 @@
   },
   {
     "metro": "Sheffield",
-    "pop": "965866",
+    "pop": 965866,
     "cons": [
       "North East Derbyshire",
       "Penistone and Stocksbridge",
@@ -287,7 +287,7 @@
   },
   {
     "metro": "Bristol",
-    "pop": "894959",
+    "pop": 894959,
     "cons": [
       "Bristol East",
       "Bristol North West",
@@ -304,7 +304,7 @@
   },
   {
     "metro": "Tyneside",
-    "pop": "837497",
+    "pop": 837497,
     "cons": [
       "Blaydon",
       "Gateshead",
@@ -321,7 +321,7 @@
   },
   {
     "metro": "Leicester",
-    "pop": "736725",
+    "pop": 736725,
     "cons": [
       "Charnwood",
       "Harborough",
@@ -336,7 +336,7 @@
   },
   {
     "metro": "Crawley",
-    "pop": "733024",
+    "pop": 426732,
     "cons": [
       "Crawley",
       "Horsham",
@@ -348,7 +348,7 @@
   },
   {
     "metro": "Farnborough/Aldershot",
-    "pop": "725002",
+    "pop": 299674,
     "cons": [
       "Aldershot",
       "East Hampshire",
@@ -359,7 +359,7 @@
   },
   {
     "metro": "Cardiff",
-    "pop": "716679",
+    "pop": 716679,
     "cons": [
       "Caerphilly",
       "Cardiff Central",
@@ -375,7 +375,7 @@
   },
   {
     "metro": "Brighton and Hove",
-    "pop": "693474",
+    "pop": 693474,
     "cons": [
       "Arundel and South Downs",
       "Bognor Regis and Littlehampton",
@@ -390,7 +390,7 @@
   },
   {
     "metro": "Reading",
-    "pop": "627823",
+    "pop": 519536,
     "cons": [
       "Henley",
       "Maidenhead",
@@ -403,7 +403,7 @@
   },
   {
     "metro": "Medway Towns",
-    "pop": "618207",
+    "pop": 514455,
     "cons": [
       "Chatham and Aylesford",
       "Faversham and Mid Kent",
@@ -416,7 +416,7 @@
   },
   {
     "metro": "Sunderland",
-    "pop": "617150",
+    "pop": 446075,
     "cons": [
       "North Durham",
       "Easington",
@@ -429,7 +429,7 @@
   },
   {
     "metro": "Stoke-on-Trent",
-    "pop": "615893",
+    "pop": 615893,
     "cons": [
       "Congleton",
       "Newcastle-under-Lyme",
@@ -444,7 +444,7 @@
   },
   {
     "metro": "Coventry",
-    "pop": "599731",
+    "pop": 599731,
     "cons": [
       "Coventry North East",
       "Coventry North West",
@@ -458,7 +458,7 @@
   },
   {
     "metro": "Newport (Newport)",
-    "pop": "562733",
+    "pop": 475459,
     "cons": [
       "Blaenau Gwent",
       "Islwyn",
@@ -472,7 +472,7 @@
   },
   {
     "metro": "Preston",
-    "pop": "559361",
+    "pop": 559361,
     "cons": [
       "Chorley",
       "Fylde",
@@ -486,7 +486,7 @@
   },
   {
     "metro": "Bournemouth/Poole",
-    "pop": "553655",
+    "pop": 553655,
     "cons": [
       "Bournemouth East",
       "Bournemouth West",
@@ -500,7 +500,7 @@
   },
   {
     "metro": "High Wycombe",
-    "pop": "519364",
+    "pop": 315705,
     "cons": [
       "Aylesbury",
       "Chesham and Amersham",
@@ -511,7 +511,7 @@
   },
   {
     "metro": "Teesside",
-    "pop": "467080",
+    "pop": 467080,
     "cons": [
       "Middlesbrough",
       "Middlesbrough South and East Cleveland",
@@ -524,7 +524,7 @@
   },
   {
     "metro": "Barnsley/Dearne Valley",
-    "pop": "462009",
+    "pop": 278273,
     "cons": [
       "Barnsley Central",
       "Barnsley East",
@@ -535,7 +535,7 @@
   },
   {
     "metro": "Kingston upon Hull",
-    "pop": "461350",
+    "pop": 461350,
     "cons": [
       "Beverley and Holderness",
       "Haltemprice and Howden",
@@ -548,7 +548,7 @@
   },
   {
     "metro": "Swansea",
-    "pop": "449246",
+    "pop": 449246,
     "cons": [
       "Aberavon",
       "Brecon and Radnorshire",
@@ -562,7 +562,7 @@
   },
   {
     "metro": "Luton",
-    "pop": "423642",
+    "pop": 423642,
     "cons": [
       "Mid Bedfordshire",
       "South West Bedfordshire",
@@ -574,7 +574,7 @@
   },
   {
     "metro": "Birkenhead",
-    "pop": "407208",
+    "pop": 407208,
     "cons": [
       "Birkenhead",
       "Ellesmere Port and Neston",
@@ -587,7 +587,7 @@
   },
   {
     "metro": "Ipswich",
-    "pop": "400887",
+    "pop": 400887,
     "cons": [
       "Ipswich",
       "Central Suffolk and North Ipswich",
@@ -599,7 +599,7 @@
   },
   {
     "metro": "Mansfield",
-    "pop": "399869",
+    "pop": 200650,
     "cons": [
       "Bolsover",
       "Mansfield"
@@ -609,7 +609,7 @@
   },
   {
     "metro": "Derby",
-    "pop": "393893",
+    "pop": 309532,
     "cons": [
       "Derby North",
       "Derby South",
@@ -620,7 +620,7 @@
   },
   {
     "metro": "Blackburn",
-    "pop": "393707",
+    "pop": 199240,
     "cons": [
       "Blackburn",
       "Hyndburn"
@@ -630,7 +630,7 @@
   },
   {
     "metro": "Northampton",
-    "pop": "389907",
+    "pop": 389907,
     "cons": [
       "Daventry",
       "Northampton North",
@@ -642,7 +642,7 @@
   },
   {
     "metro": "Norwich",
-    "pop": "384868",
+    "pop": 384868,
     "cons": [
       "Broadland",
       "South Norfolk",
@@ -654,7 +654,7 @@
   },
   {
     "metro": "Southend-on-Sea",
-    "pop": "378437",
+    "pop": 378437,
     "cons": [
       "Castle Point",
       "Rayleigh and Wickford",
@@ -666,7 +666,7 @@
   },
   {
     "metro": "Basildon",
-    "pop": "377050",
+    "pop": 278376,
     "cons": [
       "Basildon and Billericay",
       "South Basildon and East Thurrock",
@@ -677,7 +677,7 @@
   },
   {
     "metro": "Milton Keynes",
-    "pop": "359418",
+    "pop": 255692,
     "cons": [
       "Milton Keynes North",
       "Milton Keynes South"
@@ -687,7 +687,7 @@
   },
   {
     "metro": "Cambridge",
-    "pop": "345836",
+    "pop": 345836,
     "cons": [
       "Cambridge",
       "South Cambridgeshire",
@@ -698,7 +698,7 @@
   },
   {
     "metro": "Slough",
-    "pop": "340916",
+    "pop": 136733,
     "cons": [
       "Slough"
     ],
@@ -707,7 +707,7 @@
   },
   {
     "metro": "Stamford",
-    "pop": "335960",
+    "pop": 234115,
     "cons": [
       "North West Cambridgeshire",
       "Grantham and Stamford"
@@ -717,7 +717,7 @@
   },
   {
     "metro": "Blackpool",
-    "pop": "335568",
+    "pop": 164077,
     "cons": [
       "Blackpool North and Cleveleys",
       "Blackpool South"
@@ -727,7 +727,7 @@
   },
   {
     "metro": "Oxford",
-    "pop": "328992",
+    "pop": 230477,
     "cons": [
       "Oxford East",
       "Oxford West and Abingdon"
@@ -737,7 +737,7 @@
   },
   {
     "metro": "Gloucester",
-    "pop": "316617",
+    "pop": 316617,
     "cons": [
       "Gloucester",
       "Stroud",
@@ -748,7 +748,7 @@
   },
   {
     "metro": "Lincoln",
-    "pop": "314914",
+    "pop": 314914,
     "cons": [
       "Gainsborough",
       "Lincoln",
@@ -759,7 +759,7 @@
   },
   {
     "metro": "Bedford",
-    "pop": "313983",
+    "pop": 210257,
     "cons": [
       "Bedford",
       "North East Bedfordshire"
@@ -769,7 +769,7 @@
   },
   {
     "metro": "Tadley",
-    "pop": "309688",
+    "pop": 211832,
     "cons": [
       "North West Hampshire",
       "Newbury"
@@ -779,7 +779,7 @@
   },
   {
     "metro": "Swindon",
-    "pop": "304065",
+    "pop": 304065,
     "cons": [
       "North Swindon",
       "South Swindon",
@@ -790,7 +790,7 @@
   },
   {
     "metro": "Doncaster",
-    "pop": "303622",
+    "pop": 205102,
     "cons": [
       "Don Valley",
       "Doncaster Central"
@@ -800,7 +800,7 @@
   },
   {
     "metro": "Chelmsford",
-    "pop": "301731",
+    "pop": 212534,
     "cons": [
       "Chelmsford",
       "Saffron Walden"
@@ -810,7 +810,7 @@
   },
   {
     "metro": "Welwyn Garden City",
-    "pop": "301352",
+    "pop": 301352,
     "cons": [
       "North East Hertfordshire",
       "Stevenage",
@@ -821,7 +821,7 @@
   },
   {
     "metro": "Eastbourne",
-    "pop": "298963",
+    "pop": 298963,
     "cons": [
       "Bexhill and Battle",
       "Eastbourne",
@@ -832,7 +832,7 @@
   },
   {
     "metro": "Wigan",
-    "pop": "296692",
+    "pop": 198183,
     "cons": [
       "West Lancashire",
       "Wigan"
@@ -842,7 +842,7 @@
   },
   {
     "metro": "Exeter",
-    "pop": "295853",
+    "pop": 295853,
     "cons": [
       "Central Devon",
       "East Devon",
@@ -853,7 +853,7 @@
   },
   {
     "metro": "Burton upon Trent",
-    "pop": "295830",
+    "pop": 198755,
     "cons": [
       "Burton",
       "North West Leicestershire"
@@ -863,7 +863,7 @@
   },
   {
     "metro": "Colchester",
-    "pop": "293736",
+    "pop": 293736,
     "cons": [
       "Colchester",
       "Harwich and North Essex",
@@ -874,7 +874,7 @@
   },
   {
     "metro": "Plymouth",
-    "pop": "293534",
+    "pop": 293534,
     "cons": [
       "South West Devon",
       "Plymouth, Moor View",
@@ -885,7 +885,7 @@
   },
   {
     "metro": "Worcester",
-    "pop": "288988",
+    "pop": 288988,
     "cons": [
       "Worcester",
       "Mid Worcestershire",
@@ -896,7 +896,7 @@
   },
   {
     "metro": "Chesterfield",
-    "pop": "280040",
+    "pop": 93598,
     "cons": [
       "Chesterfield"
     ],
@@ -905,7 +905,7 @@
   },
   {
     "metro": "Burnley",
-    "pop": "268879",
+    "pop": 177025,
     "cons": [
       "Burnley",
       "Pendle"
@@ -915,7 +915,7 @@
   },
   {
     "metro": "Telford",
-    "pop": "268655",
+    "pop": 268655,
     "cons": [
       "Ludlow",
       "Telford",
@@ -926,7 +926,7 @@
   },
   {
     "metro": "Chester",
-    "pop": "263426",
+    "pop": 263426,
     "cons": [
       "Alyn and Deeside",
       "City of Chester",
@@ -937,7 +937,7 @@
   },
   {
     "metro": "Northwich",
-    "pop": "258855",
+    "pop": 88145,
     "cons": [
       "Weaver Vale"
     ],
@@ -946,7 +946,7 @@
   },
   {
     "metro": "Peterborough",
-    "pop": "245170",
+    "pop": 117711,
     "cons": [
       "Peterborough"
     ],
@@ -955,7 +955,7 @@
   },
   {
     "metro": "Newmarket",
-    "pop": "233321",
+    "pop": 117033,
     "cons": [
       "West Suffolk"
     ],
@@ -964,7 +964,7 @@
   },
   {
     "metro": "Market Deeping",
-    "pop": "230303",
+    "pop": 102844,
     "cons": [
       "South Holland and The Deepings"
     ],
@@ -973,7 +973,7 @@
   },
   {
     "metro": "Shalmsford Street",
-    "pop": "228986",
+    "pop": 228986,
     "cons": [
       "Ashford",
       "Canterbury"
@@ -983,7 +983,7 @@
   },
   {
     "metro": "Great Gransden",
-    "pop": "227639",
+    "pop": 115259,
     "cons": [
       "Huntingdon"
     ],
@@ -992,7 +992,7 @@
   },
   {
     "metro": "Wisbech",
-    "pop": "219152",
+    "pop": 219152,
     "cons": [
       "North East Cambridgeshire",
       "South West Norfolk"
@@ -1002,7 +1002,7 @@
   },
   {
     "metro": "Grays",
-    "pop": "217048",
+    "pop": 119874,
     "cons": [
       "Thurrock"
     ],
@@ -1011,7 +1011,7 @@
   },
   {
     "metro": "Abingdon",
-    "pop": "216544",
+    "pop": 109786,
     "cons": [
       "Wantage"
     ],
@@ -1020,7 +1020,7 @@
   },
   {
     "metro": "Rushden",
-    "pop": "215053",
+    "pop": 107542,
     "cons": [
       "Wellingborough"
     ],
@@ -1029,7 +1029,7 @@
   },
   {
     "metro": "Bacton",
-    "pop": "214025",
+    "pop": 114858,
     "cons": [
       "Bury St Edmunds"
     ],
@@ -1038,7 +1038,7 @@
   },
   {
     "metro": "Burnham-on-Sea",
-    "pop": "212894",
+    "pop": 212894,
     "cons": [
       "Bridgwater and West Somerset",
       "Wells"
@@ -1048,7 +1048,7 @@
   },
   {
     "metro": "Princes Risborough",
-    "pop": "212285",
+    "pop": 99702,
     "cons": [
       "Buckingham"
     ],
@@ -1057,7 +1057,7 @@
   },
   {
     "metro": "Hastings",
-    "pop": "210060",
+    "pop": 108756,
     "cons": [
       "Hastings and Rye"
     ],
@@ -1066,7 +1066,7 @@
   },
   {
     "metro": "Haslemere",
-    "pop": "209696",
+    "pop": 105945,
     "cons": [
       "Chichester"
     ],
@@ -1075,7 +1075,7 @@
   },
   {
     "metro": "Hook (Hart)",
-    "pop": "209462",
+    "pop": 111606,
     "cons": [
       "Basingstoke"
     ],
@@ -1084,7 +1084,7 @@
   },
   {
     "metro": "Sturry",
-    "pop": "208091",
+    "pop": 95651,
     "cons": [
       "North Thanet"
     ],
@@ -1093,7 +1093,7 @@
   },
   {
     "metro": "Yatton",
-    "pop": "206135",
+    "pop": 106211,
     "cons": [
       "Weston-Super-Mare"
     ],
@@ -1102,7 +1102,7 @@
   },
   {
     "metro": "Pontefract",
-    "pop": "206052",
+    "pop": 206052,
     "cons": [
       "Normanton, Pontefract and Castleford",
       "Selby and Ainsty"
@@ -1112,7 +1112,7 @@
   },
   {
     "metro": "Cheltenham",
-    "pop": "205649",
+    "pop": 104998,
     "cons": [
       "Cheltenham"
     ],
@@ -1121,7 +1121,7 @@
   },
   {
     "metro": "Warrington",
-    "pop": "205109",
+    "pop": 205109,
     "cons": [
       "Warrington North",
       "Warrington South"
@@ -1131,7 +1131,7 @@
   },
   {
     "metro": "Wateringbury",
-    "pop": "204164",
+    "pop": 204164,
     "cons": [
       "Maidstone and The Weald",
       "Tonbridge and Malling"
@@ -1141,7 +1141,7 @@
   },
   {
     "metro": "York",
-    "pop": "202433",
+    "pop": 202433,
     "cons": [
       "York Central",
       "York Outer"
@@ -1151,7 +1151,7 @@
   },
   {
     "metro": "Earl Shilton",
-    "pop": "201820",
+    "pop": 99787,
     "cons": [
       "Bosworth"
     ],
@@ -1160,7 +1160,7 @@
   },
   {
     "metro": "Hartley",
-    "pop": "201421",
+    "pop": 94915,
     "cons": [
       "Sevenoaks"
     ],
@@ -1169,7 +1169,7 @@
   },
   {
     "metro": "Boroughbridge",
-    "pop": "201176",
+    "pop": 101860,
     "cons": [
       "Harrogate and Knaresborough"
     ],
@@ -1178,7 +1178,7 @@
   },
   {
     "metro": "Alsager",
-    "pop": "200880",
+    "pop": 108501,
     "cons": [
       "Crewe and Nantwich"
     ],
@@ -1187,7 +1187,7 @@
   },
   {
     "metro": "Skegness",
-    "pop": "200039",
+    "pop": 200039,
     "cons": [
       "Boston and Skegness",
       "Louth and Horncastle"
@@ -1197,7 +1197,7 @@
   },
   {
     "metro": "Langwith",
-    "pop": "199830",
+    "pop": 104476,
     "cons": [
       "Bassetlaw"
     ],
@@ -1205,17 +1205,17 @@
     "long": "-1.206924"
   },
   {
-    "metro": "Mountsorrel",
-    "pop": "198560",
+    "metro": "Sileby/Barrow upon Soar",
+    "pop": 101667,
     "cons": [
       "Loughborough"
     ],
-    "lat": "52.725644",
-    "long": "-1.140136"
+    "lat": "52.75371",
+    "long": "-1.145824"
   },
   {
     "metro": "Stroud",
-    "pop": "197999",
+    "pop": 96941,
     "cons": [
       "The Cotswolds"
     ],
@@ -1224,7 +1224,7 @@
   },
   {
     "metro": "Trowbridge",
-    "pop": "196789",
+    "pop": 196789,
     "cons": [
       "Chippenham",
       "South West Wiltshire"
@@ -1234,7 +1234,7 @@
   },
   {
     "metro": "Widnes",
-    "pop": "196580",
+    "pop": 95395,
     "cons": [
       "Halton"
     ],
@@ -1243,7 +1243,7 @@
   },
   {
     "metro": "Bourton",
-    "pop": "196479",
+    "pop": 97290,
     "cons": [
       "North Dorset"
     ],
@@ -1252,7 +1252,7 @@
   },
   {
     "metro": "Lyme Regis",
-    "pop": "195151",
+    "pop": 195151,
     "cons": [
       "West Dorset",
       "Tiverton and Honiton"
@@ -1262,7 +1262,7 @@
   },
   {
     "metro": "Burton Joyce",
-    "pop": "194472",
+    "pop": 100906,
     "cons": [
       "Newark"
     ],
@@ -1271,7 +1271,7 @@
   },
   {
     "metro": "Stourport-on-Severn",
-    "pop": "194259",
+    "pop": 98421,
     "cons": [
       "Wyre Forest"
     ],
@@ -1280,7 +1280,7 @@
   },
   {
     "metro": "Cannock",
-    "pop": "193865",
+    "pop": 98119,
     "cons": [
       "Cannock Chase"
     ],
@@ -1289,7 +1289,7 @@
   },
   {
     "metro": "Cliffs End",
-    "pop": "193529",
+    "pop": 97878,
     "cons": [
       "South Thanet"
     ],
@@ -1298,7 +1298,7 @@
   },
   {
     "metro": "Bures",
-    "pop": "191557",
+    "pop": 99255,
     "cons": [
       "Braintree"
     ],
@@ -1307,7 +1307,7 @@
   },
   {
     "metro": "Nuneaton",
-    "pop": "189711",
+    "pop": 91720,
     "cons": [
       "Nuneaton"
     ],
@@ -1316,7 +1316,7 @@
   },
   {
     "metro": "Esh Winning",
-    "pop": "188956",
+    "pop": 188956,
     "cons": [
       "North West Durham",
       "City of Durham"
@@ -1326,7 +1326,7 @@
   },
   {
     "metro": "Weymouth",
-    "pop": "188338",
+    "pop": 92191,
     "cons": [
       "South Dorset"
     ],
@@ -1335,7 +1335,7 @@
   },
   {
     "metro": "Southport",
-    "pop": "186406",
+    "pop": 90734,
     "cons": [
       "Southport"
     ],
@@ -1344,7 +1344,7 @@
   },
   {
     "metro": "Hereford",
-    "pop": "186087",
+    "pop": 186087,
     "cons": [
       "Hereford and South Herefordshire",
       "North Herefordshire"
@@ -1354,7 +1354,7 @@
   },
   {
     "metro": "Cramlington",
-    "pop": "185047",
+    "pop": 82227,
     "cons": [
       "Blyth Valley"
     ],
@@ -1363,7 +1363,7 @@
   },
   {
     "metro": "Wynyard Village",
-    "pop": "184916",
+    "pop": 92665,
     "cons": [
       "Hartlepool"
     ],
@@ -1372,7 +1372,7 @@
   },
   {
     "metro": "Grimsby",
-    "pop": "182227",
+    "pop": 182227,
     "cons": [
       "Cleethorpes",
       "Great Grimsby"
@@ -1382,7 +1382,7 @@
   },
   {
     "metro": "Paignton/Torquay",
-    "pop": "181566",
+    "pop": 181566,
     "cons": [
       "Torbay",
       "Totnes"
@@ -1392,7 +1392,7 @@
   },
   {
     "metro": "Badersfield",
-    "pop": "181019",
+    "pop": 85019,
     "cons": [
       "North Norfolk"
     ],
@@ -1401,7 +1401,7 @@
   },
   {
     "metro": "West Wellow",
-    "pop": "180819",
+    "pop": 92655,
     "cons": [
       "Salisbury"
     ],
@@ -1410,7 +1410,7 @@
   },
   {
     "metro": "Bath",
-    "pop": "180097",
+    "pop": 91661,
     "cons": [
       "Bath"
     ],
@@ -1419,7 +1419,7 @@
   },
   {
     "metro": "Royal Leamington Spa",
-    "pop": "179921",
+    "pop": 98265,
     "cons": [
       "Warwick and Leamington"
     ],
@@ -1428,7 +1428,7 @@
   },
   {
     "metro": "Redditch",
-    "pop": "178838",
+    "pop": 178838,
     "cons": [
       "Redditch",
       "Stratford-on-Avon"
@@ -1438,7 +1438,7 @@
   },
   {
     "metro": "St Day",
-    "pop": "178369",
+    "pop": 178369,
     "cons": [
       "Camborne and Redruth",
       "Truro and Falmouth"
@@ -1447,27 +1447,27 @@
     "long": "-5.187696"
   },
   {
-    "metro": "Lymington",
-    "pop": "178062",
+    "metro": "Tiptoe",
+    "pop": 93242,
     "cons": [
       "New Forest East"
     ],
-    "lat": "50.758531",
-    "long": "-1.54191"
+    "lat": "50.778569",
+    "long": "-1.637452"
   },
   {
-    "metro": "Brigg",
-    "pop": "177626",
+    "metro": "Scunthorpe",
+    "pop": 177626,
     "cons": [
       "Brigg and Goole",
       "Scunthorpe"
     ],
-    "lat": "53.55185",
-    "long": "-0.491887"
+    "lat": "53.588646",
+    "long": "-0.654413"
   },
   {
     "metro": "Lancaster/Morecambe",
-    "pop": "176551",
+    "pop": 176551,
     "cons": [
       "Lancaster and Fleetwood",
       "Morecambe and Lunesdale"
@@ -1477,7 +1477,7 @@
   },
   {
     "metro": "Darlington",
-    "pop": "174883",
+    "pop": 174883,
     "cons": [
       "Darlington",
       "Sedgefield"
@@ -1487,7 +1487,7 @@
   },
   {
     "metro": "Chepstow",
-    "pop": "171409",
+    "pop": 87098,
     "cons": [
       "Forest of Dean"
     ],
@@ -1496,7 +1496,7 @@
   },
   {
     "metro": "Pant",
-    "pop": "169177",
+    "pop": 169177,
     "cons": [
       "Montgomeryshire",
       "North Shropshire"
@@ -1505,18 +1505,18 @@
     "long": "-3.081478"
   },
   {
-    "metro": "Wetheral",
-    "pop": "168279",
+    "metro": "Carlisle",
+    "pop": 168279,
     "cons": [
       "Carlisle",
       "Penrith and The Border"
     ],
-    "lat": "54.881806",
-    "long": "-2.833422"
+    "lat": "54.892473",
+    "long": "-2.932931"
   },
   {
     "metro": "Heage/Crich",
-    "pop": "167609",
+    "pop": 78930,
     "cons": [
       "Derbyshire Dales"
     ],
@@ -1525,7 +1525,7 @@
   },
   {
     "metro": "Rossett",
-    "pop": "165504",
+    "pop": 71194,
     "cons": [
       "Wrexham"
     ],
@@ -1534,7 +1534,7 @@
   },
   {
     "metro": "Treharris",
-    "pop": "162663",
+    "pop": 75389,
     "cons": [
       "Merthyr Tydfil and Rhymney"
     ],
@@ -1543,7 +1543,7 @@
   },
   {
     "metro": "Pontarddulais",
-    "pop": "159929",
+    "pop": 81769,
     "cons": [
       "Llanelli"
     ],
@@ -1552,7 +1552,7 @@
   },
   {
     "metro": "Llantrisant",
-    "pop": "156515",
+    "pop": 75498,
     "cons": [
       "Ogmore"
     ],
@@ -1561,7 +1561,7 @@
   },
   {
     "metro": "Bridgend",
-    "pop": "156430",
+    "pop": 80932,
     "cons": [
       "Bridgend"
     ],
@@ -1570,7 +1570,7 @@
   },
   {
     "metro": "Cardigan",
-    "pop": "153447",
+    "pop": 153447,
     "cons": [
       "Ceredigion",
       "Preseli Pembrokeshire"
@@ -1579,26 +1579,26 @@
     "long": "-4.660864"
   },
   {
-    "metro": "Buckley",
-    "pop": "153240",
+    "metro": "Leeswood",
+    "pop": 70003,
     "cons": [
       "Delyn"
     ],
-    "lat": "53.17005",
-    "long": "-3.081488"
+    "lat": "53.129871",
+    "long": "-3.088146"
   },
   {
-    "metro": "Ammanford",
-    "pop": "153075",
+    "metro": "Pontyates",
+    "pop": 71306,
     "cons": [
       "Carmarthen East and Dinefwr"
     ],
-    "lat": "51.792888",
-    "long": "-3.988459"
+    "lat": "51.754874",
+    "long": "-4.220686"
   },
   {
     "metro": "Tonypandy",
-    "pop": "150645",
+    "pop": 69628,
     "cons": [
       "Rhondda"
     ],
@@ -1607,7 +1607,7 @@
   },
   {
     "metro": "Carmarthen",
-    "pop": "148690",
+    "pop": 77384,
     "cons": [
       "Carmarthen West and South Pembrokeshire"
     ],
@@ -1616,7 +1616,7 @@
   },
   {
     "metro": "Wrexham",
-    "pop": "143963",
+    "pop": 72769,
     "cons": [
       "Clwyd South"
     ],
@@ -1624,15 +1624,15 @@
     "long": "-2.992494"
   },
   {
-    "metro": "Niton",
-    "pop": "138393",
+    "metro": "Ventnor",
+    "pop": 138393,
     "cons": [
       "Isle of Wight"
     ]
   },
   {
     "metro": "Colwyn Bay",
-    "pop": "131193",
+    "pop": 131193,
     "cons": [
       "Aberconwy",
       "Clwyd West"
@@ -1642,205 +1642,203 @@
   },
   {
     "metro": "Stratton Audley",
-    "pop": "119315",
+    "pop": 119315,
     "cons": [
       "Banbury"
     ]
   },
   {
-    "metro": "Lydd",
-    "pop": "114009",
+    "metro": "Sellindge",
+    "pop": 114009,
     "cons": [
       "Folkestone and Hythe"
     ]
   },
   {
-    "metro": "Collyweston",
-    "pop": "113450",
+    "metro": "Warmington (East Northamptonshire)",
+    "pop": 113450,
     "cons": [
       "Corby"
     ]
   },
   {
-    "metro": "Bishops Lydeard",
-    "pop": "112116",
+    "metro": "Bradford-on-Tone",
+    "pop": 112116,
     "cons": [
       "Taunton Deane"
     ]
   },
   {
-    "metro": "Melsonby",
-    "pop": "109643",
+    "metro": "East Cowton",
+    "pop": 109643,
     "cons": [
       "Richmond (Yorks)"
     ]
   },
   {
-    "metro": "Hardington Moor/Hardington Mandeville",
-    "pop": "108739",
+    "metro": "Chilthorne Domer",
+    "pop": 108739,
     "cons": [
       "Yeovil"
     ]
   },
   {
-    "metro": "Sutton (West Oxfordshire)",
-    "pop": "107989",
+    "metro": "Churchill (West Oxfordshire)",
+    "pop": 107989,
     "cons": [
       "Witney"
     ]
   },
   {
-    "metro": "Brenchley",
-    "pop": "105859",
+    "metro": "Speldhurst",
+    "pop": 105859,
     "cons": [
       "Tunbridge Wells"
     ]
   },
   {
-    "metro": "Drayton (South Somerset)",
-    "pop": "104355",
+    "metro": "Stoney Stratton",
+    "pop": 104355,
     "cons": [
       "Somerton and Frome"
     ]
   },
   {
-    "metro": "Lowestoft",
-    "pop": "103120",
+    "metro": "St James South Elmham",
+    "pop": 103120,
     "cons": [
       "Waveney"
     ]
   },
   {
-    "metro": "Dorrington (Shropshire)",
-    "pop": "102876",
+    "metro": "Bicton",
+    "pop": 102876,
     "cons": [
       "Shrewsbury and Atcham"
-    ],
-    "lat": "52.622369",
-    "long": "-2.773315"
+    ]
   },
   {
-    "metro": "Beeston",
-    "pop": "101581",
+    "metro": "Great Ellingham",
+    "pop": 101581,
     "cons": [
       "Mid Norfolk"
     ]
   },
   {
-    "metro": "Roche",
-    "pop": "101038",
+    "metro": "Quintrell Downs",
+    "pop": 101038,
     "cons": [
       "St Austell and Newquay"
     ]
   },
   {
-    "metro": "Flamborough",
-    "pop": "100980",
+    "metro": "Bempton",
+    "pop": 100980,
     "cons": [
       "East Yorkshire"
     ]
   },
   {
-    "metro": "Seend",
-    "pop": "100162",
+    "metro": "Oare",
+    "pop": 100162,
     "cons": [
       "Devizes"
     ]
   },
   {
-    "metro": "Halwill Junction",
-    "pop": "98555",
+    "metro": "Mary Tavy",
+    "pop": 98555,
     "cons": [
       "Torridge and West Devon"
     ]
   },
   {
-    "metro": "Aylesham",
-    "pop": "98442",
+    "metro": "Lydden",
+    "pop": 98442,
     "cons": [
       "Dover"
     ]
   },
   {
-    "metro": "St Olaves",
-    "pop": "97796",
+    "metro": "Great Yarmouth",
+    "pop": 97796,
     "cons": [
       "Great Yarmouth"
     ]
   },
   {
-    "metro": "Knayton",
-    "pop": "97727",
+    "metro": "Hovingham",
+    "pop": 97727,
     "cons": [
       "Thirsk and Malton"
     ]
   },
   {
-    "metro": "Hawsker",
-    "pop": "96862",
+    "metro": "Sleights",
+    "pop": 96862,
     "cons": [
       "Scarborough and Whitby"
     ]
   },
   {
-    "metro": "Stafford",
-    "pop": "96008",
+    "metro": "Brocton",
+    "pop": 96008,
     "cons": [
       "Stafford"
     ]
   },
   {
-    "metro": "North Runcton",
-    "pop": "95933",
+    "metro": "Middleton (King's Lynn and West Norfolk)",
+    "pop": 95933,
     "cons": [
       "North West Norfolk"
     ]
   },
   {
-    "metro": "Braybrooke",
-    "pop": "95748",
+    "metro": "Geddington",
+    "pop": 95748,
     "cons": [
       "Kettering"
     ]
   },
   {
-    "metro": "Upper Longdon",
-    "pop": "94175",
+    "metro": "Hill Ridware",
+    "pop": 94175,
     "cons": [
       "Lichfield"
     ]
   },
   {
-    "metro": "Instow",
-    "pop": "93825",
+    "metro": "Goodleigh",
+    "pop": 93825,
     "cons": [
       "North Devon"
     ]
   },
   {
-    "metro": "Bude",
-    "pop": "89497",
+    "metro": "St Eval",
+    "pop": 89497,
     "cons": [
       "North Cornwall"
     ]
   },
   {
-    "metro": "Cargreen",
-    "pop": "88440",
+    "metro": "Pensilva",
+    "pop": 88440,
     "cons": [
       "South East Cornwall"
     ]
   },
   {
-    "metro": "Low Etherley",
-    "pop": "87519",
+    "metro": "Cotherstone",
+    "pop": 87519,
     "cons": [
       "Bishop Auckland"
     ]
   },
   {
     "metro": "Swarthmoor",
-    "pop": "87488",
+    "pop": 87488,
     "cons": [
       "Barrow and Furness"
     ],
@@ -1848,89 +1846,367 @@
     "long": "-3.117613"
   },
   {
-    "metro": "Starcross",
-    "pop": "86965",
+    "metro": "Kenton",
+    "pop": 86965,
     "cons": [
       "Newton Abbot"
-    ],
-    "lat": "50.626973",
-    "long": "-3.450557"
+    ]
   },
   {
-    "metro": "Ruan Minor",
-    "pop": "86226",
+    "metro": "Madron",
+    "pop": 86226,
     "cons": [
       "St Ives"
     ]
   },
   {
-    "metro": "Point Clear",
-    "pop": "85838",
+    "metro": "Kirkby-le-Soken",
+    "pop": 85838,
     "cons": [
       "Clacton"
     ]
   },
   {
-    "metro": "Kirkby Lonsdale",
-    "pop": "83799",
+    "metro": "Staveley",
+    "pop": 83799,
     "cons": [
       "Westmorland and Lonsdale"
     ]
   },
   {
-    "metro": "Stakeford",
-    "pop": "81898",
+    "metro": "Pegswood",
+    "pop": 81898,
     "cons": [
       "Wansbeck"
     ]
   },
   {
     "metro": "Arlecdon",
-    "pop": "80155",
+    "pop": 80155,
     "cons": [
       "Copeland"
     ]
   },
   {
-    "metro": "Abbeytown",
-    "pop": "78349",
+    "metro": "Brigham",
+    "pop": 78349,
     "cons": [
       "Workington"
     ]
   },
   {
-    "metro": "Tow House",
-    "pop": "76123",
+    "metro": "Humshaugh",
+    "pop": 76123,
     "cons": [
       "Hexham"
     ]
   },
   {
-    "metro": "Belford",
-    "pop": "75558",
+    "metro": "Longframlington",
+    "pop": 75558,
     "cons": [
       "Berwick-upon-Tweed"
     ]
   },
   {
     "metro": "Trefnant",
-    "pop": "71588",
+    "pop": 71588,
     "cons": [
       "Vale of Clwyd"
     ]
   },
   {
-    "metro": "Tywyn",
-    "pop": "60972",
+    "metro": "Amlwch",
+    "pop": 70091,
+    "cons": [
+      "Ynys Mon"
+    ]
+  },
+  {
+    "metro": "Tal-y-bont (Gwynedd)",
+    "pop": 60972,
     "cons": [
       "Dwyfor Meirionnydd"
     ]
   },
   {
-    "metro": "Bangor",
-    "pop": "60939",
+    "metro": "Penygroes",
+    "pop": 60939,
     "cons": [
       "Arfon"
     ]
+  },
+  {
+    "metro": "Ballymena",
+    "cons": [
+      "North Antrim"
+    ],
+    "lat": "54.865294",
+    "long": "-6.280221"
+  },
+  {
+    "metro": "Belfast",
+    "cons": [
+      "East Antrim",
+      "South Antrim",
+      "Legan Valley",
+      "Strangford",
+      "North Down",
+      "Belfast East",
+      "Belfast South",
+      "Belfast West",
+      "Belfast North"
+    ],
+    "lat": "54.597285",
+    "long": "-5.93012"
+  },
+  {
+    "metro": "Craigavon",
+    "cons": [
+      "Upper Bann"
+    ],
+    "lat": "54.442926",
+    "long": "-6.417565"
+  },
+  {
+    "metro": "Derry",
+    "cons": [
+      "Foyle",
+      "East Londonderry",
+      "West Tyrone"
+    ],
+    "lat": "54.996612",
+    "long": "-7.308575"
+  },
+  {
+    "metro": "Enniskillen",
+    "cons": [
+      "Fermanagh and South Tyrone"
+    ],
+    "lat": "54.343824",
+    "long": "-7.631534"
+  },
+  {
+    "metro": "Cookstown",
+    "cons": [
+      "Mid Ulster"
+    ],
+    "lat": "54.641816",
+    "long": "-6.744389"
+  },
+  {
+    "metro": "Newry",
+    "cons": [
+      "Newry and Armagh",
+      "South Down"
+    ],
+    "lat": "54.175102",
+    "long": "-6.34023"
+  },
+  {
+    "metro": "Greater Glasgow",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "East Renfrewshire",
+      "Glasgow South West",
+      "Glasgow South",
+      "Glasgow North West",
+      "Glasgow North East",
+      "Glasgow North",
+      "Glasgow East",
+      "Glasgow Central",
+      "Motherwell and Wishaw",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts",
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North",
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "West Dunbartonshire"
+    ],
+    "lat": "55.815116",
+    "long": "-4.353988"
+  },
+  {
+    "metro": "Edinburgh",
+    "cons": [
+      "East Lothian",
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ],
+    "lat": "55.953252",
+    "long": "-3.188267"
+  },
+  {
+    "metro": "Aberdeen",
+    "cons": [
+      "Gordon",
+      "Aberdeen South",
+      "Aberdeen North"
+    ],
+    "lat": "57.149717",
+    "long": "-2.094278"
+  },
+  {
+    "metro": "Dundee",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus",
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ],
+    "lat": "56.462018",
+    "long": "-2.970721"
+  },
+  {
+    "metro": "Falkirk",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ],
+    "lat": "56.001878",
+    "long": "-3.783913"
+  },
+  {
+    "metro": "Dunfermline",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ],
+    "lat": "56.071741",
+    "long": "-3.452151"
+  },
+  {
+    "metro": "Greenock",
+    "cons": [
+      "Inverclyde"
+    ],
+    "lat": "55.956476",
+    "long": "-4.771983"
+  },
+  {
+    "metro": "Ayr",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ],
+    "lat": "55.458564",
+    "long": "-4.629179"
+  },
+  {
+    "metro": "Livingston",
+    "cons": [
+      "Livingston"
+    ],
+    "lat": "55.900708",
+    "long": "-3.518068"
+  },
+  {
+    "metro": "Kilmarnock",
+    "cons": [
+      "Kilmarnock and Loudoun"
+    ],
+    "lat": "55.614719",
+    "long": "-4.498792"
+  },
+  {
+    "metro": "Stirling",
+    "cons": [
+      "Stirling"
+    ],
+    "lat": "56.116523",
+    "long": "-3.936903"
+  },
+  {
+    "metro": "Inverness",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ],
+    "lat": "57.477773",
+    "long": "-4.224721"
+  },
+  {
+    "metro": "Dalkeith",
+    "cons": [
+      "Midlothian"
+    ],
+    "lat": "55.893118",
+    "long": "-3.066606"
+  },
+  {
+    "metro": "Irvine",
+    "cons": [
+      "North Ayrshire and Arran"
+    ],
+    "lat": "55.611567",
+    "long": "-4.669636"
+  },
+  {
+    "metro": "Dumfries",
+    "cons": [
+      "Dumfries and Galloway"
+    ],
+    "lat": "55.070859",
+    "long": "-3.60512"
+  },
+  {
+    "metro": "Elgin",
+    "cons": [
+      "Moray"
+    ],
+    "lat": "57.649454",
+    "long": "-3.318485"
+  },
+  {
+    "metro": "Peterhead",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Banff and Buchan"
+    ],
+    "lat": "57.508123",
+    "long": "-1.784066"
+  },
+  {
+    "metro": "Helensburgh",
+    "cons": [
+      "Argyll and Bute"
+    ],
+    "lat": "56.002318",
+    "long": "-4.734014"
+  },
+  {
+    "metro": "Galashiels",
+    "cons": [
+      "Berwickshire, Roxburgh and Selkirk"
+    ],
+    "lat": "55.623728",
+    "long": "-2.814449"
+  },
+  {
+    "metro": "Steornabhagh (Stornoway)",
+    "cons": [
+      "Na h-Eileanan an Iar"
+    ],
+    "lat": "58.213994",
+    "long": "-6.321857"
+  },
+  {
+    "metro": "Kirkwall",
+    "cons": [
+      "Orkney and Shetland"
+    ],
+    "lat": "58.984674",
+    "long": "-2.962249"
   }
 ]

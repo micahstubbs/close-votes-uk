@@ -4,7 +4,7 @@ var d3 = require('d3');
 var _ = require('lodash');
 
 // var csvfile = '00-uk2015.csv';
-var csvfile2 = 'uk-election-results-2015.csv';
+var csvfile2 = '00-uk-election-results-2015.csv';
 var jsonfile1 = '005.json';
 var jsonfile2 = '006-parties.json';
 
@@ -25,6 +25,34 @@ var parties = JSON.parse(fs.readFileSync(jsonfile2, 'utf8'));
 // push the averages into the voteShare array
 // for that metro object 
 
+// validate that constituency names match up between input files
+var byCon = {};
+
+sourceVoteData.forEach(function(el){
+  byCon[el['constituency']] = 1; 
+})
+
+consToReview = [];
+
+data.forEach(function(el){
+  el.cons.forEach(function(con){
+    if(byCon[con] === undefined){
+      consToReview.push(con);
+    } 
+  })
+})
+
+var outputFile = '006-consToReview.json'
+
+var outputJsonObj = consToReview;
+
+jf.writeFile(outputFile, outputJsonObj, function(err){
+  console.log(err)
+})
+
+/* 
+
+// create a template array of zero-voteShare values for all of the parties
 var zeroes = []
 var m = {}
 parties.forEach(function(el, i){
@@ -32,7 +60,11 @@ parties.forEach(function(el, i){
 	m[i] = [];
 })
 
-data.forEach(function(el){
+// for each metro
+// update the array values to the average voteShare value
+// for each party
+// across all of the constiuencies in that metro 
+data.forEach(function(el, idx, theArray){
 	var currentVoteShare = zeroes;
 	var voteObj = m;
 
@@ -46,13 +78,13 @@ data.forEach(function(el){
 			voteObj[index].push(result.voteShare);
 		})
 	})
-
+	console.log(currentVoteShare + " result");
 	// average the voteShares from each constituency 
 	// in the metro
-	for(var i=0; i<currentVoteShare.length; i++){
+	for(var i=0; i<parties.length; i++){
 		currentVoteShare[i] = Math.round(mean(voteObj[i])*10)/10;
 	}
-	el['voteShare'] = currentVoteShare;
+	theArray[idx]['voteShare'] = currentVoteShare;
 })
 
 function mean(array) { 
@@ -76,22 +108,4 @@ jf.writeFile(outputFile, outputJsonObj, function(err){
   console.log(err)
 })
 
-
-
-
-
-
-
-
-
-
-
-
-var outputJsonObj = data;
-
-var outputFile = '006.json'
-jf.writeFile(outputFile, outputJsonObj, function(err){
-  console.log(err)
-})
-
-
+*/

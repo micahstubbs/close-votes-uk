@@ -1657,5 +1657,250 @@
     "cons": [
       "Arfon"
     ]
+  },
+  {
+    "metro": "Ballymena",
+    "cons": [
+      "North Antrim"
+    ],
+    "pop": 110225
+  },
+  {
+    "metro": "Belfast",
+    "cons": [
+      "East Antrim",
+      "South Antrim",
+      "Lagan Valley",
+      "Strangford",
+      "North Down",
+      "Belfast East",
+      "Belfast South",
+      "Belfast West",
+      "Belfast North"
+    ],
+    "pop": 880066
+  },
+  {
+    "metro": "Craigavon",
+    "cons": [
+      "Upper Bann"
+    ],
+    "pop": 122099
+  },
+  {
+    "metro": "Derry",
+    "cons": [
+      "Foyle",
+      "East Londonderry",
+      "West Tyrone"
+    ],
+    "pop": 294433
+  },
+  {
+    "metro": "Enniskillen",
+    "cons": [
+      "Fermanagh & South Tyrone"
+    ],
+    "pop": 105496
+  },
+  {
+    "metro": "Cookstown",
+    "cons": [
+      "Mid Ulster"
+    ],
+    "pop": 101724
+  },
+  {
+    "metro": "Newry",
+    "cons": [
+      "Newry & Armagh",
+      "South Down"
+    ],
+    "pop": 226455
+  },
+  {
+    "metro": "Greater Glasgow",
+    "cons": [
+      "East Dunbartonshire",
+      "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "East Renfrewshire",
+      "Glasgow South West",
+      "Glasgow South",
+      "Glasgow North West",
+      "Glasgow North East",
+      "Glasgow North",
+      "Glasgow East",
+      "Glasgow Central",
+      "Motherwell and Wishaw",
+      "Coatbridge, Chryston and Bellshill",
+      "Airdrie and Shotts",
+      "Paisley and Renfrewshire South",
+      "Paisley and Renfrewshire North",
+      "Rutherglen and Hamilton West",
+      "Lanark and Hamilton East",
+      "East Kilbride, Strathaven and Lesmahagow",
+      "Dumfriesshire, Clydesdale and Tweeddale",
+      "West Dunbartonshire"
+    ],
+    "pop": 1784246
+  },
+  {
+    "metro": "Edinburgh",
+    "cons": [
+      "East Lothian",
+      "Edinburgh West",
+      "Edinburgh South West",
+      "Edinburgh South",
+      "Edinburgh North and Leith",
+      "Edinburgh East"
+    ],
+    "pop": 588860
+  },
+  {
+    "metro": "Aberdeen",
+    "cons": [
+      "Gordon",
+      "Aberdeen South",
+      "Aberdeen North"
+    ],
+    "pop": 298526
+  },
+  {
+    "metro": "Dundee",
+    "cons": [
+      "Dundee West",
+      "Dundee East",
+      "Angus",
+      "Perth and North Perthshire",
+      "Ochil and South Perthshire"
+    ],
+    "pop": 463440
+  },
+  {
+    "metro": "Falkirk",
+    "cons": [
+      "Linlithgow and East Falkirk",
+      "Falkirk"
+    ],
+    "pop": 224728
+  },
+  {
+    "metro": "Dunfermline",
+    "cons": [
+      "North East Fife",
+      "Kirkcaldy and Cowdenbeath",
+      "Glenrothes",
+      "Dunfermline and West Fife"
+    ],
+    "pop": 366910
+  },
+  {
+    "metro": "Greenock",
+    "cons": [
+      "Inverclyde"
+    ],
+    "pop": 80310
+  },
+  {
+    "metro": "Ayr",
+    "cons": [
+      "Central Ayrshire",
+      "Ayr, Carrick and Cumnock"
+    ],
+    "pop": 181389
+  },
+  {
+    "metro": "Livingston",
+    "cons": [
+      "Livingston"
+    ],
+    "pop": 108552
+  },
+  {
+    "metro": "Kilmarnock",
+    "cons": [
+      "Kilmarnock and Loudoun"
+    ],
+    "pop": 96416
+  },
+  {
+    "metro": "Stirling",
+    "cons": [
+      "Stirling"
+    ],
+    "pop": 91260
+  },
+  {
+    "metro": "Inverness",
+    "cons": [
+      "Ross, Skye and Lochaber",
+      "Inverness, Nairn, Badenoch and Strathspey",
+      "Caithness, Sutherland and Easter Ross"
+    ],
+    "pop": 232950
+  },
+  {
+    "metro": "Dalkeith",
+    "cons": [
+      "Midlothian"
+    ],
+    "pop": 84700
+  },
+  {
+    "metro": "Irvine",
+    "cons": [
+      "North Ayrshire and Arran"
+    ],
+    "pop": 94405
+  },
+  {
+    "metro": "Dumfries",
+    "cons": [
+      "Dumfries and Galloway"
+    ],
+    "pop": 95416
+  },
+  {
+    "metro": "Elgin",
+    "cons": [
+      "Moray"
+    ],
+    "pop": 94350
+  },
+  {
+    "metro": "Peterhead",
+    "cons": [
+      "West Aberdeenshire and Kincardine",
+      "Banff and Buchan"
+    ],
+    "pop": 186344
+  },
+  {
+    "metro": "Helensburgh",
+    "cons": [
+      "Argyll and Bute"
+    ],
+    "pop": 88050
+  },
+  {
+    "metro": "Galashiels",
+    "cons": [
+      "Berwickshire, Roxburgh and Selkirk"
+    ],
+    "pop": 94678
+  },
+  {
+    "metro": "Steornabhagh (Stornoway)",
+    "cons": [
+      "Na h-Eileanan an Iar"
+    ],
+    "pop": 27400
+  },
+  {
+    "metro": "Kirkwall",
+    "cons": [
+      "Orkney and Shetland"
+    ],
+    "pop": 44770
   }
 ]

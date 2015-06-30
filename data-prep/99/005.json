@@ -1941,6 +1941,7 @@
     "cons": [
       "North Antrim"
     ],
+    "pop": 110225,
     "lat": "54.865294",
     "long": "-6.280221"
   },
@@ -1949,7 +1950,7 @@
     "cons": [
       "East Antrim",
       "South Antrim",
-      "Legan Valley",
+      "Lagan Valley",
       "Strangford",
       "North Down",
       "Belfast East",
@@ -1957,6 +1958,7 @@
       "Belfast West",
       "Belfast North"
     ],
+    "pop": 880066,
     "lat": "54.597285",
     "long": "-5.93012"
   },
@@ -1965,6 +1967,7 @@
     "cons": [
       "Upper Bann"
     ],
+    "pop": 122099,
     "lat": "54.442926",
     "long": "-6.417565"
   },
@@ -1975,14 +1978,16 @@
       "East Londonderry",
       "West Tyrone"
     ],
+    "pop": 294433,
     "lat": "54.996612",
     "long": "-7.308575"
   },
   {
     "metro": "Enniskillen",
     "cons": [
-      "Fermanagh and South Tyrone"
+      "Fermanagh & South Tyrone"
     ],
+    "pop": 105496,
     "lat": "54.343824",
     "long": "-7.631534"
   },
@@ -1991,15 +1996,17 @@
     "cons": [
       "Mid Ulster"
     ],
+    "pop": 101724,
     "lat": "54.641816",
     "long": "-6.744389"
   },
   {
     "metro": "Newry",
     "cons": [
-      "Newry and Armagh",
+      "Newry & Armagh",
       "South Down"
     ],
+    "pop": 226455,
     "lat": "54.175102",
     "long": "-6.34023"
   },
@@ -2027,6 +2034,7 @@
       "Dumfriesshire, Clydesdale and Tweeddale",
       "West Dunbartonshire"
     ],
+    "pop": 1784246,
     "lat": "55.815116",
     "long": "-4.353988"
   },
@@ -2040,6 +2048,7 @@
       "Edinburgh North and Leith",
       "Edinburgh East"
     ],
+    "pop": 588860,
     "lat": "55.953252",
     "long": "-3.188267"
   },
@@ -2050,6 +2059,7 @@
       "Aberdeen South",
       "Aberdeen North"
     ],
+    "pop": 298526,
     "lat": "57.149717",
     "long": "-2.094278"
   },
@@ -2062,6 +2072,7 @@
       "Perth and North Perthshire",
       "Ochil and South Perthshire"
     ],
+    "pop": 463440,
     "lat": "56.462018",
     "long": "-2.970721"
   },
@@ -2071,6 +2082,7 @@
       "Linlithgow and East Falkirk",
       "Falkirk"
     ],
+    "pop": 224728,
     "lat": "56.001878",
     "long": "-3.783913"
   },
@@ -2082,6 +2094,7 @@
       "Glenrothes",
       "Dunfermline and West Fife"
     ],
+    "pop": 366910,
     "lat": "56.071741",
     "long": "-3.452151"
   },
@@ -2090,6 +2103,7 @@
     "cons": [
       "Inverclyde"
     ],
+    "pop": 80310,
     "lat": "55.956476",
     "long": "-4.771983"
   },
@@ -2099,6 +2113,7 @@
       "Central Ayrshire",
       "Ayr, Carrick and Cumnock"
     ],
+    "pop": 181389,
     "lat": "55.458564",
     "long": "-4.629179"
   },
@@ -2107,6 +2122,7 @@
     "cons": [
       "Livingston"
     ],
+    "pop": 108552,
     "lat": "55.900708",
     "long": "-3.518068"
   },
@@ -2115,6 +2131,7 @@
     "cons": [
       "Kilmarnock and Loudoun"
     ],
+    "pop": 96416,
     "lat": "55.614719",
     "long": "-4.498792"
   },
@@ -2123,6 +2140,7 @@
     "cons": [
       "Stirling"
     ],
+    "pop": 91260,
     "lat": "56.116523",
     "long": "-3.936903"
   },
@@ -2133,6 +2151,7 @@
       "Inverness, Nairn, Badenoch and Strathspey",
       "Caithness, Sutherland and Easter Ross"
     ],
+    "pop": 232950,
     "lat": "57.477773",
     "long": "-4.224721"
   },
@@ -2141,6 +2160,7 @@
     "cons": [
       "Midlothian"
     ],
+    "pop": 84700,
     "lat": "55.893118",
     "long": "-3.066606"
   },
@@ -2149,6 +2169,7 @@
     "cons": [
       "North Ayrshire and Arran"
     ],
+    "pop": 94405,
     "lat": "55.611567",
     "long": "-4.669636"
   },
@@ -2157,6 +2178,7 @@
     "cons": [
       "Dumfries and Galloway"
     ],
+    "pop": 95416,
     "lat": "55.070859",
     "long": "-3.60512"
   },
@@ -2165,6 +2187,7 @@
     "cons": [
       "Moray"
     ],
+    "pop": 94350,
     "lat": "57.649454",
     "long": "-3.318485"
   },
@@ -2174,6 +2197,7 @@
       "West Aberdeenshire and Kincardine",
       "Banff and Buchan"
     ],
+    "pop": 186344,
     "lat": "57.508123",
     "long": "-1.784066"
   },
@@ -2182,6 +2206,7 @@
     "cons": [
       "Argyll and Bute"
     ],
+    "pop": 88050,
     "lat": "56.002318",
     "long": "-4.734014"
   },
@@ -2190,6 +2215,7 @@
     "cons": [
       "Berwickshire, Roxburgh and Selkirk"
     ],
+    "pop": 94678,
     "lat": "55.623728",
     "long": "-2.814449"
   },
@@ -2198,6 +2224,7 @@
     "cons": [
       "Na h-Eileanan an Iar"
     ],
+    "pop": 27400,
     "lat": "58.213994",
     "long": "-6.321857"
   },
@@ -2206,6 +2233,7 @@
     "cons": [
       "Orkney and Shetland"
     ],
+    "pop": 44770,
     "lat": "58.984674",
     "long": "-2.962249"
   }

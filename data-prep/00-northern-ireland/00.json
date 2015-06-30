@@ -10,7 +10,7 @@
     "cons": [
     	"East Antrim",
     	"South Antrim",
-    	"Legan Valley",
+    	"Lagan Valley",
     	"Strangford",
     	"North Down",
     	"Belfast East",
@@ -36,7 +36,7 @@
 	{
     "metro": "Enniskillen",
     "cons": [
-    	"Fermanagh and South Tyrone"
+    	"Fermanagh & South Tyrone"
     ]
   }, 
 	{
@@ -48,7 +48,7 @@
 	{
     "metro": "Newry",
     "cons": [
-    	"Newry and Armagh",
+    	"Newry & Armagh",
     	"South Down"
     ]
   }              

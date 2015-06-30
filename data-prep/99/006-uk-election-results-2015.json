@@ -345,7 +345,7 @@
     "swing": "25.9",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Aberdeenshire West and Kincardine"
+    "PCON11NM": "West Aberdeenshire and Kincardine"
   },
   {
     "index": "30",
@@ -357,7 +357,7 @@
     "swing": "-1.4",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Aberdeenshire West and Kincardine"
+    "PCON11NM": "West Aberdeenshire and Kincardine"
   },
   {
     "index": "31",
@@ -369,7 +369,7 @@
     "swing": "-17",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Aberdeenshire West and Kincardine"
+    "PCON11NM": "West Aberdeenshire and Kincardine"
   },
   {
     "index": "32",
@@ -381,7 +381,7 @@
     "swing": "-9.1",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Aberdeenshire West and Kincardine"
+    "PCON11NM": "West Aberdeenshire and Kincardine"
   },
   {
     "index": "33",
@@ -393,7 +393,7 @@
     "swing": "0.9",
     "region": "Scotland",
     "partyAll": "UKIP",
-    "PCON11NM": "Aberdeenshire West and Kincardine"
+    "PCON11NM": "West Aberdeenshire and Kincardine"
   },
   {
     "index": "34",
@@ -405,7 +405,7 @@
     "swing": "1.6",
     "region": "Scotland",
     "partyAll": "Green Party",
-    "PCON11NM": "Aberdeenshire West and Kincardine"
+    "PCON11NM": "West Aberdeenshire and Kincardine"
   },
   {
     "index": "35",
@@ -417,7 +417,7 @@
     "swing": "0.3",
     "region": "Scotland",
     "partyAll": "Independent",
-    "PCON11NM": "Aberdeenshire West and Kincardine"
+    "PCON11NM": "West Aberdeenshire and Kincardine"
   },
   {
     "index": "36",
@@ -1389,7 +1389,7 @@
     "swing": "34.1",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Ayrshire Central"
+    "PCON11NM": "Central Ayrshire"
   },
   {
     "index": "117",
@@ -1401,7 +1401,7 @@
     "swing": "-21.3",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Ayrshire Central"
+    "PCON11NM": "Central Ayrshire"
   },
   {
     "index": "118",
@@ -1413,7 +1413,7 @@
     "swing": "-3",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Ayrshire Central"
+    "PCON11NM": "Central Ayrshire"
   },
   {
     "index": "119",
@@ -1425,7 +1425,7 @@
     "swing": "-10.1",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Ayrshire Central"
+    "PCON11NM": "Central Ayrshire"
   },
   {
     "index": "120",
@@ -1437,7 +1437,7 @@
     "swing": "1.3",
     "region": "Scotland",
     "partyAll": "Green Party",
-    "PCON11NM": "Ayrshire Central"
+    "PCON11NM": "Central Ayrshire"
   },
   {
     "index": "121",
@@ -1449,7 +1449,7 @@
     "swing": "27.2",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Ayrshire North and Arran"
+    "PCON11NM": "North Ayrshire and Arran"
   },
   {
     "index": "122",
@@ -1461,7 +1461,7 @@
     "swing": "-19.4",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Ayrshire North and Arran"
+    "PCON11NM": "North Ayrshire and Arran"
   },
   {
     "index": "123",
@@ -1473,7 +1473,7 @@
     "swing": "-0.8",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Ayrshire North and Arran"
+    "PCON11NM": "North Ayrshire and Arran"
   },
   {
     "index": "124",
@@ -1485,7 +1485,7 @@
     "swing": "2.4",
     "region": "Scotland",
     "partyAll": "UKIP",
-    "PCON11NM": "Ayrshire North and Arran"
+    "PCON11NM": "North Ayrshire and Arran"
   },
   {
     "index": "125",
@@ -1497,7 +1497,7 @@
     "swing": "-8.4",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Ayrshire North and Arran"
+    "PCON11NM": "North Ayrshire and Arran"
   },
   {
     "index": "126",
@@ -2001,7 +2001,7 @@
     "swing": "-0.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Basildon South and Thurrock East"
+    "PCON11NM": "South Basildon and East Thurrock"
   },
   {
     "index": "168",
@@ -2013,7 +2013,7 @@
     "swing": "20.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Basildon South and Thurrock East"
+    "PCON11NM": "South Basildon and East Thurrock"
   },
   {
     "index": "169",
@@ -2025,7 +2025,7 @@
     "swing": "-5.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Basildon South and Thurrock East"
+    "PCON11NM": "South Basildon and East Thurrock"
   },
   {
     "index": "170",
@@ -2037,7 +2037,7 @@
     "swing": "-10.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Basildon South and Thurrock East"
+    "PCON11NM": "South Basildon and East Thurrock"
   },
   {
     "index": "171",
@@ -2049,7 +2049,7 @@
     "swing": "0.9",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Basildon South and Thurrock East"
+    "PCON11NM": "South Basildon and East Thurrock"
   },
   {
     "index": "172",
@@ -2061,7 +2061,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "NOTA (None of the above)",
-    "PCON11NM": "Basildon South and Thurrock East"
+    "PCON11NM": "South Basildon and East Thurrock"
   },
   {
     "index": "173",
@@ -2073,7 +2073,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Basildon South and Thurrock East"
+    "PCON11NM": "South Basildon and East Thurrock"
   },
   {
     "index": "174",
@@ -2625,7 +2625,7 @@
     "swing": "3.6",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Bedfordshire Mid"
+    "PCON11NM": "Mid Bedfordshire"
   },
   {
     "index": "220",
@@ -2637,7 +2637,7 @@
     "swing": "1.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Bedfordshire Mid"
+    "PCON11NM": "Mid Bedfordshire"
   },
   {
     "index": "221",
@@ -2649,7 +2649,7 @@
     "swing": "10.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Bedfordshire Mid"
+    "PCON11NM": "Mid Bedfordshire"
   },
   {
     "index": "222",
@@ -2661,7 +2661,7 @@
     "swing": "-17.7",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Bedfordshire Mid"
+    "PCON11NM": "Mid Bedfordshire"
   },
   {
     "index": "223",
@@ -2673,7 +2673,7 @@
     "swing": "2.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Bedfordshire Mid"
+    "PCON11NM": "Mid Bedfordshire"
   },
   {
     "index": "224",
@@ -2685,7 +2685,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Bedfordshire Mid"
+    "PCON11NM": "Mid Bedfordshire"
   },
   {
     "index": "225",
@@ -2697,7 +2697,7 @@
     "swing": "0.5",
     "region": "England",
     "partyAll": "Monster Raving Loony Party",
-    "PCON11NM": "Bedfordshire Mid"
+    "PCON11NM": "Mid Bedfordshire"
   },
   {
     "index": "226",
@@ -2709,7 +2709,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Bedfordshire North East"
+    "PCON11NM": "North East Bedfordshire"
   },
   {
     "index": "227",
@@ -2721,7 +2721,7 @@
     "swing": "-0.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Bedfordshire North East"
+    "PCON11NM": "North East Bedfordshire"
   },
   {
     "index": "228",
@@ -2733,7 +2733,7 @@
     "swing": "10.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Bedfordshire North East"
+    "PCON11NM": "North East Bedfordshire"
   },
   {
     "index": "229",
@@ -2745,7 +2745,7 @@
     "swing": "-15.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Bedfordshire North East"
+    "PCON11NM": "North East Bedfordshire"
   },
   {
     "index": "230",
@@ -2757,7 +2757,7 @@
     "swing": "4.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Bedfordshire North East"
+    "PCON11NM": "North East Bedfordshire"
   },
   {
     "index": "231",
@@ -2769,7 +2769,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Bedfordshire South West"
+    "PCON11NM": "South West Bedfordshire"
   },
   {
     "index": "232",
@@ -2781,7 +2781,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Bedfordshire South West"
+    "PCON11NM": "South West Bedfordshire"
   },
   {
     "index": "233",
@@ -2793,7 +2793,7 @@
     "swing": "11.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Bedfordshire South West"
+    "PCON11NM": "South West Bedfordshire"
   },
   {
     "index": "234",
@@ -2805,7 +2805,7 @@
     "swing": "-14.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Bedfordshire South West"
+    "PCON11NM": "South West Bedfordshire"
   },
   {
     "index": "235",
@@ -2817,7 +2817,7 @@
     "swing": "4.1",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Bedfordshire South West"
+    "PCON11NM": "South West Bedfordshire"
   },
   {
     "index": "236",
@@ -3849,7 +3849,7 @@
     "swing": "4.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Edgbaston"
+    "PCON11NM": "Birmingham, Edgbaston"
   },
   {
     "index": "322",
@@ -3861,7 +3861,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Edgbaston"
+    "PCON11NM": "Birmingham, Edgbaston"
   },
   {
     "index": "323",
@@ -3873,7 +3873,7 @@
     "swing": "8.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Edgbaston"
+    "PCON11NM": "Birmingham, Edgbaston"
   },
   {
     "index": "324",
@@ -3885,7 +3885,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Edgbaston"
+    "PCON11NM": "Birmingham, Edgbaston"
   },
   {
     "index": "325",
@@ -3897,7 +3897,7 @@
     "swing": "-12.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Edgbaston"
+    "PCON11NM": "Birmingham, Edgbaston"
   },
   {
     "index": "326",
@@ -3909,7 +3909,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Christian Party",
-    "PCON11NM": "Birmingham Edgbaston"
+    "PCON11NM": "Birmingham, Edgbaston"
   },
   {
     "index": "327",
@@ -3921,7 +3921,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Birmingham Edgbaston"
+    "PCON11NM": "Birmingham, Edgbaston"
   },
   {
     "index": "328",
@@ -3933,7 +3933,7 @@
     "swing": "3.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Erdington"
+    "PCON11NM": "Birmingham, Erdington"
   },
   {
     "index": "329",
@@ -3945,7 +3945,7 @@
     "swing": "-1.8",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Erdington"
+    "PCON11NM": "Birmingham, Erdington"
   },
   {
     "index": "330",
@@ -3957,7 +3957,7 @@
     "swing": "15",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Erdington"
+    "PCON11NM": "Birmingham, Erdington"
   },
   {
     "index": "331",
@@ -3969,7 +3969,7 @@
     "swing": "-13.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Erdington"
+    "PCON11NM": "Birmingham, Erdington"
   },
   {
     "index": "332",
@@ -3981,7 +3981,7 @@
     "swing": "2.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Erdington"
+    "PCON11NM": "Birmingham, Erdington"
   },
   {
     "index": "333",
@@ -3993,7 +3993,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Birmingham Erdington"
+    "PCON11NM": "Birmingham, Erdington"
   },
   {
     "index": "334",
@@ -4005,7 +4005,7 @@
     "swing": "26.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Hall Green"
+    "PCON11NM": "Birmingham, Hall Green"
   },
   {
     "index": "335",
@@ -4017,7 +4017,7 @@
     "swing": "2.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Hall Green"
+    "PCON11NM": "Birmingham, Hall Green"
   },
   {
     "index": "336",
@@ -4029,7 +4029,7 @@
     "swing": "-13",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Hall Green"
+    "PCON11NM": "Birmingham, Hall Green"
   },
   {
     "index": "337",
@@ -4041,7 +4041,7 @@
     "swing": "4.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Hall Green"
+    "PCON11NM": "Birmingham, Hall Green"
   },
   {
     "index": "338",
@@ -4053,7 +4053,7 @@
     "swing": "2.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Hall Green"
+    "PCON11NM": "Birmingham, Hall Green"
   },
   {
     "index": "339",
@@ -4065,7 +4065,7 @@
     "swing": "-23.5",
     "region": "England",
     "partyAll": "Respect Party",
-    "PCON11NM": "Birmingham Hall Green"
+    "PCON11NM": "Birmingham, Hall Green"
   },
   {
     "index": "340",
@@ -4077,7 +4077,7 @@
     "swing": "16.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Hodge Hill"
+    "PCON11NM": "Birmingham, Hodge Hill"
   },
   {
     "index": "341",
@@ -4089,7 +4089,7 @@
     "swing": "-0.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Hodge Hill"
+    "PCON11NM": "Birmingham, Hodge Hill"
   },
   {
     "index": "342",
@@ -4101,7 +4101,7 @@
     "swing": "9.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Hodge Hill"
+    "PCON11NM": "Birmingham, Hodge Hill"
   },
   {
     "index": "343",
@@ -4113,7 +4113,7 @@
     "swing": "-21.3",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Hodge Hill"
+    "PCON11NM": "Birmingham, Hodge Hill"
   },
   {
     "index": "344",
@@ -4125,7 +4125,7 @@
     "swing": "2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Hodge Hill"
+    "PCON11NM": "Birmingham, Hodge Hill"
   },
   {
     "index": "345",
@@ -4137,7 +4137,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "Communist Party of Britain",
-    "PCON11NM": "Birmingham Hodge Hill"
+    "PCON11NM": "Birmingham, Hodge Hill"
   },
   {
     "index": "346",
@@ -4149,7 +4149,7 @@
     "swing": "18",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Ladywood"
+    "PCON11NM": "Birmingham, Ladywood"
   },
   {
     "index": "347",
@@ -4161,7 +4161,7 @@
     "swing": "0.8",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Ladywood"
+    "PCON11NM": "Birmingham, Ladywood"
   },
   {
     "index": "348",
@@ -4173,7 +4173,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Ladywood"
+    "PCON11NM": "Birmingham, Ladywood"
   },
   {
     "index": "349",
@@ -4185,7 +4185,7 @@
     "swing": "1.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Ladywood"
+    "PCON11NM": "Birmingham, Ladywood"
   },
   {
     "index": "350",
@@ -4197,7 +4197,7 @@
     "swing": "-23.6",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Ladywood"
+    "PCON11NM": "Birmingham, Ladywood"
   },
   {
     "index": "351",
@@ -4209,7 +4209,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "Liberty GB",
-    "PCON11NM": "Birmingham Ladywood"
+    "PCON11NM": "Birmingham, Ladywood"
   },
   {
     "index": "352",
@@ -4221,7 +4221,7 @@
     "swing": "1.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Northfield"
+    "PCON11NM": "Birmingham, Northfield"
   },
   {
     "index": "353",
@@ -4233,7 +4233,7 @@
     "swing": "2.1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Northfield"
+    "PCON11NM": "Birmingham, Northfield"
   },
   {
     "index": "354",
@@ -4245,7 +4245,7 @@
     "swing": "13.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Northfield"
+    "PCON11NM": "Birmingham, Northfield"
   },
   {
     "index": "355",
@@ -4257,7 +4257,7 @@
     "swing": "-12.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Northfield"
+    "PCON11NM": "Birmingham, Northfield"
   },
   {
     "index": "356",
@@ -4269,7 +4269,7 @@
     "swing": "1.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Northfield"
+    "PCON11NM": "Birmingham, Northfield"
   },
   {
     "index": "357",
@@ -4281,7 +4281,7 @@
     "swing": "7.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Perry Barr"
+    "PCON11NM": "Birmingham, Perry Barr"
   },
   {
     "index": "358",
@@ -4293,7 +4293,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Perry Barr"
+    "PCON11NM": "Birmingham, Perry Barr"
   },
   {
     "index": "359",
@@ -4305,7 +4305,7 @@
     "swing": "8.2",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Perry Barr"
+    "PCON11NM": "Birmingham, Perry Barr"
   },
   {
     "index": "360",
@@ -4317,7 +4317,7 @@
     "swing": "-17.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Perry Barr"
+    "PCON11NM": "Birmingham, Perry Barr"
   },
   {
     "index": "361",
@@ -4329,7 +4329,7 @@
     "swing": "3.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Perry Barr"
+    "PCON11NM": "Birmingham, Perry Barr"
   },
   {
     "index": "362",
@@ -4341,7 +4341,7 @@
     "swing": "0.8",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Birmingham Perry Barr"
+    "PCON11NM": "Birmingham, Perry Barr"
   },
   {
     "index": "363",
@@ -4353,7 +4353,7 @@
     "swing": "9.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Selly Oak"
+    "PCON11NM": "Birmingham, Selly Oak"
   },
   {
     "index": "364",
@@ -4365,7 +4365,7 @@
     "swing": "-2.1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Selly Oak"
+    "PCON11NM": "Birmingham, Selly Oak"
   },
   {
     "index": "365",
@@ -4377,7 +4377,7 @@
     "swing": "10.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Selly Oak"
+    "PCON11NM": "Birmingham, Selly Oak"
   },
   {
     "index": "366",
@@ -4389,7 +4389,7 @@
     "swing": "-16.7",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Selly Oak"
+    "PCON11NM": "Birmingham, Selly Oak"
   },
   {
     "index": "367",
@@ -4401,7 +4401,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Selly Oak"
+    "PCON11NM": "Birmingham, Selly Oak"
   },
   {
     "index": "368",
@@ -4413,7 +4413,7 @@
     "swing": "9.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Birmingham Yardley"
+    "PCON11NM": "Birmingham, Yardley"
   },
   {
     "index": "369",
@@ -4425,7 +4425,7 @@
     "swing": "-14",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Birmingham Yardley"
+    "PCON11NM": "Birmingham, Yardley"
   },
   {
     "index": "370",
@@ -4437,7 +4437,7 @@
     "swing": "13.2",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Birmingham Yardley"
+    "PCON11NM": "Birmingham, Yardley"
   },
   {
     "index": "371",
@@ -4449,7 +4449,7 @@
     "swing": "-5.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Birmingham Yardley"
+    "PCON11NM": "Birmingham, Yardley"
   },
   {
     "index": "372",
@@ -4461,7 +4461,7 @@
     "swing": "1.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Birmingham Yardley"
+    "PCON11NM": "Birmingham, Yardley"
   },
   {
     "index": "373",
@@ -4473,7 +4473,7 @@
     "swing": "0.5",
     "region": "England",
     "partyAll": "Respect Party",
-    "PCON11NM": "Birmingham Yardley"
+    "PCON11NM": "Birmingham, Yardley"
   },
   {
     "index": "374",
@@ -4485,7 +4485,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Birmingham Yardley"
+    "PCON11NM": "Birmingham, Yardley"
   },
   {
     "index": "375",
@@ -4497,7 +4497,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Social Democratic Party",
-    "PCON11NM": "Birmingham Yardley"
+    "PCON11NM": "Birmingham, Yardley"
   },
   {
     "index": "376",
@@ -6561,7 +6561,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Bridgwater and Somerset West"
+    "PCON11NM": "Bridgwater and West Somerset"
   },
   {
     "index": "548",
@@ -6573,7 +6573,7 @@
     "swing": "14.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Bridgwater and Somerset West"
+    "PCON11NM": "Bridgwater and West Somerset"
   },
   {
     "index": "549",
@@ -6585,7 +6585,7 @@
     "swing": "0.5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Bridgwater and Somerset West"
+    "PCON11NM": "Bridgwater and West Somerset"
   },
   {
     "index": "550",
@@ -6597,7 +6597,7 @@
     "swing": "-15.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Bridgwater and Somerset West"
+    "PCON11NM": "Bridgwater and West Somerset"
   },
   {
     "index": "551",
@@ -6609,7 +6609,7 @@
     "swing": "3.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Bridgwater and Somerset West"
+    "PCON11NM": "Bridgwater and West Somerset"
   },
   {
     "index": "552",
@@ -6705,7 +6705,7 @@
     "swing": "2.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Brighton Kemptown"
+    "PCON11NM": "Brighton, Kemptown"
   },
   {
     "index": "560",
@@ -6717,7 +6717,7 @@
     "swing": "4.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Brighton Kemptown"
+    "PCON11NM": "Brighton, Kemptown"
   },
   {
     "index": "561",
@@ -6729,7 +6729,7 @@
     "swing": "6.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Brighton Kemptown"
+    "PCON11NM": "Brighton, Kemptown"
   },
   {
     "index": "562",
@@ -6741,7 +6741,7 @@
     "swing": "1.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Brighton Kemptown"
+    "PCON11NM": "Brighton, Kemptown"
   },
   {
     "index": "563",
@@ -6753,7 +6753,7 @@
     "swing": "-15",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Brighton Kemptown"
+    "PCON11NM": "Brighton, Kemptown"
   },
   {
     "index": "564",
@@ -6765,7 +6765,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Socialist Party GB",
-    "PCON11NM": "Brighton Kemptown"
+    "PCON11NM": "Brighton, Kemptown"
   },
   {
     "index": "565",
@@ -6777,7 +6777,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Brighton Kemptown"
+    "PCON11NM": "Brighton, Kemptown"
   },
   {
     "index": "566",
@@ -6789,7 +6789,7 @@
     "swing": "10.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Brighton Pavilion"
+    "PCON11NM": "Brighton, Pavilion"
   },
   {
     "index": "567",
@@ -6801,7 +6801,7 @@
     "swing": "-1.7",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Brighton Pavilion"
+    "PCON11NM": "Brighton, Pavilion"
   },
   {
     "index": "568",
@@ -6813,7 +6813,7 @@
     "swing": "-0.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Brighton Pavilion"
+    "PCON11NM": "Brighton, Pavilion"
   },
   {
     "index": "569",
@@ -6825,7 +6825,7 @@
     "swing": "3.2",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Brighton Pavilion"
+    "PCON11NM": "Brighton, Pavilion"
   },
   {
     "index": "570",
@@ -6837,7 +6837,7 @@
     "swing": "-11",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Brighton Pavilion"
+    "PCON11NM": "Brighton, Pavilion"
   },
   {
     "index": "571",
@@ -6849,7 +6849,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Brighton Pavilion"
+    "PCON11NM": "Brighton, Pavilion"
   },
   {
     "index": "572",
@@ -6861,7 +6861,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Socialist Party GB",
-    "PCON11NM": "Brighton Pavilion"
+    "PCON11NM": "Brighton, Pavilion"
   },
   {
     "index": "573",
@@ -8337,7 +8337,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Cambridgeshire North East"
+    "PCON11NM": "North East Cambridgeshire"
   },
   {
     "index": "696",
@@ -8349,7 +8349,7 @@
     "swing": "17.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Cambridgeshire North East"
+    "PCON11NM": "North East Cambridgeshire"
   },
   {
     "index": "697",
@@ -8361,7 +8361,7 @@
     "swing": "-3.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Cambridgeshire North East"
+    "PCON11NM": "North East Cambridgeshire"
   },
   {
     "index": "698",
@@ -8373,7 +8373,7 @@
     "swing": "-15.6",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Cambridgeshire North East"
+    "PCON11NM": "North East Cambridgeshire"
   },
   {
     "index": "699",
@@ -8385,7 +8385,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Cambridgeshire North East"
+    "PCON11NM": "North East Cambridgeshire"
   },
   {
     "index": "700",
@@ -8397,7 +8397,7 @@
     "swing": "2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Cambridgeshire North West"
+    "PCON11NM": "North West Cambridgeshire"
   },
   {
     "index": "701",
@@ -8409,7 +8409,7 @@
     "swing": "11.8",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Cambridgeshire North West"
+    "PCON11NM": "North West Cambridgeshire"
   },
   {
     "index": "702",
@@ -8421,7 +8421,7 @@
     "swing": "0.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Cambridgeshire North West"
+    "PCON11NM": "North West Cambridgeshire"
   },
   {
     "index": "703",
@@ -8433,7 +8433,7 @@
     "swing": "-16.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Cambridgeshire North West"
+    "PCON11NM": "North West Cambridgeshire"
   },
   {
     "index": "704",
@@ -8445,7 +8445,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Cambridgeshire North West"
+    "PCON11NM": "North West Cambridgeshire"
   },
   {
     "index": "705",
@@ -8457,7 +8457,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "Christian Peoples Alliance",
-    "PCON11NM": "Cambridgeshire North West"
+    "PCON11NM": "North West Cambridgeshire"
   },
   {
     "index": "706",
@@ -8469,7 +8469,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Cambridgeshire South"
+    "PCON11NM": "South Cambridgeshire"
   },
   {
     "index": "707",
@@ -8481,7 +8481,7 @@
     "swing": "7.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Cambridgeshire South"
+    "PCON11NM": "South Cambridgeshire"
   },
   {
     "index": "708",
@@ -8493,7 +8493,7 @@
     "swing": "-18.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Cambridgeshire South"
+    "PCON11NM": "South Cambridgeshire"
   },
   {
     "index": "709",
@@ -8505,7 +8505,7 @@
     "swing": "6.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Cambridgeshire South"
+    "PCON11NM": "South Cambridgeshire"
   },
   {
     "index": "710",
@@ -8517,7 +8517,7 @@
     "swing": "4.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Cambridgeshire South"
+    "PCON11NM": "South Cambridgeshire"
   },
   {
     "index": "711",
@@ -8529,7 +8529,7 @@
     "swing": "0.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Cambridgeshire South East"
+    "PCON11NM": "South East Cambridgeshire"
   },
   {
     "index": "712",
@@ -8541,7 +8541,7 @@
     "swing": "-17.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Cambridgeshire South East"
+    "PCON11NM": "South East Cambridgeshire"
   },
   {
     "index": "713",
@@ -8553,7 +8553,7 @@
     "swing": "7.5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Cambridgeshire South East"
+    "PCON11NM": "South East Cambridgeshire"
   },
   {
     "index": "714",
@@ -8565,7 +8565,7 @@
     "swing": "7.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Cambridgeshire South East"
+    "PCON11NM": "South East Cambridgeshire"
   },
   {
     "index": "715",
@@ -8577,7 +8577,7 @@
     "swing": "3.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Cambridgeshire South East"
+    "PCON11NM": "South East Cambridgeshire"
   },
   {
     "index": "716",
@@ -9225,7 +9225,7 @@
     "swing": "2.6",
     "region": "Wales",
     "partyAll": "Conservative",
-    "PCON11NM": "Carmarthen West and Pembrokeshire South"
+    "PCON11NM": "Carmarthen West and South Pembrokeshire"
   },
   {
     "index": "770",
@@ -9237,7 +9237,7 @@
     "swing": "-4",
     "region": "Wales",
     "partyAll": "Labour",
-    "PCON11NM": "Carmarthen West and Pembrokeshire South"
+    "PCON11NM": "Carmarthen West and South Pembrokeshire"
   },
   {
     "index": "771",
@@ -9249,7 +9249,7 @@
     "swing": "8.8",
     "region": "Wales",
     "partyAll": "UKIP",
-    "PCON11NM": "Carmarthen West and Pembrokeshire South"
+    "PCON11NM": "Carmarthen West and South Pembrokeshire"
   },
   {
     "index": "772",
@@ -9261,7 +9261,7 @@
     "swing": "0",
     "region": "Wales",
     "partyAll": "Plaid Cymru",
-    "PCON11NM": "Carmarthen West and Pembrokeshire South"
+    "PCON11NM": "Carmarthen West and South Pembrokeshire"
   },
   {
     "index": "773",
@@ -9273,7 +9273,7 @@
     "swing": "3.2",
     "region": "Wales",
     "partyAll": "Green Party",
-    "PCON11NM": "Carmarthen West and Pembrokeshire South"
+    "PCON11NM": "Carmarthen West and South Pembrokeshire"
   },
   {
     "index": "774",
@@ -9285,7 +9285,7 @@
     "swing": "-9.7",
     "region": "Wales",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Carmarthen West and Pembrokeshire South"
+    "PCON11NM": "Carmarthen West and South Pembrokeshire"
   },
   {
     "index": "775",
@@ -10005,7 +10005,7 @@
     "swing": "8.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Chester, City of"
+    "PCON11NM": "City of Chester"
   },
   {
     "index": "835",
@@ -10017,7 +10017,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Chester, City of"
+    "PCON11NM": "City of Chester"
   },
   {
     "index": "836",
@@ -10029,7 +10029,7 @@
     "swing": "5.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Chester, City of"
+    "PCON11NM": "City of Chester"
   },
   {
     "index": "837",
@@ -10041,7 +10041,7 @@
     "swing": "-13.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Chester, City of"
+    "PCON11NM": "City of Chester"
   },
   {
     "index": "838",
@@ -11337,7 +11337,7 @@
     "swing": "3.3",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Cornwall North"
+    "PCON11NM": "North Cornwall"
   },
   {
     "index": "946",
@@ -11349,7 +11349,7 @@
     "swing": "-16.8",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Cornwall North"
+    "PCON11NM": "North Cornwall"
   },
   {
     "index": "947",
@@ -11361,7 +11361,7 @@
     "swing": "7.8",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Cornwall North"
+    "PCON11NM": "North Cornwall"
   },
   {
     "index": "948",
@@ -11373,7 +11373,7 @@
     "swing": "1.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Cornwall North"
+    "PCON11NM": "North Cornwall"
   },
   {
     "index": "949",
@@ -11385,7 +11385,7 @@
     "swing": "4.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Cornwall North"
+    "PCON11NM": "North Cornwall"
   },
   {
     "index": "950",
@@ -11397,7 +11397,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Mebyon Kernow",
-    "PCON11NM": "Cornwall North"
+    "PCON11NM": "North Cornwall"
   },
   {
     "index": "951",
@@ -11409,7 +11409,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Restore the Family for Children's Sake",
-    "PCON11NM": "Cornwall North"
+    "PCON11NM": "North Cornwall"
   },
   {
     "index": "952",
@@ -11421,7 +11421,7 @@
     "swing": "5.4",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Cornwall South East"
+    "PCON11NM": "South East Cornwall"
   },
   {
     "index": "953",
@@ -11433,7 +11433,7 @@
     "swing": "-21.8",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Cornwall South East"
+    "PCON11NM": "South East Cornwall"
   },
   {
     "index": "954",
@@ -11445,7 +11445,7 @@
     "swing": "9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Cornwall South East"
+    "PCON11NM": "South East Cornwall"
   },
   {
     "index": "955",
@@ -11457,7 +11457,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Cornwall South East"
+    "PCON11NM": "South East Cornwall"
   },
   {
     "index": "956",
@@ -11469,7 +11469,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Cornwall South East"
+    "PCON11NM": "South East Cornwall"
   },
   {
     "index": "957",
@@ -11481,7 +11481,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Mebyon Kernow",
-    "PCON11NM": "Cornwall South East"
+    "PCON11NM": "South East Cornwall"
   },
   {
     "index": "958",
@@ -11493,7 +11493,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Cornwall South East"
+    "PCON11NM": "South East Cornwall"
   },
   {
     "index": "959",
@@ -11505,7 +11505,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Cotswolds, The"
+    "PCON11NM": "The Cotswolds"
   },
   {
     "index": "960",
@@ -11517,7 +11517,7 @@
     "swing": "-10.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Cotswolds, The"
+    "PCON11NM": "The Cotswolds"
   },
   {
     "index": "961",
@@ -11529,7 +11529,7 @@
     "swing": "6.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Cotswolds, The"
+    "PCON11NM": "The Cotswolds"
   },
   {
     "index": "962",
@@ -11541,7 +11541,7 @@
     "swing": "-1.5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Cotswolds, The"
+    "PCON11NM": "The Cotswolds"
   },
   {
     "index": "963",
@@ -11553,7 +11553,7 @@
     "swing": "2.9",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Cotswolds, The"
+    "PCON11NM": "The Cotswolds"
   },
   {
     "index": "964",
@@ -12969,7 +12969,7 @@
     "swing": "3.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Derbyshire Mid"
+    "PCON11NM": "Mid Derbyshire"
   },
   {
     "index": "1082",
@@ -12981,7 +12981,7 @@
     "swing": "1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Derbyshire Mid"
+    "PCON11NM": "Mid Derbyshire"
   },
   {
     "index": "1083",
@@ -12993,7 +12993,7 @@
     "swing": "11",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Derbyshire Mid"
+    "PCON11NM": "Mid Derbyshire"
   },
   {
     "index": "1084",
@@ -13005,7 +13005,7 @@
     "swing": "-15.7",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Derbyshire Mid"
+    "PCON11NM": "Mid Derbyshire"
   },
   {
     "index": "1085",
@@ -13017,7 +13017,7 @@
     "swing": "4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Derbyshire Mid"
+    "PCON11NM": "Mid Derbyshire"
   },
   {
     "index": "1086",
@@ -13029,7 +13029,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Derbyshire North East"
+    "PCON11NM": "North East Derbyshire"
   },
   {
     "index": "1087",
@@ -13041,7 +13041,7 @@
     "swing": "3.8",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Derbyshire North East"
+    "PCON11NM": "North East Derbyshire"
   },
   {
     "index": "1088",
@@ -13053,7 +13053,7 @@
     "swing": "10.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Derbyshire North East"
+    "PCON11NM": "North East Derbyshire"
   },
   {
     "index": "1089",
@@ -13065,7 +13065,7 @@
     "swing": "-19.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Derbyshire North East"
+    "PCON11NM": "North East Derbyshire"
   },
   {
     "index": "1090",
@@ -13077,7 +13077,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Derbyshire North East"
+    "PCON11NM": "North East Derbyshire"
   },
   {
     "index": "1091",
@@ -13089,7 +13089,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Derbyshire North East"
+    "PCON11NM": "North East Derbyshire"
   },
   {
     "index": "1092",
@@ -13101,7 +13101,7 @@
     "swing": "3.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Derbyshire South"
+    "PCON11NM": "South Derbyshire"
   },
   {
     "index": "1093",
@@ -13113,7 +13113,7 @@
     "swing": "-4.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Derbyshire South"
+    "PCON11NM": "South Derbyshire"
   },
   {
     "index": "1094",
@@ -13125,7 +13125,7 @@
     "swing": "15.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Derbyshire South"
+    "PCON11NM": "South Derbyshire"
   },
   {
     "index": "1095",
@@ -13137,7 +13137,7 @@
     "swing": "-12.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Derbyshire South"
+    "PCON11NM": "South Derbyshire"
   },
   {
     "index": "1096",
@@ -13149,7 +13149,7 @@
     "swing": "2.4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Derbyshire South"
+    "PCON11NM": "South Derbyshire"
   },
   {
     "index": "1097",
@@ -13221,7 +13221,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Devon Central"
+    "PCON11NM": "Central Devon"
   },
   {
     "index": "1103",
@@ -13233,7 +13233,7 @@
     "swing": "7.8",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Devon Central"
+    "PCON11NM": "Central Devon"
   },
   {
     "index": "1104",
@@ -13245,7 +13245,7 @@
     "swing": "5.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Devon Central"
+    "PCON11NM": "Central Devon"
   },
   {
     "index": "1105",
@@ -13257,7 +13257,7 @@
     "swing": "-22.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Devon Central"
+    "PCON11NM": "Central Devon"
   },
   {
     "index": "1106",
@@ -13269,7 +13269,7 @@
     "swing": "7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Devon Central"
+    "PCON11NM": "Central Devon"
   },
   {
     "index": "1107",
@@ -13281,7 +13281,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Devon Central"
+    "PCON11NM": "Central Devon"
   },
   {
     "index": "1108",
@@ -13293,7 +13293,7 @@
     "swing": "-1.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Devon East"
+    "PCON11NM": "East Devon"
   },
   {
     "index": "1109",
@@ -13305,7 +13305,7 @@
     "swing": "24",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Devon East"
+    "PCON11NM": "East Devon"
   },
   {
     "index": "1110",
@@ -13317,7 +13317,7 @@
     "swing": "4.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Devon East"
+    "PCON11NM": "East Devon"
   },
   {
     "index": "1111",
@@ -13329,7 +13329,7 @@
     "swing": "-0.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Devon East"
+    "PCON11NM": "East Devon"
   },
   {
     "index": "1112",
@@ -13341,7 +13341,7 @@
     "swing": "-24.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Devon East"
+    "PCON11NM": "East Devon"
   },
   {
     "index": "1113",
@@ -13353,7 +13353,7 @@
     "swing": "6.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Devon North"
+    "PCON11NM": "North Devon"
   },
   {
     "index": "1114",
@@ -13365,7 +13365,7 @@
     "swing": "-17.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Devon North"
+    "PCON11NM": "North Devon"
   },
   {
     "index": "1115",
@@ -13377,7 +13377,7 @@
     "swing": "7.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Devon North"
+    "PCON11NM": "North Devon"
   },
   {
     "index": "1116",
@@ -13389,7 +13389,7 @@
     "swing": "1.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Devon North"
+    "PCON11NM": "North Devon"
   },
   {
     "index": "1117",
@@ -13401,7 +13401,7 @@
     "swing": "4.4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Devon North"
+    "PCON11NM": "North Devon"
   },
   {
     "index": "1118",
@@ -13413,7 +13413,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Communist Party of Britain",
-    "PCON11NM": "Devon North"
+    "PCON11NM": "North Devon"
   },
   {
     "index": "1119",
@@ -13425,7 +13425,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Devon South West"
+    "PCON11NM": "South West Devon"
   },
   {
     "index": "1120",
@@ -13437,7 +13437,7 @@
     "swing": "4.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Devon South West"
+    "PCON11NM": "South West Devon"
   },
   {
     "index": "1121",
@@ -13449,7 +13449,7 @@
     "swing": "8.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Devon South West"
+    "PCON11NM": "South West Devon"
   },
   {
     "index": "1122",
@@ -13461,7 +13461,7 @@
     "swing": "-16.7",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Devon South West"
+    "PCON11NM": "South West Devon"
   },
   {
     "index": "1123",
@@ -13473,7 +13473,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Devon South West"
+    "PCON11NM": "South West Devon"
   },
   {
     "index": "1124",
@@ -13485,7 +13485,7 @@
     "swing": "5.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Devon West and Torridge"
+    "PCON11NM": "Torridge and West Devon"
   },
   {
     "index": "1125",
@@ -13497,7 +13497,7 @@
     "swing": "12.9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Devon West and Torridge"
+    "PCON11NM": "Torridge and West Devon"
   },
   {
     "index": "1126",
@@ -13509,7 +13509,7 @@
     "swing": "-27.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Devon West and Torridge"
+    "PCON11NM": "Torridge and West Devon"
   },
   {
     "index": "1127",
@@ -13521,7 +13521,7 @@
     "swing": "5.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Devon West and Torridge"
+    "PCON11NM": "Torridge and West Devon"
   },
   {
     "index": "1128",
@@ -13533,7 +13533,7 @@
     "swing": "5.1",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Devon West and Torridge"
+    "PCON11NM": "Torridge and West Devon"
   },
   {
     "index": "1129",
@@ -13869,7 +13869,7 @@
     "swing": "6.3",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Dorset Mid and Poole North"
+    "PCON11NM": "Mid Dorset and North Poole"
   },
   {
     "index": "1157",
@@ -13881,7 +13881,7 @@
     "swing": "-16.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Dorset Mid and Poole North"
+    "PCON11NM": "Mid Dorset and North Poole"
   },
   {
     "index": "1158",
@@ -13893,7 +13893,7 @@
     "swing": "7.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Dorset Mid and Poole North"
+    "PCON11NM": "Mid Dorset and North Poole"
   },
   {
     "index": "1159",
@@ -13905,7 +13905,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Dorset Mid and Poole North"
+    "PCON11NM": "Mid Dorset and North Poole"
   },
   {
     "index": "1160",
@@ -13917,7 +13917,7 @@
     "swing": "2.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Dorset Mid and Poole North"
+    "PCON11NM": "Mid Dorset and North Poole"
   },
   {
     "index": "1161",
@@ -13929,7 +13929,7 @@
     "swing": "5.6",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Dorset North"
+    "PCON11NM": "North Dorset"
   },
   {
     "index": "1162",
@@ -13941,7 +13941,7 @@
     "swing": "11.9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Dorset North"
+    "PCON11NM": "North Dorset"
   },
   {
     "index": "1163",
@@ -13953,7 +13953,7 @@
     "swing": "-25.3",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Dorset North"
+    "PCON11NM": "North Dorset"
   },
   {
     "index": "1164",
@@ -13965,7 +13965,7 @@
     "swing": "3.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Dorset North"
+    "PCON11NM": "North Dorset"
   },
   {
     "index": "1165",
@@ -13977,7 +13977,7 @@
     "swing": "4.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Dorset North"
+    "PCON11NM": "North Dorset"
   },
   {
     "index": "1166",
@@ -13989,7 +13989,7 @@
     "swing": "3.8",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Dorset South"
+    "PCON11NM": "South Dorset"
   },
   {
     "index": "1167",
@@ -14001,7 +14001,7 @@
     "swing": "-6.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Dorset South"
+    "PCON11NM": "South Dorset"
   },
   {
     "index": "1168",
@@ -14013,7 +14013,7 @@
     "swing": "11",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Dorset South"
+    "PCON11NM": "South Dorset"
   },
   {
     "index": "1169",
@@ -14025,7 +14025,7 @@
     "swing": "-13",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Dorset South"
+    "PCON11NM": "South Dorset"
   },
   {
     "index": "1170",
@@ -14037,7 +14037,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Dorset South"
+    "PCON11NM": "South Dorset"
   },
   {
     "index": "1171",
@@ -14049,7 +14049,7 @@
     "swing": "0.9",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Dorset South"
+    "PCON11NM": "South Dorset"
   },
   {
     "index": "1172",
@@ -14061,7 +14061,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "Movement for Active Democracy",
-    "PCON11NM": "Dorset South"
+    "PCON11NM": "South Dorset"
   },
   {
     "index": "1173",
@@ -14073,7 +14073,7 @@
     "swing": "2.6",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Dorset West"
+    "PCON11NM": "West Dorset"
   },
   {
     "index": "1174",
@@ -14085,7 +14085,7 @@
     "swing": "-19.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Dorset West"
+    "PCON11NM": "West Dorset"
   },
   {
     "index": "1175",
@@ -14097,7 +14097,7 @@
     "swing": "8.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Dorset West"
+    "PCON11NM": "West Dorset"
   },
   {
     "index": "1176",
@@ -14109,7 +14109,7 @@
     "swing": "3.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Dorset West"
+    "PCON11NM": "West Dorset"
   },
   {
     "index": "1177",
@@ -14121,7 +14121,7 @@
     "swing": "4.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Dorset West"
+    "PCON11NM": "West Dorset"
   },
   {
     "index": "1178",
@@ -14565,7 +14565,7 @@
     "swing": "29.7",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Dunbartonshire East"
+    "PCON11NM": "East Dunbartonshire"
   },
   {
     "index": "1215",
@@ -14577,7 +14577,7 @@
     "swing": "-2.4",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Dunbartonshire East"
+    "PCON11NM": "East Dunbartonshire"
   },
   {
     "index": "1216",
@@ -14589,7 +14589,7 @@
     "swing": "-21.8",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Dunbartonshire East"
+    "PCON11NM": "East Dunbartonshire"
   },
   {
     "index": "1217",
@@ -14601,7 +14601,7 @@
     "swing": "-6.9",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Dunbartonshire East"
+    "PCON11NM": "East Dunbartonshire"
   },
   {
     "index": "1218",
@@ -14613,7 +14613,7 @@
     "swing": "1.5",
     "region": "Scotland",
     "partyAll": "Green Party",
-    "PCON11NM": "Dunbartonshire East"
+    "PCON11NM": "East Dunbartonshire"
   },
   {
     "index": "1219",
@@ -14625,7 +14625,7 @@
     "swing": "-0.1",
     "region": "Scotland",
     "partyAll": "UKIP",
-    "PCON11NM": "Dunbartonshire East"
+    "PCON11NM": "East Dunbartonshire"
   },
   {
     "index": "1220",
@@ -14637,7 +14637,7 @@
     "swing": "38.9",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Dunbartonshire West"
+    "PCON11NM": "West Dunbartonshire"
   },
   {
     "index": "1221",
@@ -14649,7 +14649,7 @@
     "swing": "-30",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Dunbartonshire West"
+    "PCON11NM": "West Dunbartonshire"
   },
   {
     "index": "1222",
@@ -14661,7 +14661,7 @@
     "swing": "-0.6",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Dunbartonshire West"
+    "PCON11NM": "West Dunbartonshire"
   },
   {
     "index": "1223",
@@ -14673,7 +14673,7 @@
     "swing": "-6.5",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Dunbartonshire West"
+    "PCON11NM": "West Dunbartonshire"
   },
   {
     "index": "1224",
@@ -14685,7 +14685,7 @@
     "swing": "1",
     "region": "Scotland",
     "partyAll": "Independent",
-    "PCON11NM": "Dunbartonshire West"
+    "PCON11NM": "West Dunbartonshire"
   },
   {
     "index": "1225",
@@ -14913,7 +14913,7 @@
     "swing": "4.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Durham North"
+    "PCON11NM": "North Durham"
   },
   {
     "index": "1244",
@@ -14925,7 +14925,7 @@
     "swing": "-0.1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Durham North"
+    "PCON11NM": "North Durham"
   },
   {
     "index": "1245",
@@ -14937,7 +14937,7 @@
     "swing": "12.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Durham North"
+    "PCON11NM": "North Durham"
   },
   {
     "index": "1246",
@@ -14949,7 +14949,7 @@
     "swing": "-15.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Durham North"
+    "PCON11NM": "North Durham"
   },
   {
     "index": "1247",
@@ -14961,7 +14961,7 @@
     "swing": "3.1",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Durham North"
+    "PCON11NM": "North Durham"
   },
   {
     "index": "1248",
@@ -14973,7 +14973,7 @@
     "swing": "4.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Durham North West"
+    "PCON11NM": "North West Durham"
   },
   {
     "index": "1249",
@@ -14985,7 +14985,7 @@
     "swing": "3.4",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Durham North West"
+    "PCON11NM": "North West Durham"
   },
   {
     "index": "1250",
@@ -14997,7 +14997,7 @@
     "swing": "14.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Durham North West"
+    "PCON11NM": "North West Durham"
   },
   {
     "index": "1251",
@@ -15009,7 +15009,7 @@
     "swing": "-15.8",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Durham North West"
+    "PCON11NM": "North West Durham"
   },
   {
     "index": "1252",
@@ -15021,7 +15021,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Durham North West"
+    "PCON11NM": "North West Durham"
   },
   {
     "index": "1253",
@@ -15033,7 +15033,7 @@
     "swing": "2.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Durham, City of"
+    "PCON11NM": "City of Durham"
   },
   {
     "index": "1254",
@@ -15045,7 +15045,7 @@
     "swing": "8.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Durham, City of"
+    "PCON11NM": "City of Durham"
   },
   {
     "index": "1255",
@@ -15057,7 +15057,7 @@
     "swing": "9.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Durham, City of"
+    "PCON11NM": "City of Durham"
   },
   {
     "index": "1256",
@@ -15069,7 +15069,7 @@
     "swing": "-26.3",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Durham, City of"
+    "PCON11NM": "City of Durham"
   },
   {
     "index": "1257",
@@ -15081,7 +15081,7 @@
     "swing": "5.9",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Durham, City of"
+    "PCON11NM": "City of Durham"
   },
   {
     "index": "1258",
@@ -15093,7 +15093,7 @@
     "swing": "1.4",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Durham, City of"
+    "PCON11NM": "City of Durham"
   },
   {
     "index": "1259",
@@ -15105,7 +15105,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Durham, City of"
+    "PCON11NM": "City of Durham"
   },
   {
     "index": "1260",
@@ -16941,7 +16941,7 @@
     "swing": "-0.1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Enfield Southgate"
+    "PCON11NM": "Enfield, Southgate"
   },
   {
     "index": "1413",
@@ -16953,7 +16953,7 @@
     "swing": "6.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Enfield Southgate"
+    "PCON11NM": "Enfield, Southgate"
   },
   {
     "index": "1414",
@@ -16965,7 +16965,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Enfield Southgate"
+    "PCON11NM": "Enfield, Southgate"
   },
   {
     "index": "1415",
@@ -16977,7 +16977,7 @@
     "swing": "2.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Enfield Southgate"
+    "PCON11NM": "Enfield, Southgate"
   },
   {
     "index": "1416",
@@ -16989,7 +16989,7 @@
     "swing": "-10.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Enfield Southgate"
+    "PCON11NM": "Enfield, Southgate"
   },
   {
     "index": "1417",
@@ -17805,7 +17805,7 @@
     "swing": "26.7",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Fife North East"
+    "PCON11NM": "North East Fife"
   },
   {
     "index": "1485",
@@ -17817,7 +17817,7 @@
     "swing": "-13",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Fife North East"
+    "PCON11NM": "North East Fife"
   },
   {
     "index": "1486",
@@ -17829,7 +17829,7 @@
     "swing": "-5.5",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Fife North East"
+    "PCON11NM": "North East Fife"
   },
   {
     "index": "1487",
@@ -17841,7 +17841,7 @@
     "swing": "-9.5",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Fife North East"
+    "PCON11NM": "North East Fife"
   },
   {
     "index": "1488",
@@ -17853,7 +17853,7 @@
     "swing": "3.1",
     "region": "Scotland",
     "partyAll": "Green Party",
-    "PCON11NM": "Fife North East"
+    "PCON11NM": "North East Fife"
   },
   {
     "index": "1489",
@@ -17865,7 +17865,7 @@
     "swing": "0.7",
     "region": "Scotland",
     "partyAll": "Independent",
-    "PCON11NM": "Fife North East"
+    "PCON11NM": "North East Fife"
   },
   {
     "index": "1490",
@@ -20697,7 +20697,7 @@
     "swing": "3.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hampshire East"
+    "PCON11NM": "East Hampshire"
   },
   {
     "index": "1726",
@@ -20709,7 +20709,7 @@
     "swing": "9.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hampshire East"
+    "PCON11NM": "East Hampshire"
   },
   {
     "index": "1727",
@@ -20721,7 +20721,7 @@
     "swing": "-19.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hampshire East"
+    "PCON11NM": "East Hampshire"
   },
   {
     "index": "1728",
@@ -20733,7 +20733,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hampshire East"
+    "PCON11NM": "East Hampshire"
   },
   {
     "index": "1729",
@@ -20745,7 +20745,7 @@
     "swing": "6.1",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hampshire East"
+    "PCON11NM": "East Hampshire"
   },
   {
     "index": "1730",
@@ -20757,7 +20757,7 @@
     "swing": "5.3",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hampshire North East"
+    "PCON11NM": "North East Hampshire"
   },
   {
     "index": "1731",
@@ -20769,7 +20769,7 @@
     "swing": "-15",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hampshire North East"
+    "PCON11NM": "North East Hampshire"
   },
   {
     "index": "1732",
@@ -20781,7 +20781,7 @@
     "swing": "0",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hampshire North East"
+    "PCON11NM": "North East Hampshire"
   },
   {
     "index": "1733",
@@ -20793,7 +20793,7 @@
     "swing": "4.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hampshire North East"
+    "PCON11NM": "North East Hampshire"
   },
   {
     "index": "1734",
@@ -20805,7 +20805,7 @@
     "swing": "4.4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hampshire North East"
+    "PCON11NM": "North East Hampshire"
   },
   {
     "index": "1735",
@@ -20817,7 +20817,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Monster Raving Loony Party",
-    "PCON11NM": "Hampshire North East"
+    "PCON11NM": "North East Hampshire"
   },
   {
     "index": "1736",
@@ -20829,7 +20829,7 @@
     "swing": "-0.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hampshire North West"
+    "PCON11NM": "North West Hampshire"
   },
   {
     "index": "1737",
@@ -20841,7 +20841,7 @@
     "swing": "9.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hampshire North West"
+    "PCON11NM": "North West Hampshire"
   },
   {
     "index": "1738",
@@ -20853,7 +20853,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hampshire North West"
+    "PCON11NM": "North West Hampshire"
   },
   {
     "index": "1739",
@@ -20865,7 +20865,7 @@
     "swing": "-14.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hampshire North West"
+    "PCON11NM": "North West Hampshire"
   },
   {
     "index": "1740",
@@ -20877,7 +20877,7 @@
     "swing": "4.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hampshire North West"
+    "PCON11NM": "North West Hampshire"
   },
   {
     "index": "1741",
@@ -21417,7 +21417,7 @@
     "swing": "4.1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Harwich and Essex North"
+    "PCON11NM": "Harwich and North Essex"
   },
   {
     "index": "1786",
@@ -21429,7 +21429,7 @@
     "swing": "-0.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Harwich and Essex North"
+    "PCON11NM": "Harwich and North Essex"
   },
   {
     "index": "1787",
@@ -21441,7 +21441,7 @@
     "swing": "12.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Harwich and Essex North"
+    "PCON11NM": "Harwich and North Essex"
   },
   {
     "index": "1788",
@@ -21453,7 +21453,7 @@
     "swing": "-16.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Harwich and Essex North"
+    "PCON11NM": "Harwich and North Essex"
   },
   {
     "index": "1789",
@@ -21465,7 +21465,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Harwich and Essex North"
+    "PCON11NM": "Harwich and North Essex"
   },
   {
     "index": "1790",
@@ -21969,7 +21969,7 @@
     "swing": "6.3",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hereford and Herefordshire South"
+    "PCON11NM": "Hereford and South Herefordshire"
   },
   {
     "index": "1832",
@@ -21981,7 +21981,7 @@
     "swing": "13.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hereford and Herefordshire South"
+    "PCON11NM": "Hereford and South Herefordshire"
   },
   {
     "index": "1833",
@@ -21993,7 +21993,7 @@
     "swing": "5.5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hereford and Herefordshire South"
+    "PCON11NM": "Hereford and South Herefordshire"
   },
   {
     "index": "1834",
@@ -22005,7 +22005,7 @@
     "swing": "-30.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hereford and Herefordshire South"
+    "PCON11NM": "Hereford and South Herefordshire"
   },
   {
     "index": "1835",
@@ -22017,7 +22017,7 @@
     "swing": "7.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hereford and Herefordshire South"
+    "PCON11NM": "Hereford and South Herefordshire"
   },
   {
     "index": "1836",
@@ -22029,7 +22029,7 @@
     "swing": "3.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Herefordshire North"
+    "PCON11NM": "North Herefordshire"
   },
   {
     "index": "1837",
@@ -22041,7 +22041,7 @@
     "swing": "8.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Herefordshire North"
+    "PCON11NM": "North Herefordshire"
   },
   {
     "index": "1838",
@@ -22053,7 +22053,7 @@
     "swing": "-19",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Herefordshire North"
+    "PCON11NM": "North Herefordshire"
   },
   {
     "index": "1839",
@@ -22065,7 +22065,7 @@
     "swing": "4.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Herefordshire North"
+    "PCON11NM": "North Herefordshire"
   },
   {
     "index": "1840",
@@ -22077,7 +22077,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Herefordshire North"
+    "PCON11NM": "North Herefordshire"
   },
   {
     "index": "1841",
@@ -22149,7 +22149,7 @@
     "swing": "1.8",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hertfordshire North East"
+    "PCON11NM": "North East Hertfordshire"
   },
   {
     "index": "1847",
@@ -22161,7 +22161,7 @@
     "swing": "2.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hertfordshire North East"
+    "PCON11NM": "North East Hertfordshire"
   },
   {
     "index": "1848",
@@ -22173,7 +22173,7 @@
     "swing": "8.8",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hertfordshire North East"
+    "PCON11NM": "North East Hertfordshire"
   },
   {
     "index": "1849",
@@ -22185,7 +22185,7 @@
     "swing": "-15.8",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hertfordshire North East"
+    "PCON11NM": "North East Hertfordshire"
   },
   {
     "index": "1850",
@@ -22197,7 +22197,7 @@
     "swing": "3.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hertfordshire North East"
+    "PCON11NM": "North East Hertfordshire"
   },
   {
     "index": "1851",
@@ -22209,7 +22209,7 @@
     "swing": "2.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hertfordshire South West"
+    "PCON11NM": "South West Hertfordshire"
   },
   {
     "index": "1852",
@@ -22221,7 +22221,7 @@
     "swing": "4.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hertfordshire South West"
+    "PCON11NM": "South West Hertfordshire"
   },
   {
     "index": "1853",
@@ -22233,7 +22233,7 @@
     "swing": "9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hertfordshire South West"
+    "PCON11NM": "South West Hertfordshire"
   },
   {
     "index": "1854",
@@ -22245,7 +22245,7 @@
     "swing": "-17.7",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hertfordshire South West"
+    "PCON11NM": "South West Hertfordshire"
   },
   {
     "index": "1855",
@@ -22257,7 +22257,7 @@
     "swing": "4.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hertfordshire South West"
+    "PCON11NM": "South West Hertfordshire"
   },
   {
     "index": "1856",
@@ -22269,7 +22269,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "Common Sense Party",
-    "PCON11NM": "Hertfordshire South West"
+    "PCON11NM": "South West Hertfordshire"
   },
   {
     "index": "1857",
@@ -23157,7 +23157,7 @@
     "swing": "3.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hull East"
+    "PCON11NM": "Kingston upon Hull East"
   },
   {
     "index": "1931",
@@ -23169,7 +23169,7 @@
     "swing": "14.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hull East"
+    "PCON11NM": "Kingston upon Hull East"
   },
   {
     "index": "1932",
@@ -23181,7 +23181,7 @@
     "swing": "-0.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hull East"
+    "PCON11NM": "Kingston upon Hull East"
   },
   {
     "index": "1933",
@@ -23193,7 +23193,7 @@
     "swing": "-16.3",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hull East"
+    "PCON11NM": "Kingston upon Hull East"
   },
   {
     "index": "1934",
@@ -23205,7 +23205,7 @@
     "swing": "2.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hull East"
+    "PCON11NM": "Kingston upon Hull East"
   },
   {
     "index": "1935",
@@ -23217,7 +23217,7 @@
     "swing": "0.8",
     "region": "England",
     "partyAll": "Yorkshire First",
-    "PCON11NM": "Hull East"
+    "PCON11NM": "Kingston upon Hull East"
   },
   {
     "index": "1936",
@@ -23229,7 +23229,7 @@
     "swing": "-2.3",
     "region": "England",
     "partyAll": "National Front",
-    "PCON11NM": "Hull East"
+    "PCON11NM": "Kingston upon Hull East"
   },
   {
     "index": "1937",
@@ -23241,7 +23241,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Social Democratic Party",
-    "PCON11NM": "Hull East"
+    "PCON11NM": "Kingston upon Hull East"
   },
   {
     "index": "1938",
@@ -23253,7 +23253,7 @@
     "swing": "13.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hull North"
+    "PCON11NM": "Kingston upon Hull North"
   },
   {
     "index": "1939",
@@ -23265,7 +23265,7 @@
     "swing": "12.2",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hull North"
+    "PCON11NM": "Kingston upon Hull North"
   },
   {
     "index": "1940",
@@ -23277,7 +23277,7 @@
     "swing": "1.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hull North"
+    "PCON11NM": "Kingston upon Hull North"
   },
   {
     "index": "1941",
@@ -23289,7 +23289,7 @@
     "swing": "-28.3",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hull North"
+    "PCON11NM": "Kingston upon Hull North"
   },
   {
     "index": "1942",
@@ -23301,7 +23301,7 @@
     "swing": "4.4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hull North"
+    "PCON11NM": "Kingston upon Hull North"
   },
   {
     "index": "1943",
@@ -23313,7 +23313,7 @@
     "swing": "1",
     "region": "England",
     "partyAll": "Yorkshire First",
-    "PCON11NM": "Hull North"
+    "PCON11NM": "Kingston upon Hull North"
   },
   {
     "index": "1944",
@@ -23325,7 +23325,7 @@
     "swing": "6.7",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Hull West and Hessle"
+    "PCON11NM": "Kingston upon Hull West and Hessle"
   },
   {
     "index": "1945",
@@ -23337,7 +23337,7 @@
     "swing": "14.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Hull West and Hessle"
+    "PCON11NM": "Kingston upon Hull West and Hessle"
   },
   {
     "index": "1946",
@@ -23349,7 +23349,7 @@
     "swing": "-2.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Hull West and Hessle"
+    "PCON11NM": "Kingston upon Hull West and Hessle"
   },
   {
     "index": "1947",
@@ -23361,7 +23361,7 @@
     "swing": "-14.3",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Hull West and Hessle"
+    "PCON11NM": "Kingston upon Hull West and Hessle"
   },
   {
     "index": "1948",
@@ -23373,7 +23373,7 @@
     "swing": "3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Hull West and Hessle"
+    "PCON11NM": "Kingston upon Hull West and Hessle"
   },
   {
     "index": "1949",
@@ -23385,7 +23385,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Hull West and Hessle"
+    "PCON11NM": "Kingston upon Hull West and Hessle"
   },
   {
     "index": "1950",
@@ -25089,7 +25089,7 @@
     "swing": "4.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Lancashire West"
+    "PCON11NM": "West Lancashire"
   },
   {
     "index": "2092",
@@ -25101,7 +25101,7 @@
     "swing": "-3.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Lancashire West"
+    "PCON11NM": "West Lancashire"
   },
   {
     "index": "2093",
@@ -25113,7 +25113,7 @@
     "swing": "8.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Lancashire West"
+    "PCON11NM": "West Lancashire"
   },
   {
     "index": "2094",
@@ -25125,7 +25125,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Lancashire West"
+    "PCON11NM": "West Lancashire"
   },
   {
     "index": "2095",
@@ -25137,7 +25137,7 @@
     "swing": "-10.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Lancashire West"
+    "PCON11NM": "West Lancashire"
   },
   {
     "index": "2096",
@@ -25149,7 +25149,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "War Veteran's Pro-Traditional Family Party",
-    "PCON11NM": "Lancashire West"
+    "PCON11NM": "West Lancashire"
   },
   {
     "index": "2097",
@@ -25845,7 +25845,7 @@
     "swing": "4.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Leicestershire North West"
+    "PCON11NM": "North West Leicestershire"
   },
   {
     "index": "2155",
@@ -25857,7 +25857,7 @@
     "swing": "-2.7",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Leicestershire North West"
+    "PCON11NM": "North West Leicestershire"
   },
   {
     "index": "2156",
@@ -25869,7 +25869,7 @@
     "swing": "14.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Leicestershire North West"
+    "PCON11NM": "North West Leicestershire"
   },
   {
     "index": "2157",
@@ -25881,7 +25881,7 @@
     "swing": "-12.7",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Leicestershire North West"
+    "PCON11NM": "North West Leicestershire"
   },
   {
     "index": "2158",
@@ -25893,7 +25893,7 @@
     "swing": "2.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Leicestershire North West"
+    "PCON11NM": "North West Leicestershire"
   },
   {
     "index": "2159",
@@ -25905,7 +25905,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Leicestershire South"
+    "PCON11NM": "South Leicestershire"
   },
   {
     "index": "2160",
@@ -25917,7 +25917,7 @@
     "swing": "1.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Leicestershire South"
+    "PCON11NM": "South Leicestershire"
   },
   {
     "index": "2161",
@@ -25929,7 +25929,7 @@
     "swing": "13.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Leicestershire South"
+    "PCON11NM": "South Leicestershire"
   },
   {
     "index": "2162",
@@ -25941,7 +25941,7 @@
     "swing": "-13.6",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Leicestershire South"
+    "PCON11NM": "South Leicestershire"
   },
   {
     "index": "2163",
@@ -26073,7 +26073,7 @@
     "swing": "6.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2174",
@@ -26085,7 +26085,7 @@
     "swing": "1.4",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2175",
@@ -26097,7 +26097,7 @@
     "swing": "5.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2176",
@@ -26109,7 +26109,7 @@
     "swing": "-18.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2177",
@@ -26121,7 +26121,7 @@
     "swing": "4.2",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2178",
@@ -26133,7 +26133,7 @@
     "swing": "1.4",
     "region": "England",
     "partyAll": "People Before Profit",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2179",
@@ -26145,7 +26145,7 @@
     "swing": "-0.5",
     "region": "England",
     "partyAll": "Christian Peoples Alliance",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2180",
@@ -26157,7 +26157,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2181",
@@ -26169,7 +26169,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Democratic Reform Party",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2182",
@@ -26181,7 +26181,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Lewisham Deptford"
+    "PCON11NM": "Lewisham, Deptford"
   },
   {
     "index": "2183",
@@ -26589,7 +26589,7 @@
     "swing": "26.6",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Linlithgow and Falkirk East"
+    "PCON11NM": "Linlithgow and East Falkirk"
   },
   {
     "index": "2217",
@@ -26601,7 +26601,7 @@
     "swing": "-18.8",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Linlithgow and Falkirk East"
+    "PCON11NM": "Linlithgow and East Falkirk"
   },
   {
     "index": "2218",
@@ -26613,7 +26613,7 @@
     "swing": "0",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Linlithgow and Falkirk East"
+    "PCON11NM": "Linlithgow and East Falkirk"
   },
   {
     "index": "2219",
@@ -26625,7 +26625,7 @@
     "swing": "2.7",
     "region": "Scotland",
     "partyAll": "UKIP",
-    "PCON11NM": "Linlithgow and Falkirk East"
+    "PCON11NM": "Linlithgow and East Falkirk"
   },
   {
     "index": "2220",
@@ -26637,7 +26637,7 @@
     "swing": "-10.8",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Linlithgow and Falkirk East"
+    "PCON11NM": "Linlithgow and East Falkirk"
   },
   {
     "index": "2221",
@@ -26649,7 +26649,7 @@
     "swing": "0.2",
     "region": "Scotland",
     "partyAll": "National Front",
-    "PCON11NM": "Linlithgow and Falkirk East"
+    "PCON11NM": "Linlithgow and East Falkirk"
   },
   {
     "index": "2222",
@@ -26661,7 +26661,7 @@
     "swing": "8.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Liverpool Riverside"
+    "PCON11NM": "Liverpool, Riverside"
   },
   {
     "index": "2223",
@@ -26673,7 +26673,7 @@
     "swing": "8.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Liverpool Riverside"
+    "PCON11NM": "Liverpool, Riverside"
   },
   {
     "index": "2224",
@@ -26685,7 +26685,7 @@
     "swing": "-1.3",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Liverpool Riverside"
+    "PCON11NM": "Liverpool, Riverside"
   },
   {
     "index": "2225",
@@ -26697,7 +26697,7 @@
     "swing": "3.9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Liverpool Riverside"
+    "PCON11NM": "Liverpool, Riverside"
   },
   {
     "index": "2226",
@@ -26709,7 +26709,7 @@
     "swing": "-18.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Liverpool Riverside"
+    "PCON11NM": "Liverpool, Riverside"
   },
   {
     "index": "2227",
@@ -26721,7 +26721,7 @@
     "swing": "1.3",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Liverpool Riverside"
+    "PCON11NM": "Liverpool, Riverside"
   },
   {
     "index": "2228",
@@ -26733,7 +26733,7 @@
     "swing": "9.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Liverpool Walton"
+    "PCON11NM": "Liverpool, Walton"
   },
   {
     "index": "2229",
@@ -26745,7 +26745,7 @@
     "swing": "6.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Liverpool Walton"
+    "PCON11NM": "Liverpool, Walton"
   },
   {
     "index": "2230",
@@ -26757,7 +26757,7 @@
     "swing": "-1.8",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Liverpool Walton"
+    "PCON11NM": "Liverpool, Walton"
   },
   {
     "index": "2231",
@@ -26769,7 +26769,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Liverpool Walton"
+    "PCON11NM": "Liverpool, Walton"
   },
   {
     "index": "2232",
@@ -26781,7 +26781,7 @@
     "swing": "-11.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Liverpool Walton"
+    "PCON11NM": "Liverpool, Walton"
   },
   {
     "index": "2233",
@@ -26793,7 +26793,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Liverpool Walton"
+    "PCON11NM": "Liverpool, Walton"
   },
   {
     "index": "2234",
@@ -26805,7 +26805,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "The Pluralist Party",
-    "PCON11NM": "Liverpool Walton"
+    "PCON11NM": "Liverpool, Walton"
   },
   {
     "index": "2235",
@@ -26817,7 +26817,7 @@
     "swing": "16.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Liverpool Wavertree"
+    "PCON11NM": "Liverpool, Wavertree"
   },
   {
     "index": "2236",
@@ -26829,7 +26829,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Liverpool Wavertree"
+    "PCON11NM": "Liverpool, Wavertree"
   },
   {
     "index": "2237",
@@ -26841,7 +26841,7 @@
     "swing": "5.9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Liverpool Wavertree"
+    "PCON11NM": "Liverpool, Wavertree"
   },
   {
     "index": "2238",
@@ -26853,7 +26853,7 @@
     "swing": "-28.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Liverpool Wavertree"
+    "PCON11NM": "Liverpool, Wavertree"
   },
   {
     "index": "2239",
@@ -26865,7 +26865,7 @@
     "swing": "3.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Liverpool Wavertree"
+    "PCON11NM": "Liverpool, Wavertree"
   },
   {
     "index": "2240",
@@ -26877,7 +26877,7 @@
     "swing": "0.9",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Liverpool Wavertree"
+    "PCON11NM": "Liverpool, Wavertree"
   },
   {
     "index": "2241",
@@ -26889,7 +26889,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Liverpool Wavertree"
+    "PCON11NM": "Liverpool, Wavertree"
   },
   {
     "index": "2242",
@@ -26901,7 +26901,7 @@
     "swing": "11",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Liverpool West Derby"
+    "PCON11NM": "Liverpool, West Derby"
   },
   {
     "index": "2243",
@@ -26913,7 +26913,7 @@
     "swing": "5.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Liverpool West Derby"
+    "PCON11NM": "Liverpool, West Derby"
   },
   {
     "index": "2244",
@@ -26925,7 +26925,7 @@
     "swing": "-2.6",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Liverpool West Derby"
+    "PCON11NM": "Liverpool, West Derby"
   },
   {
     "index": "2245",
@@ -26937,7 +26937,7 @@
     "swing": "-4.3",
     "region": "England",
     "partyAll": "Liberal",
-    "PCON11NM": "Liverpool West Derby"
+    "PCON11NM": "Liverpool, West Derby"
   },
   {
     "index": "2246",
@@ -26949,7 +26949,7 @@
     "swing": "2.4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Liverpool West Derby"
+    "PCON11NM": "Liverpool, West Derby"
   },
   {
     "index": "2247",
@@ -26961,7 +26961,7 @@
     "swing": "-10.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Liverpool West Derby"
+    "PCON11NM": "Liverpool, West Derby"
   },
   {
     "index": "2248",
@@ -27945,7 +27945,7 @@
     "swing": "17",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Manchester Gorton"
+    "PCON11NM": "Manchester, Gorton"
   },
   {
     "index": "2330",
@@ -27957,7 +27957,7 @@
     "swing": "7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Manchester Gorton"
+    "PCON11NM": "Manchester, Gorton"
   },
   {
     "index": "2331",
@@ -27969,7 +27969,7 @@
     "swing": "-1.4",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Manchester Gorton"
+    "PCON11NM": "Manchester, Gorton"
   },
   {
     "index": "2332",
@@ -27981,7 +27981,7 @@
     "swing": "8.2",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Manchester Gorton"
+    "PCON11NM": "Manchester, Gorton"
   },
   {
     "index": "2333",
@@ -27993,7 +27993,7 @@
     "swing": "-28.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Manchester Gorton"
+    "PCON11NM": "Manchester, Gorton"
   },
   {
     "index": "2334",
@@ -28005,7 +28005,7 @@
     "swing": "-0.3",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Manchester Gorton"
+    "PCON11NM": "Manchester, Gorton"
   },
   {
     "index": "2335",
@@ -28017,7 +28017,7 @@
     "swing": "-0.2",
     "region": "England",
     "partyAll": "Pirate Party",
-    "PCON11NM": "Manchester Gorton"
+    "PCON11NM": "Manchester, Gorton"
   },
   {
     "index": "2336",
@@ -28029,7 +28029,7 @@
     "swing": "13.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Manchester Withington"
+    "PCON11NM": "Manchester, Withington"
   },
   {
     "index": "2337",
@@ -28041,7 +28041,7 @@
     "swing": "-20.7",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Manchester Withington"
+    "PCON11NM": "Manchester, Withington"
   },
   {
     "index": "2338",
@@ -28053,7 +28053,7 @@
     "swing": "-1.4",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Manchester Withington"
+    "PCON11NM": "Manchester, Withington"
   },
   {
     "index": "2339",
@@ -28065,7 +28065,7 @@
     "swing": "6.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Manchester Withington"
+    "PCON11NM": "Manchester, Withington"
   },
   {
     "index": "2340",
@@ -28077,7 +28077,7 @@
     "swing": "2.8",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Manchester Withington"
+    "PCON11NM": "Manchester, Withington"
   },
   {
     "index": "2341",
@@ -28089,7 +28089,7 @@
     "swing": "0",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Manchester Withington"
+    "PCON11NM": "Manchester, Withington"
   },
   {
     "index": "2342",
@@ -28569,7 +28569,7 @@
     "swing": "2.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Middlesbrough South and Cleveland East"
+    "PCON11NM": "Middlesbrough South and East Cleveland"
   },
   {
     "index": "2382",
@@ -28581,7 +28581,7 @@
     "swing": "1.4",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Middlesbrough South and Cleveland East"
+    "PCON11NM": "Middlesbrough South and East Cleveland"
   },
   {
     "index": "2383",
@@ -28593,7 +28593,7 @@
     "swing": "11.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Middlesbrough South and Cleveland East"
+    "PCON11NM": "Middlesbrough South and East Cleveland"
   },
   {
     "index": "2384",
@@ -28605,7 +28605,7 @@
     "swing": "-12.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Middlesbrough South and Cleveland East"
+    "PCON11NM": "Middlesbrough South and East Cleveland"
   },
   {
     "index": "2385",
@@ -28617,7 +28617,7 @@
     "swing": "2.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Middlesbrough South and Cleveland East"
+    "PCON11NM": "Middlesbrough South and East Cleveland"
   },
   {
     "index": "2386",
@@ -29433,7 +29433,7 @@
     "swing": "8.7",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Na h-Eileanan an Iar (Western Isles)"
+    "PCON11NM": "Na h-Eileanan an Iar"
   },
   {
     "index": "2454",
@@ -29445,7 +29445,7 @@
     "swing": "-4.3",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Na h-Eileanan an Iar (Western Isles)"
+    "PCON11NM": "Na h-Eileanan an Iar"
   },
   {
     "index": "2455",
@@ -29457,7 +29457,7 @@
     "swing": "3.2",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Na h-Eileanan an Iar (Western Isles)"
+    "PCON11NM": "Na h-Eileanan an Iar"
   },
   {
     "index": "2456",
@@ -29469,7 +29469,7 @@
     "swing": "6.6",
     "region": "Scotland",
     "partyAll": "Christian Party",
-    "PCON11NM": "Na h-Eileanan an Iar (Western Isles)"
+    "PCON11NM": "Na h-Eileanan an Iar"
   },
   {
     "index": "2457",
@@ -29481,7 +29481,7 @@
     "swing": "-4.6",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Na h-Eileanan an Iar (Western Isles)"
+    "PCON11NM": "Na h-Eileanan an Iar"
   },
   {
     "index": "2458",
@@ -30429,7 +30429,7 @@
     "swing": "2.6",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Norfolk Mid"
+    "PCON11NM": "Mid Norfolk"
   },
   {
     "index": "2537",
@@ -30441,7 +30441,7 @@
     "swing": "13.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Norfolk Mid"
+    "PCON11NM": "Mid Norfolk"
   },
   {
     "index": "2538",
@@ -30453,7 +30453,7 @@
     "swing": "0.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Norfolk Mid"
+    "PCON11NM": "Mid Norfolk"
   },
   {
     "index": "2539",
@@ -30465,7 +30465,7 @@
     "swing": "-15.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Norfolk Mid"
+    "PCON11NM": "Mid Norfolk"
   },
   {
     "index": "2540",
@@ -30477,7 +30477,7 @@
     "swing": "1.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Norfolk Mid"
+    "PCON11NM": "Mid Norfolk"
   },
   {
     "index": "2541",
@@ -30489,7 +30489,7 @@
     "swing": "-16.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Norfolk North"
+    "PCON11NM": "North Norfolk"
   },
   {
     "index": "2542",
@@ -30501,7 +30501,7 @@
     "swing": "-1.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Norfolk North"
+    "PCON11NM": "North Norfolk"
   },
   {
     "index": "2543",
@@ -30513,7 +30513,7 @@
     "swing": "11.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Norfolk North"
+    "PCON11NM": "North Norfolk"
   },
   {
     "index": "2544",
@@ -30525,7 +30525,7 @@
     "swing": "4.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Norfolk North"
+    "PCON11NM": "North Norfolk"
   },
   {
     "index": "2545",
@@ -30537,7 +30537,7 @@
     "swing": "2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Norfolk North"
+    "PCON11NM": "North Norfolk"
   },
   {
     "index": "2546",
@@ -30549,7 +30549,7 @@
     "swing": "-2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Norfolk North West"
+    "PCON11NM": "North West Norfolk"
   },
   {
     "index": "2547",
@@ -30561,7 +30561,7 @@
     "swing": "9.5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Norfolk North West"
+    "PCON11NM": "North West Norfolk"
   },
   {
     "index": "2548",
@@ -30573,7 +30573,7 @@
     "swing": "13.9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Norfolk North West"
+    "PCON11NM": "North West Norfolk"
   },
   {
     "index": "2549",
@@ -30585,7 +30585,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Norfolk North West"
+    "PCON11NM": "North West Norfolk"
   },
   {
     "index": "2550",
@@ -30597,7 +30597,7 @@
     "swing": "-19.7",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Norfolk North West"
+    "PCON11NM": "North West Norfolk"
   },
   {
     "index": "2551",
@@ -30609,7 +30609,7 @@
     "swing": "4.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Norfolk South"
+    "PCON11NM": "South Norfolk"
   },
   {
     "index": "2552",
@@ -30621,7 +30621,7 @@
     "swing": "5.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Norfolk South"
+    "PCON11NM": "South Norfolk"
   },
   {
     "index": "2553",
@@ -30633,7 +30633,7 @@
     "swing": "9.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Norfolk South"
+    "PCON11NM": "South Norfolk"
   },
   {
     "index": "2554",
@@ -30645,7 +30645,7 @@
     "swing": "-21.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Norfolk South"
+    "PCON11NM": "South Norfolk"
   },
   {
     "index": "2555",
@@ -30657,7 +30657,7 @@
     "swing": "3.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Norfolk South"
+    "PCON11NM": "South Norfolk"
   },
   {
     "index": "2556",
@@ -30669,7 +30669,7 @@
     "swing": "2.6",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Norfolk South West"
+    "PCON11NM": "South West Norfolk"
   },
   {
     "index": "2557",
@@ -30681,7 +30681,7 @@
     "swing": "17",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Norfolk South West"
+    "PCON11NM": "South West Norfolk"
   },
   {
     "index": "2558",
@@ -30693,7 +30693,7 @@
     "swing": "-1.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Norfolk South West"
+    "PCON11NM": "South West Norfolk"
   },
   {
     "index": "2559",
@@ -30705,7 +30705,7 @@
     "swing": "-17.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Norfolk South West"
+    "PCON11NM": "South West Norfolk"
   },
   {
     "index": "2560",
@@ -30717,7 +30717,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Norfolk South West"
+    "PCON11NM": "South West Norfolk"
   },
   {
     "index": "2561",
@@ -31137,7 +31137,7 @@
     "swing": "4.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Northamptonshire South"
+    "PCON11NM": "South Northamptonshire"
   },
   {
     "index": "2596",
@@ -31149,7 +31149,7 @@
     "swing": "-0.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Northamptonshire South"
+    "PCON11NM": "South Northamptonshire"
   },
   {
     "index": "2597",
@@ -31161,7 +31161,7 @@
     "swing": "9.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Northamptonshire South"
+    "PCON11NM": "South Northamptonshire"
   },
   {
     "index": "2598",
@@ -31173,7 +31173,7 @@
     "swing": "-15.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Northamptonshire South"
+    "PCON11NM": "South Northamptonshire"
   },
   {
     "index": "2599",
@@ -31185,7 +31185,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Northamptonshire South"
+    "PCON11NM": "South Northamptonshire"
   },
   {
     "index": "2600",
@@ -32829,7 +32829,7 @@
     "swing": "4.3",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Plymouth Moor View"
+    "PCON11NM": "Plymouth, Moor View"
   },
   {
     "index": "2737",
@@ -32841,7 +32841,7 @@
     "swing": "-2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Plymouth Moor View"
+    "PCON11NM": "Plymouth, Moor View"
   },
   {
     "index": "2738",
@@ -32853,7 +32853,7 @@
     "swing": "13.8",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Plymouth Moor View"
+    "PCON11NM": "Plymouth, Moor View"
   },
   {
     "index": "2739",
@@ -32865,7 +32865,7 @@
     "swing": "-13.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Plymouth Moor View"
+    "PCON11NM": "Plymouth, Moor View"
   },
   {
     "index": "2740",
@@ -32877,7 +32877,7 @@
     "swing": "1.4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Plymouth Moor View"
+    "PCON11NM": "Plymouth, Moor View"
   },
   {
     "index": "2741",
@@ -32889,7 +32889,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Plymouth Moor View"
+    "PCON11NM": "Plymouth, Moor View"
   },
   {
     "index": "2742",
@@ -32901,7 +32901,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Plymouth Sutton and Devonport"
+    "PCON11NM": "Plymouth, Sutton and Devonport"
   },
   {
     "index": "2743",
@@ -32913,7 +32913,7 @@
     "swing": "5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Plymouth Sutton and Devonport"
+    "PCON11NM": "Plymouth, Sutton and Devonport"
   },
   {
     "index": "2744",
@@ -32925,7 +32925,7 @@
     "swing": "7.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Plymouth Sutton and Devonport"
+    "PCON11NM": "Plymouth, Sutton and Devonport"
   },
   {
     "index": "2745",
@@ -32937,7 +32937,7 @@
     "swing": "5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Plymouth Sutton and Devonport"
+    "PCON11NM": "Plymouth, Sutton and Devonport"
   },
   {
     "index": "2746",
@@ -32949,7 +32949,7 @@
     "swing": "-20.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Plymouth Sutton and Devonport"
+    "PCON11NM": "Plymouth, Sutton and Devonport"
   },
   {
     "index": "2747",
@@ -32961,7 +32961,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Communist Party of Britain",
-    "PCON11NM": "Plymouth Sutton and Devonport"
+    "PCON11NM": "Plymouth, Sutton and Devonport"
   },
   {
     "index": "2748",
@@ -34137,7 +34137,7 @@
     "swing": "31.7",
     "region": "Scotland",
     "partyAll": "Scottish National Party",
-    "PCON11NM": "Renfrewshire East"
+    "PCON11NM": "East Renfrewshire"
   },
   {
     "index": "2846",
@@ -34149,7 +34149,7 @@
     "swing": "-16.8",
     "region": "Scotland",
     "partyAll": "Labour",
-    "PCON11NM": "Renfrewshire East"
+    "PCON11NM": "East Renfrewshire"
   },
   {
     "index": "2847",
@@ -34161,7 +34161,7 @@
     "swing": "-8.4",
     "region": "Scotland",
     "partyAll": "Conservative",
-    "PCON11NM": "Renfrewshire East"
+    "PCON11NM": "East Renfrewshire"
   },
   {
     "index": "2848",
@@ -34173,7 +34173,7 @@
     "swing": "-7.3",
     "region": "Scotland",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Renfrewshire East"
+    "PCON11NM": "East Renfrewshire"
   },
   {
     "index": "2849",
@@ -34185,7 +34185,7 @@
     "swing": "0.8",
     "region": "Scotland",
     "partyAll": "UKIP",
-    "PCON11NM": "Renfrewshire East"
+    "PCON11NM": "East Renfrewshire"
   },
   {
     "index": "2850",
@@ -36249,7 +36249,7 @@
     "swing": "1.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Sheffield Brightside and Hillsborough"
+    "PCON11NM": "Sheffield, Brightside and Hillsborough"
   },
   {
     "index": "3022",
@@ -36261,7 +36261,7 @@
     "swing": "18",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Sheffield Brightside and Hillsborough"
+    "PCON11NM": "Sheffield, Brightside and Hillsborough"
   },
   {
     "index": "3023",
@@ -36273,7 +36273,7 @@
     "swing": "-0.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Sheffield Brightside and Hillsborough"
+    "PCON11NM": "Sheffield, Brightside and Hillsborough"
   },
   {
     "index": "3024",
@@ -36285,7 +36285,7 @@
     "swing": "-15.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Sheffield Brightside and Hillsborough"
+    "PCON11NM": "Sheffield, Brightside and Hillsborough"
   },
   {
     "index": "3025",
@@ -36297,7 +36297,7 @@
     "swing": "4.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Sheffield Brightside and Hillsborough"
+    "PCON11NM": "Sheffield, Brightside and Hillsborough"
   },
   {
     "index": "3026",
@@ -36309,7 +36309,7 @@
     "swing": "-0.6",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Sheffield Brightside and Hillsborough"
+    "PCON11NM": "Sheffield, Brightside and Hillsborough"
   },
   {
     "index": "3027",
@@ -36321,7 +36321,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "English Democrats",
-    "PCON11NM": "Sheffield Brightside and Hillsborough"
+    "PCON11NM": "Sheffield, Brightside and Hillsborough"
   },
   {
     "index": "3028",
@@ -36453,7 +36453,7 @@
     "swing": "-13.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Sheffield Hallam"
+    "PCON11NM": "Sheffield, Hallam"
   },
   {
     "index": "3039",
@@ -36465,7 +36465,7 @@
     "swing": "19.7",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Sheffield Hallam"
+    "PCON11NM": "Sheffield, Hallam"
   },
   {
     "index": "3040",
@@ -36477,7 +36477,7 @@
     "swing": "-9.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Sheffield Hallam"
+    "PCON11NM": "Sheffield, Hallam"
   },
   {
     "index": "3041",
@@ -36489,7 +36489,7 @@
     "swing": "4.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Sheffield Hallam"
+    "PCON11NM": "Sheffield, Hallam"
   },
   {
     "index": "3042",
@@ -36501,7 +36501,7 @@
     "swing": "1.4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Sheffield Hallam"
+    "PCON11NM": "Sheffield, Hallam"
   },
   {
     "index": "3043",
@@ -36513,7 +36513,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Sheffield Hallam"
+    "PCON11NM": "Sheffield, Hallam"
   },
   {
     "index": "3044",
@@ -36525,7 +36525,7 @@
     "swing": "-0.8",
     "region": "England",
     "partyAll": "English Democrats",
-    "PCON11NM": "Sheffield Hallam"
+    "PCON11NM": "Sheffield, Hallam"
   },
   {
     "index": "3045",
@@ -36537,7 +36537,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Sheffield Hallam"
+    "PCON11NM": "Sheffield, Hallam"
   },
   {
     "index": "3046",
@@ -36549,7 +36549,7 @@
     "swing": "5.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Sheffield Heeley"
+    "PCON11NM": "Sheffield, Heeley"
   },
   {
     "index": "3047",
@@ -36561,7 +36561,7 @@
     "swing": "13.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Sheffield Heeley"
+    "PCON11NM": "Sheffield, Heeley"
   },
   {
     "index": "3048",
@@ -36573,7 +36573,7 @@
     "swing": "-1.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Sheffield Heeley"
+    "PCON11NM": "Sheffield, Heeley"
   },
   {
     "index": "3049",
@@ -36585,7 +36585,7 @@
     "swing": "-17.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Sheffield Heeley"
+    "PCON11NM": "Sheffield, Heeley"
   },
   {
     "index": "3050",
@@ -36597,7 +36597,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Sheffield Heeley"
+    "PCON11NM": "Sheffield, Heeley"
   },
   {
     "index": "3051",
@@ -36609,7 +36609,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Sheffield Heeley"
+    "PCON11NM": "Sheffield, Heeley"
   },
   {
     "index": "3052",
@@ -36621,7 +36621,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "English Democrats",
-    "PCON11NM": "Sheffield Heeley"
+    "PCON11NM": "Sheffield, Heeley"
   },
   {
     "index": "3053",
@@ -36945,7 +36945,7 @@
     "swing": "0",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Shropshire North"
+    "PCON11NM": "North Shropshire"
   },
   {
     "index": "3080",
@@ -36957,7 +36957,7 @@
     "swing": "1.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Shropshire North"
+    "PCON11NM": "North Shropshire"
   },
   {
     "index": "3081",
@@ -36969,7 +36969,7 @@
     "swing": "12.9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Shropshire North"
+    "PCON11NM": "North Shropshire"
   },
   {
     "index": "3082",
@@ -36981,7 +36981,7 @@
     "swing": "-15",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Shropshire North"
+    "PCON11NM": "North Shropshire"
   },
   {
     "index": "3083",
@@ -36993,7 +36993,7 @@
     "swing": "3.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Shropshire North"
+    "PCON11NM": "North Shropshire"
   },
   {
     "index": "3084",
@@ -37341,7 +37341,7 @@
     "swing": "4.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Somerset North"
+    "PCON11NM": "North Somerset"
   },
   {
     "index": "3113",
@@ -37353,7 +37353,7 @@
     "swing": "3.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Somerset North"
+    "PCON11NM": "North Somerset"
   },
   {
     "index": "3114",
@@ -37365,7 +37365,7 @@
     "swing": "9.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Somerset North"
+    "PCON11NM": "North Somerset"
   },
   {
     "index": "3115",
@@ -37377,7 +37377,7 @@
     "swing": "-23",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Somerset North"
+    "PCON11NM": "North Somerset"
   },
   {
     "index": "3116",
@@ -37389,7 +37389,7 @@
     "swing": "6.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Somerset North"
+    "PCON11NM": "North Somerset"
   },
   {
     "index": "3117",
@@ -37401,7 +37401,7 @@
     "swing": "8.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Somerset North East"
+    "PCON11NM": "North East Somerset"
   },
   {
     "index": "3118",
@@ -37413,7 +37413,7 @@
     "swing": "-6.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Somerset North East"
+    "PCON11NM": "North East Somerset"
   },
   {
     "index": "3119",
@@ -37425,7 +37425,7 @@
     "swing": "8.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Somerset North East"
+    "PCON11NM": "North East Somerset"
   },
   {
     "index": "3120",
@@ -37437,7 +37437,7 @@
     "swing": "-14.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Somerset North East"
+    "PCON11NM": "North East Somerset"
   },
   {
     "index": "3121",
@@ -37449,7 +37449,7 @@
     "swing": "4.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Somerset North East"
+    "PCON11NM": "North East Somerset"
   },
   {
     "index": "3122",
@@ -37881,7 +37881,7 @@
     "swing": "5.4",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Southampton Itchen"
+    "PCON11NM": "Southampton, Itchen"
   },
   {
     "index": "3158",
@@ -37893,7 +37893,7 @@
     "swing": "-0.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Southampton Itchen"
+    "PCON11NM": "Southampton, Itchen"
   },
   {
     "index": "3159",
@@ -37905,7 +37905,7 @@
     "swing": "9.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Southampton Itchen"
+    "PCON11NM": "Southampton, Itchen"
   },
   {
     "index": "3160",
@@ -37917,7 +37917,7 @@
     "swing": "2.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Southampton Itchen"
+    "PCON11NM": "Southampton, Itchen"
   },
   {
     "index": "3161",
@@ -37929,7 +37929,7 @@
     "swing": "-17.3",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Southampton Itchen"
+    "PCON11NM": "Southampton, Itchen"
   },
   {
     "index": "3162",
@@ -37941,7 +37941,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Southampton Itchen"
+    "PCON11NM": "Southampton, Itchen"
   },
   {
     "index": "3163",
@@ -37953,7 +37953,7 @@
     "swing": "2.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Southampton Test"
+    "PCON11NM": "Southampton, Test"
   },
   {
     "index": "3164",
@@ -37965,7 +37965,7 @@
     "swing": "-0.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Southampton Test"
+    "PCON11NM": "Southampton, Test"
   },
   {
     "index": "3165",
@@ -37977,7 +37977,7 @@
     "swing": "8.8",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Southampton Test"
+    "PCON11NM": "Southampton, Test"
   },
   {
     "index": "3166",
@@ -37989,7 +37989,7 @@
     "swing": "3.9",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Southampton Test"
+    "PCON11NM": "Southampton, Test"
   },
   {
     "index": "3167",
@@ -38001,7 +38001,7 @@
     "swing": "-17.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Southampton Test"
+    "PCON11NM": "Southampton, Test"
   },
   {
     "index": "3168",
@@ -38013,7 +38013,7 @@
     "swing": "1.8",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Southampton Test"
+    "PCON11NM": "Southampton, Test"
   },
   {
     "index": "3169",
@@ -38025,7 +38025,7 @@
     "swing": "0.9",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Southampton Test"
+    "PCON11NM": "Southampton, Test"
   },
   {
     "index": "3170",
@@ -38721,7 +38721,7 @@
     "swing": "6.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Staffordshire South"
+    "PCON11NM": "South Staffordshire"
   },
   {
     "index": "3228",
@@ -38733,7 +38733,7 @@
     "swing": "-1.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Staffordshire South"
+    "PCON11NM": "South Staffordshire"
   },
   {
     "index": "3229",
@@ -38745,7 +38745,7 @@
     "swing": "11.2",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Staffordshire South"
+    "PCON11NM": "South Staffordshire"
   },
   {
     "index": "3230",
@@ -38757,7 +38757,7 @@
     "swing": "-13.8",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Staffordshire South"
+    "PCON11NM": "South Staffordshire"
   },
   {
     "index": "3231",
@@ -38769,7 +38769,7 @@
     "swing": "2.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Staffordshire South"
+    "PCON11NM": "South Staffordshire"
   },
   {
     "index": "3232",
@@ -40005,7 +40005,7 @@
     "swing": "5.3",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Suffolk Central and Ipswich North"
+    "PCON11NM": "Central Suffolk and North Ipswich"
   },
   {
     "index": "3335",
@@ -40017,7 +40017,7 @@
     "swing": "2.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Suffolk Central and Ipswich North"
+    "PCON11NM": "Central Suffolk and North Ipswich"
   },
   {
     "index": "3336",
@@ -40029,7 +40029,7 @@
     "swing": "9.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Suffolk Central and Ipswich North"
+    "PCON11NM": "Central Suffolk and North Ipswich"
   },
   {
     "index": "3337",
@@ -40041,7 +40041,7 @@
     "swing": "-18.8",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Suffolk Central and Ipswich North"
+    "PCON11NM": "Central Suffolk and North Ipswich"
   },
   {
     "index": "3338",
@@ -40053,7 +40053,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Suffolk Central and Ipswich North"
+    "PCON11NM": "Central Suffolk and North Ipswich"
   },
   {
     "index": "3339",
@@ -40065,7 +40065,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "English Democrats",
-    "PCON11NM": "Suffolk Central and Ipswich North"
+    "PCON11NM": "Central Suffolk and North Ipswich"
   },
   {
     "index": "3340",
@@ -40137,7 +40137,7 @@
     "swing": "5.3",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Suffolk South"
+    "PCON11NM": "South Suffolk"
   },
   {
     "index": "3346",
@@ -40149,7 +40149,7 @@
     "swing": "4.9",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Suffolk South"
+    "PCON11NM": "South Suffolk"
   },
   {
     "index": "3347",
@@ -40161,7 +40161,7 @@
     "swing": "8.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Suffolk South"
+    "PCON11NM": "South Suffolk"
   },
   {
     "index": "3348",
@@ -40173,7 +40173,7 @@
     "swing": "-23.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Suffolk South"
+    "PCON11NM": "South Suffolk"
   },
   {
     "index": "3349",
@@ -40185,7 +40185,7 @@
     "swing": "4.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Suffolk South"
+    "PCON11NM": "South Suffolk"
   },
   {
     "index": "3350",
@@ -40197,7 +40197,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "Christian Peoples Alliance",
-    "PCON11NM": "Suffolk South"
+    "PCON11NM": "South Suffolk"
   },
   {
     "index": "3351",
@@ -40209,7 +40209,7 @@
     "swing": "1.6",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Suffolk West"
+    "PCON11NM": "West Suffolk"
   },
   {
     "index": "3352",
@@ -40221,7 +40221,7 @@
     "swing": "15.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Suffolk West"
+    "PCON11NM": "West Suffolk"
   },
   {
     "index": "3353",
@@ -40233,7 +40233,7 @@
     "swing": "2.7",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Suffolk West"
+    "PCON11NM": "West Suffolk"
   },
   {
     "index": "3354",
@@ -40245,7 +40245,7 @@
     "swing": "-18.4",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Suffolk West"
+    "PCON11NM": "West Suffolk"
   },
   {
     "index": "3355",
@@ -40257,7 +40257,7 @@
     "swing": "3.6",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Suffolk West"
+    "PCON11NM": "West Suffolk"
   },
   {
     "index": "3356",
@@ -40341,7 +40341,7 @@
     "swing": "0.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Surrey East"
+    "PCON11NM": "East Surrey"
   },
   {
     "index": "3363",
@@ -40353,7 +40353,7 @@
     "swing": "10.1",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Surrey East"
+    "PCON11NM": "East Surrey"
   },
   {
     "index": "3364",
@@ -40365,7 +40365,7 @@
     "swing": "2.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Surrey East"
+    "PCON11NM": "East Surrey"
   },
   {
     "index": "3365",
@@ -40377,7 +40377,7 @@
     "swing": "-16.6",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Surrey East"
+    "PCON11NM": "East Surrey"
   },
   {
     "index": "3366",
@@ -40389,7 +40389,7 @@
     "swing": "3.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Surrey East"
+    "PCON11NM": "East Surrey"
   },
   {
     "index": "3367",
@@ -40401,7 +40401,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Surrey East"
+    "PCON11NM": "East Surrey"
   },
   {
     "index": "3368",
@@ -40497,7 +40497,7 @@
     "swing": "1.2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Surrey South West"
+    "PCON11NM": "South West Surrey"
   },
   {
     "index": "3376",
@@ -40509,7 +40509,7 @@
     "swing": "7.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Surrey South West"
+    "PCON11NM": "South West Surrey"
   },
   {
     "index": "3377",
@@ -40521,7 +40521,7 @@
     "swing": "3.5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Surrey South West"
+    "PCON11NM": "South West Surrey"
   },
   {
     "index": "3378",
@@ -40533,7 +40533,7 @@
     "swing": "8.5",
     "region": "England",
     "partyAll": "National Health Action",
-    "PCON11NM": "Surrey South West"
+    "PCON11NM": "South West Surrey"
   },
   {
     "index": "3379",
@@ -40545,7 +40545,7 @@
     "swing": "-23.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Surrey South West"
+    "PCON11NM": "South West Surrey"
   },
   {
     "index": "3380",
@@ -40557,7 +40557,7 @@
     "swing": "4.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Surrey South West"
+    "PCON11NM": "South West Surrey"
   },
   {
     "index": "3381",
@@ -40569,7 +40569,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "Something New",
-    "PCON11NM": "Surrey South West"
+    "PCON11NM": "South West Surrey"
   },
   {
     "index": "3382",
@@ -40581,7 +40581,7 @@
     "swing": "5.4",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Sussex Mid"
+    "PCON11NM": "Mid Sussex"
   },
   {
     "index": "3383",
@@ -40593,7 +40593,7 @@
     "swing": "7.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Sussex Mid"
+    "PCON11NM": "Mid Sussex"
   },
   {
     "index": "3384",
@@ -40605,7 +40605,7 @@
     "swing": "9.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Sussex Mid"
+    "PCON11NM": "Mid Sussex"
   },
   {
     "index": "3385",
@@ -40617,7 +40617,7 @@
     "swing": "-26",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Sussex Mid"
+    "PCON11NM": "Mid Sussex"
   },
   {
     "index": "3386",
@@ -40629,7 +40629,7 @@
     "swing": "3.1",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Sussex Mid"
+    "PCON11NM": "Mid Sussex"
   },
   {
     "index": "3387",
@@ -40641,7 +40641,7 @@
     "swing": "1.7",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Sussex Mid"
+    "PCON11NM": "Mid Sussex"
   },
   {
     "index": "3388",
@@ -40653,7 +40653,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Monster Raving Loony Party",
-    "PCON11NM": "Sussex Mid"
+    "PCON11NM": "Mid Sussex"
   },
   {
     "index": "3389",
@@ -40989,7 +40989,7 @@
     "swing": "5.8",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Swindon North"
+    "PCON11NM": "North Swindon"
   },
   {
     "index": "3417",
@@ -41001,7 +41001,7 @@
     "swing": "-2.7",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Swindon North"
+    "PCON11NM": "North Swindon"
   },
   {
     "index": "3418",
@@ -41013,7 +41013,7 @@
     "swing": "11.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Swindon North"
+    "PCON11NM": "North Swindon"
   },
   {
     "index": "3419",
@@ -41025,7 +41025,7 @@
     "swing": "2.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Swindon North"
+    "PCON11NM": "North Swindon"
   },
   {
     "index": "3420",
@@ -41037,7 +41037,7 @@
     "swing": "-14",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Swindon North"
+    "PCON11NM": "North Swindon"
   },
   {
     "index": "3421",
@@ -41049,7 +41049,7 @@
     "swing": "4.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Swindon South"
+    "PCON11NM": "South Swindon"
   },
   {
     "index": "3422",
@@ -41061,7 +41061,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Swindon South"
+    "PCON11NM": "South Swindon"
   },
   {
     "index": "3423",
@@ -41073,7 +41073,7 @@
     "swing": "7.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Swindon South"
+    "PCON11NM": "South Swindon"
   },
   {
     "index": "3424",
@@ -41085,7 +41085,7 @@
     "swing": "-13.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Swindon South"
+    "PCON11NM": "South Swindon"
   },
   {
     "index": "3425",
@@ -41097,7 +41097,7 @@
     "swing": "2.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Swindon South"
+    "PCON11NM": "South Swindon"
   },
   {
     "index": "3426",
@@ -41445,7 +41445,7 @@
     "swing": "-3.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Thanet North"
+    "PCON11NM": "North Thanet"
   },
   {
     "index": "3455",
@@ -41457,7 +41457,7 @@
     "swing": "19.2",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Thanet North"
+    "PCON11NM": "North Thanet"
   },
   {
     "index": "3456",
@@ -41469,7 +41469,7 @@
     "swing": "-3.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Thanet North"
+    "PCON11NM": "North Thanet"
   },
   {
     "index": "3457",
@@ -41481,7 +41481,7 @@
     "swing": "3.7",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Thanet North"
+    "PCON11NM": "North Thanet"
   },
   {
     "index": "3458",
@@ -41493,7 +41493,7 @@
     "swing": "-15.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Thanet North"
+    "PCON11NM": "North Thanet"
   },
   {
     "index": "3459",
@@ -41505,7 +41505,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "Party for a United Thanet",
-    "PCON11NM": "Thanet North"
+    "PCON11NM": "North Thanet"
   },
   {
     "index": "3460",
@@ -41517,7 +41517,7 @@
     "swing": "-9.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3461",
@@ -41529,7 +41529,7 @@
     "swing": "26.9",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3462",
@@ -41541,7 +41541,7 @@
     "swing": "-7.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3463",
@@ -41553,7 +41553,7 @@
     "swing": "2.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3464",
@@ -41565,7 +41565,7 @@
     "swing": "-13.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3465",
@@ -41577,7 +41577,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "Free United Kingdom Party",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3466",
@@ -41589,7 +41589,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "Manston Airport Independent Party",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3467",
@@ -41601,7 +41601,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "We Are The Reality Party",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3468",
@@ -41613,7 +41613,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Party for a United Thanet",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3469",
@@ -41625,7 +41625,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3470",
@@ -41637,7 +41637,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Al-Zebabist Nation of Ooog",
-    "PCON11NM": "Thanet South"
+    "PCON11NM": "South Thanet"
   },
   {
     "index": "3471",
@@ -42681,7 +42681,7 @@
     "swing": "5.3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Tyneside North"
+    "PCON11NM": "North Tyneside"
   },
   {
     "index": "3558",
@@ -42693,7 +42693,7 @@
     "swing": "0.9",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Tyneside North"
+    "PCON11NM": "North Tyneside"
   },
   {
     "index": "3559",
@@ -42705,7 +42705,7 @@
     "swing": "13.5",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Tyneside North"
+    "PCON11NM": "North Tyneside"
   },
   {
     "index": "3560",
@@ -42717,7 +42717,7 @@
     "swing": "-18.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Tyneside North"
+    "PCON11NM": "North Tyneside"
   },
   {
     "index": "3561",
@@ -42729,7 +42729,7 @@
     "swing": "3.1",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Tyneside North"
+    "PCON11NM": "North Tyneside"
   },
   {
     "index": "3562",
@@ -42741,7 +42741,7 @@
     "swing": "0.6",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Tyneside North"
+    "PCON11NM": "North Tyneside"
   },
   {
     "index": "3563",
@@ -42753,7 +42753,7 @@
     "swing": "-0.9",
     "region": "England",
     "partyAll": "National Front",
-    "PCON11NM": "Tyneside North"
+    "PCON11NM": "North Tyneside"
   },
   {
     "index": "3564",
@@ -42861,7 +42861,7 @@
     "swing": "2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3573",
@@ -42873,7 +42873,7 @@
     "swing": "3",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3574",
@@ -42885,7 +42885,7 @@
     "swing": "11.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3575",
@@ -42897,7 +42897,7 @@
     "swing": "-15",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3576",
@@ -42909,7 +42909,7 @@
     "swing": "2.1",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3577",
@@ -42921,7 +42921,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3578",
@@ -42933,7 +42933,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3579",
@@ -42945,7 +42945,7 @@
     "swing": "0.2",
     "region": "England",
     "partyAll": "Monster Raving Loony Party",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3580",
@@ -42957,7 +42957,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Communities United",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3581",
@@ -42969,7 +42969,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "The Eccentric Party of Great Britain",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3582",
@@ -42981,7 +42981,7 @@
     "swing": "0.1",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3583",
@@ -42993,7 +42993,7 @@
     "swing": "0",
     "region": "England",
     "partyAll": "The Realists' Party",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3584",
@@ -43005,7 +43005,7 @@
     "swing": "0",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Uxbridge and Ruislip South"
+    "PCON11NM": "Uxbridge and South Ruislip"
   },
   {
     "index": "3585",
@@ -44025,7 +44025,7 @@
     "swing": "2.1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Warwickshire North"
+    "PCON11NM": "North Warwickshire"
   },
   {
     "index": "3670",
@@ -44037,7 +44037,7 @@
     "swing": "-4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Warwickshire North"
+    "PCON11NM": "North Warwickshire"
   },
   {
     "index": "3671",
@@ -44049,7 +44049,7 @@
     "swing": "14.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Warwickshire North"
+    "PCON11NM": "North Warwickshire"
   },
   {
     "index": "3672",
@@ -44061,7 +44061,7 @@
     "swing": "-9.5",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Warwickshire North"
+    "PCON11NM": "North Warwickshire"
   },
   {
     "index": "3673",
@@ -44073,7 +44073,7 @@
     "swing": "1.9",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Warwickshire North"
+    "PCON11NM": "North Warwickshire"
   },
   {
     "index": "3674",
@@ -44085,7 +44085,7 @@
     "swing": "0.3",
     "region": "England",
     "partyAll": "TUSC",
-    "PCON11NM": "Warwickshire North"
+    "PCON11NM": "North Warwickshire"
   },
   {
     "index": "3675",
@@ -45345,7 +45345,7 @@
     "swing": "5.7",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Wiltshire North"
+    "PCON11NM": "North Wiltshire"
   },
   {
     "index": "3780",
@@ -45357,7 +45357,7 @@
     "swing": "-20.6",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Wiltshire North"
+    "PCON11NM": "North Wiltshire"
   },
   {
     "index": "3781",
@@ -45369,7 +45369,7 @@
     "swing": "7.6",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Wiltshire North"
+    "PCON11NM": "North Wiltshire"
   },
   {
     "index": "3782",
@@ -45381,7 +45381,7 @@
     "swing": "3.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Wiltshire North"
+    "PCON11NM": "North Wiltshire"
   },
   {
     "index": "3783",
@@ -45393,7 +45393,7 @@
     "swing": "3.4",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Wiltshire North"
+    "PCON11NM": "North Wiltshire"
   },
   {
     "index": "3784",
@@ -45405,7 +45405,7 @@
     "swing": "0.8",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Wiltshire North"
+    "PCON11NM": "North Wiltshire"
   },
   {
     "index": "3785",
@@ -45417,7 +45417,7 @@
     "swing": "0.5",
     "region": "England",
     "partyAll": "Independent",
-    "PCON11NM": "Wiltshire North"
+    "PCON11NM": "North Wiltshire"
   },
   {
     "index": "3786",
@@ -45429,7 +45429,7 @@
     "swing": "1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Wiltshire South West"
+    "PCON11NM": "South West Wiltshire"
   },
   {
     "index": "3787",
@@ -45441,7 +45441,7 @@
     "swing": "12",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Wiltshire South West"
+    "PCON11NM": "South West Wiltshire"
   },
   {
     "index": "3788",
@@ -45453,7 +45453,7 @@
     "swing": "2",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Wiltshire South West"
+    "PCON11NM": "South West Wiltshire"
   },
   {
     "index": "3789",
@@ -45465,7 +45465,7 @@
     "swing": "-19.9",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Wiltshire South West"
+    "PCON11NM": "South West Wiltshire"
   },
   {
     "index": "3790",
@@ -45477,7 +45477,7 @@
     "swing": "5.8",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Wiltshire South West"
+    "PCON11NM": "South West Wiltshire"
   },
   {
     "index": "3791",
@@ -46461,7 +46461,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Worcestershire Mid"
+    "PCON11NM": "Mid Worcestershire"
   },
   {
     "index": "3873",
@@ -46473,7 +46473,7 @@
     "swing": "11.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Worcestershire Mid"
+    "PCON11NM": "Mid Worcestershire"
   },
   {
     "index": "3874",
@@ -46485,7 +46485,7 @@
     "swing": "-0.5",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Worcestershire Mid"
+    "PCON11NM": "Mid Worcestershire"
   },
   {
     "index": "3875",
@@ -46497,7 +46497,7 @@
     "swing": "-16.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Worcestershire Mid"
+    "PCON11NM": "Mid Worcestershire"
   },
   {
     "index": "3876",
@@ -46509,7 +46509,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Worcestershire Mid"
+    "PCON11NM": "Mid Worcestershire"
   },
   {
     "index": "3877",
@@ -46521,7 +46521,7 @@
     "swing": "5.8",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Worcestershire West"
+    "PCON11NM": "West Worcestershire"
   },
   {
     "index": "3878",
@@ -46533,7 +46533,7 @@
     "swing": "10.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Worcestershire West"
+    "PCON11NM": "West Worcestershire"
   },
   {
     "index": "3879",
@@ -46545,7 +46545,7 @@
     "swing": "6.6",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Worcestershire West"
+    "PCON11NM": "West Worcestershire"
   },
   {
     "index": "3880",
@@ -46557,7 +46557,7 @@
     "swing": "-28.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Worcestershire West"
+    "PCON11NM": "West Worcestershire"
   },
   {
     "index": "3881",
@@ -46569,7 +46569,7 @@
     "swing": "5.3",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Worcestershire West"
+    "PCON11NM": "West Worcestershire"
   },
   {
     "index": "3882",
@@ -46749,7 +46749,7 @@
     "swing": "1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Worthing East and Shoreham"
+    "PCON11NM": "East Worthing and Shoreham"
   },
   {
     "index": "3897",
@@ -46761,7 +46761,7 @@
     "swing": "2.8",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Worthing East and Shoreham"
+    "PCON11NM": "East Worthing and Shoreham"
   },
   {
     "index": "3898",
@@ -46773,7 +46773,7 @@
     "swing": "10.4",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Worthing East and Shoreham"
+    "PCON11NM": "East Worthing and Shoreham"
   },
   {
     "index": "3899",
@@ -46785,7 +46785,7 @@
     "swing": "-18.8",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Worthing East and Shoreham"
+    "PCON11NM": "East Worthing and Shoreham"
   },
   {
     "index": "3900",
@@ -46797,7 +46797,7 @@
     "swing": "2.9",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Worthing East and Shoreham"
+    "PCON11NM": "East Worthing and Shoreham"
   },
   {
     "index": "3901",
@@ -46809,7 +46809,7 @@
     "swing": "2.5",
     "region": "England",
     "partyAll": "National Health Action",
-    "PCON11NM": "Worthing East and Shoreham"
+    "PCON11NM": "East Worthing and Shoreham"
   },
   {
     "index": "3902",
@@ -46881,7 +46881,7 @@
     "swing": "2",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Wrekin, The"
+    "PCON11NM": "The Wrekin"
   },
   {
     "index": "3908",
@@ -46893,7 +46893,7 @@
     "swing": "-1.1",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Wrekin, The"
+    "PCON11NM": "The Wrekin"
   },
   {
     "index": "3909",
@@ -46905,7 +46905,7 @@
     "swing": "12.3",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Wrekin, The"
+    "PCON11NM": "The Wrekin"
   },
   {
     "index": "3910",
@@ -46917,7 +46917,7 @@
     "swing": "-13.1",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Wrekin, The"
+    "PCON11NM": "The Wrekin"
   },
   {
     "index": "3911",
@@ -46929,7 +46929,7 @@
     "swing": "3.2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Wrekin, The"
+    "PCON11NM": "The Wrekin"
   },
   {
     "index": "3912",
@@ -47589,7 +47589,7 @@
     "swing": "3.1",
     "region": "England",
     "partyAll": "Conservative",
-    "PCON11NM": "Yorkshire East"
+    "PCON11NM": "East Yorkshire"
   },
   {
     "index": "3967",
@@ -47601,7 +47601,7 @@
     "swing": "0.4",
     "region": "England",
     "partyAll": "Labour",
-    "PCON11NM": "Yorkshire East"
+    "PCON11NM": "East Yorkshire"
   },
   {
     "index": "3968",
@@ -47613,7 +47613,7 @@
     "swing": "13.7",
     "region": "England",
     "partyAll": "UKIP",
-    "PCON11NM": "Yorkshire East"
+    "PCON11NM": "East Yorkshire"
   },
   {
     "index": "3969",
@@ -47625,7 +47625,7 @@
     "swing": "-15.2",
     "region": "England",
     "partyAll": "Liberal Democrat",
-    "PCON11NM": "Yorkshire East"
+    "PCON11NM": "East Yorkshire"
   },
   {
     "index": "3970",
@@ -47637,7 +47637,7 @@
     "swing": "2",
     "region": "England",
     "partyAll": "Green Party",
-    "PCON11NM": "Yorkshire East"
+    "PCON11NM": "East Yorkshire"
   },
   {
     "index": "3971",
@@ -47649,6 +47649,6 @@
     "swing": "1.4",
     "region": "England",
     "partyAll": "Yorkshire First",
-    "PCON11NM": "Yorkshire East"
+    "PCON11NM": "East Yorkshire"
   }
 ]

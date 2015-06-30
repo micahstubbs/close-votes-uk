@@ -52,7 +52,6 @@ jf.writeFile(outputFile, outputJsonObj, function(err){
   console.log(err)
 })
 
-/* 
 
 // create a template array of zero-voteShare values for all of the parties
 var zeroes = []
@@ -110,4 +109,3 @@ jf.writeFile(outputFile, outputJsonObj, function(err){
   console.log(err)
 })
 
-*/

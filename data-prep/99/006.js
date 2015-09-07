@@ -71,12 +71,13 @@ while(l--) {
 	// create a template array of zero-voteShare values for all of the parties
 	var zeroes = [];
 	var m = {};
+	
 	parties.forEach(function(el, i){
 		zeroes.push(0);
 		m[i] = [];
 	})
 	
-	currentVoteShare = zeroes; // [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]; // zeroes;
+	currentVoteShare = zeroes;
 	var voteObj = m;
 
 	//console.log(idx);

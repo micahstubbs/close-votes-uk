@@ -4,6 +4,11 @@ var fs = require('fs'),
 		_ = require('lodash'),
 		ed = require('euclidean-distance');
 
+/* 
+	calculate the euclidean distance between the 
+	voteShare arrays for each unique pair of built-up areas
+*/
+
 var jsonfile = '007.json';
 var data = JSON.parse(fs.readFileSync(jsonfile, 'utf8'));
 

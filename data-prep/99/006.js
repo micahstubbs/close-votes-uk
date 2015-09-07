@@ -53,40 +53,68 @@ jf.writeFile(outputFile, outputJsonObj, function(err){
 })
 
 
-// create a template array of zero-voteShare values for all of the parties
-var zeroes = []
-var m = {}
-parties.forEach(function(el, i){
-	zeroes.push(0);
-	m[i] = [];
-})
+
+
+console.log(zeroes);
+//console.log(m);
+
+
 
 // for each metro
 // update the array values to the average voteShare value
 // for each party
-// across all of the constiuencies in that metro 
-data.forEach(function(el, idx, theArray){
-	var currentVoteShare = zeroes;
+// across all of the constituencies in that metro 
+var currentVoteShare;
+var l = data.length;
+while(l--) {
+
+	// create a template array of zero-voteShare values for all of the parties
+	var zeroes = [];
+	var m = {};
+	parties.forEach(function(el, i){
+		zeroes.push(0);
+		m[i] = [];
+	})
+	
+	currentVoteShare = zeroes; // [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]; // zeroes;
 	var voteObj = m;
 
-	el.cons.forEach(function(con){
+	//console.log(idx);
 
-		voteData.filter(function(record){
-			return record.constituency == con;
+	data[l]['cons'].forEach(function(con){
+
+		//console.log(con);
+		var subset = voteData.filter(function(record){
+			return record.PCON11NM == con;
 		})
-		.forEach(function(result){
+
+		//console.log(subset);
+		
+		subset.forEach(function(result){
 			var index = parties.indexOf(result.party);
+			//console.log("index is " + index);
 			voteObj[index].push(result.voteShare);
+			//console.log(result.voteShare);
 		})
 	})
-	console.log(currentVoteShare + " result");
+
+	//console.log(currentVoteShare + " result");
 	// average the voteShares from each constituency 
 	// in the metro
+	//sconsole.log(voteObj); 
 	for(var i=0; i<parties.length; i++){
 		currentVoteShare[i] = Math.round(mean(voteObj[i])*10)/10;
 	}
-	theArray[idx]['voteShare'] = currentVoteShare;
-})
+	//console.log("currentVoteShare", currentVoteShare);
+	//console.log(l);
+	//console.log(data[l]);
+	data[l]['voteShare'] = currentVoteShare;
+	//console.log(data[l]['voteShare']);
+	//if(l === data.length-1) return true;
+}
+
+//console.log(data);
+
 
 function mean(array) { 
   var i,

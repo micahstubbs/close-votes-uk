@@ -70,16 +70,16 @@ function vis(error, data, parties) {
 	// create the drop down menu of cities
 	var selector = d3.select("#selectorcontainer")
 		.append("select")
-		.attr("id", "cityselector")
+		.attr("id", "metroselector")
 		.selectAll("option")
 		.data(data)
 		.enter().append("option")
-		.text(function(d) { return d.city; })
+		.text(function(d) { return d.metro; })
 		.attr("value", function (d, i) {
 			return i;
 		});
 
-	d3.select("#cityselector").property("selectedIndex", index);
+	d3.select("#metroselector").property("selectedIndex", index);
 //27861
 	var rl = d3.scale.linear().domain([0, 75]).range([0, w / 2 - 60]);
 	var rs = d3.scale.log().domain([1, 74]).range([0, w / 2 - 60]);
@@ -119,11 +119,11 @@ function vis(error, data, parties) {
 	merc.translate([140, 3100]);
 	merc.scale(2900);
 
-	var selectedCity = svg.append("text")
-		.attr("id", "selectedcity")
+	var selectedmetro = svg.append("text")
+		.attr("id", "selectedmetro")
 		.attr("x", 74)
 		.attr("y", 30)
-		.text(data[index]['city'])
+		.text(data[index]['metro'])
 		.style("fill", "#000")
 		.style("text-anchor", "start")
 		.style("font-family", "Quicksand")
@@ -183,7 +183,7 @@ function vis(error, data, parties) {
 		d.s = i;
 	})
 
-	d3.select("#cityselector")
+	d3.select("#metroselector")
 		.on("change", function(d) {
 			index = this.value;
 			update();
@@ -231,7 +231,7 @@ function vis(error, data, parties) {
 		.on("click", function() {
 			layout = "radial";
 
-			d3.selectAll(".city")
+			d3.selectAll(".metro")
 				.transition()
 				.duration(1300)
 				.attr("cy", 0)
@@ -254,7 +254,7 @@ function vis(error, data, parties) {
 		.on("click", function() {
 			layout = "geo";
 
-			d3.selectAll(".city")
+			d3.selectAll(".metro")
 				.transition()
 				.duration(1300)
 				.attr('cy', function(d) { return merc([d['long'], d['lat']])[1]; })
@@ -275,14 +275,14 @@ function vis(error, data, parties) {
 
   function update() {
   	if (layout == "radial") {
-        	d3.selectAll('.city')
+        	d3.selectAll('.metro')
 	          .transition()
 	          .duration(800)
 	          .attr("cx", function(d, i) { return rs(d['eud'][index] == 0 ? 1 : d['eud'][index])})
 	          .attr('r', rfunc)
 	          .style('fill', function(d, i) { return index == d.s ? "#F9786C" : c(d['eud'][index] == 0 ? 1 : d['eud'][index]); })	
         } else {
-        	d3.selectAll('.city')
+        	d3.selectAll('.metro')
 	          .transition()
 	          .duration(800)
 	          .attr('r', rfunc)
@@ -292,8 +292,8 @@ function vis(error, data, parties) {
         d3.selectAll(".label")
         	.remove();
 
-        d3.select("#selectedcity")
-        	.text(data[index]['city'])
+        d3.select("#selectedmetro")
+        	.text(data[index]['metro'])
         /*
         bar
         	.data(data[index]['voteShare'])
@@ -303,10 +303,10 @@ function vis(error, data, parties) {
         */
   }		
 
-  var circle = g.selectAll('.city')
+  var circle = g.selectAll('.metro')
   	.data(data)
   	.enter().append('circle')
-    .attr('class', 'city')
+    .attr('class', 'metro')
   	.attr('r', rfunc)
   	.attr('cy', function(d) { return merc([d['long'], d['lat']])[1]; })
   	.attr('cx', function(d) { return merc([d['long'], d['lat']])[0]; })
@@ -316,7 +316,7 @@ function vis(error, data, parties) {
   	.style("opacity", 0.9)
     .on("click", function(d, ind) {
     	console.log(d);
-    	d3.selectAll('.city').each(function(d, ind) {
+    	d3.selectAll('.metro').each(function(d, ind) {
         	if (d.s == index) {
 				d3.select(this)
         			.moveToFront()
@@ -326,7 +326,7 @@ function vis(error, data, parties) {
 
         index = ind;
         
-        d3.select("#cityselector").property("selectedIndex", index);
+        d3.select("#metroselector").property("selectedIndex", index);
 
         update();
 
@@ -337,7 +337,7 @@ function vis(error, data, parties) {
 			.append('text')
 			.attr('class', 'label')
 			.style('text-anchor', 'middle')
-			.text(function() { return d.city; })
+			.text(function() { return d.metro; })
 			.style('font-family', "'Quicksand', sans-serif")
 			.style('font-size', '16px')
 			.style('font-weight', 'bold')
@@ -352,7 +352,7 @@ function vis(error, data, parties) {
 			.append('text')
 			.attr('class', 'label')
 			.style('text-anchor', 'middle')
-			.text(function() { return d.city; })
+			.text(function() { return d.metro; })
 			.style('font-family', "'Quicksand', sans-serif")
 			.style('font-size', '16px')
 			.style('font-weight', 'bold')

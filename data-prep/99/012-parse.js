@@ -9,14 +9,14 @@ var data = JSON.parse(fs.readFileSync(jsonfile, 'utf8'));
 var outputJsonObj = []
 var buas = Object.keys(data);
 
-// a script to make the output json more human readable with the city property
+// a script to make the output json more human readable with the metro property
 // at the top
 
 for(i=0; i<buas.length; i++){
 	var t = {}
 	var bua = buas[i];
 
-	t['city'] = bua;
+	t['metro'] = bua;
 	t['pop'] = data[bua]['pop'];
 	t['lat'] = data[bua]['lat'];
 	t['long'] = data[bua]['long'];

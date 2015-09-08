@@ -7,6 +7,11 @@ var fs = require('fs'),
 /* 
 	calculate the euclidean distance between the 
 	voteShare arrays for each unique pair of built-up areas
+
+	this is the last script to produce the dataset.
+
+	the remaining scripts 011.js and up are utiltity scripts 
+	for specific tasks.
 */
 
 var jsonfile = '007.json';

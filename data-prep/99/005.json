@@ -1628,7 +1628,9 @@
     "pop": 138393,
     "cons": [
       "Isle of Wight"
-    ]
+    ],
+    "lat": "50.5976",
+    "long": "-1.2084"
   },
   {
     "metro": "Colwyn Bay",
@@ -1645,196 +1647,252 @@
     "pop": 119315,
     "cons": [
       "Banbury"
-    ]
+    ],
+    "lat": "51.93",
+    "long": "-1.117"
   },
   {
     "metro": "Sellindge",
     "pop": 114009,
     "cons": [
       "Folkestone and Hythe"
-    ]
+    ],
+    "lat": "51.1073",
+    "long": "0.99"
   },
   {
     "metro": "Warmington (East Northamptonshire)",
     "pop": 113450,
     "cons": [
       "Corby"
-    ]
+    ],
+    "lat": "52.51",
+    "long": "-0.417"
   },
   {
     "metro": "Bradford-on-Tone",
     "pop": 112116,
     "cons": [
       "Taunton Deane"
-    ]
+    ],
+    "lat": "50.999",
+    "long": "-3.1799"
   },
   {
     "metro": "East Cowton",
     "pop": 109643,
     "cons": [
       "Richmond (Yorks)"
-    ]
+    ],
+    "lat": "54.4245",
+    "long": "-1.526"
   },
   {
     "metro": "Chilthorne Domer",
     "pop": 108739,
     "cons": [
       "Yeovil"
-    ]
+    ],
+    "lat": "50.9729",
+    "long": "-2.6778"
   },
   {
     "metro": "Churchill (West Oxfordshire)",
     "pop": 107989,
     "cons": [
       "Witney"
-    ]
+    ],
+    "lat": "51.917",
+    "long": "-1.59"
   },
   {
     "metro": "Speldhurst",
     "pop": 105859,
     "cons": [
       "Tunbridge Wells"
-    ]
+    ],
+    "lat": "51.1516",
+    "long": "0.2219"
   },
   {
     "metro": "Stoney Stratton",
     "pop": 104355,
     "cons": [
       "Somerton and Frome"
-    ]
+    ],
+    "lat": "51.1517834",
+    "long": "-2.495001"
   },
   {
     "metro": "St James South Elmham",
     "pop": 103120,
     "cons": [
       "Waveney"
-    ]
+    ],
+    "lat": "52.379",
+    "long": "1.408"
   },
   {
     "metro": "Bicton",
     "pop": 102876,
     "cons": [
       "Shrewsbury and Atcham"
-    ]
+    ],
+    "lat": "50.6656287",
+    "long": "-3.3075523"
   },
   {
     "metro": "Great Ellingham",
     "pop": 101581,
     "cons": [
       "Mid Norfolk"
-    ]
+    ],
+    "lat": "52.5353",
+    "long": "0.9761"
   },
   {
     "metro": "Quintrell Downs",
     "pop": 101038,
     "cons": [
       "St Austell and Newquay"
-    ]
+    ],
+    "lat": "50.4019",
+    "long": "-5.0262"
   },
   {
     "metro": "Bempton",
     "pop": 100980,
     "cons": [
       "East Yorkshire"
-    ]
+    ],
+    "lat": "54.1317",
+    "long": "-0.1772"
   },
   {
     "metro": "Oare",
     "pop": 100162,
     "cons": [
       "Devizes"
-    ]
+    ],
+    "lat": "51.33",
+    "long": "0.878"
   },
   {
     "metro": "Mary Tavy",
     "pop": 98555,
     "cons": [
       "Torridge and West Devon"
-    ]
+    ],
+    "lat": "50.59141",
+    "long": "-4.12051"
   },
   {
     "metro": "Lydden",
     "pop": 98442,
     "cons": [
       "Dover"
-    ]
+    ],
+    "lat": "51.1642",
+    "long": "1.234"
   },
   {
     "metro": "Great Yarmouth",
     "pop": 97796,
     "cons": [
       "Great Yarmouth"
-    ]
+    ],
+    "lat": "52.606",
+    "long": "1.729"
   },
   {
     "metro": "Hovingham",
     "pop": 97727,
     "cons": [
       "Thirsk and Malton"
-    ]
+    ],
+    "lat": "54.17175",
+    "long": "-0.97895"
   },
   {
     "metro": "Sleights",
     "pop": 96862,
     "cons": [
       "Scarborough and Whitby"
-    ]
+    ],
+    "lat": "54.4503",
+    "long": "-0.6624"
   },
   {
     "metro": "Brocton",
     "pop": 96008,
     "cons": [
       "Stafford"
-    ]
+    ],
+    "lat": "52.7725",
+    "long": "-2.0487"
   },
   {
     "metro": "Middleton (King's Lynn and West Norfolk)",
     "pop": 95933,
     "cons": [
       "North West Norfolk"
-    ]
+    ],
+    "lat": "52.717",
+    "long": "0.467"
   },
   {
     "metro": "Geddington",
     "pop": 95748,
     "cons": [
       "Kettering"
-    ]
+    ],
+    "lat": "52.4408",
+    "long": "-0.6851"
   },
   {
     "metro": "Hill Ridware",
     "pop": 94175,
     "cons": [
       "Lichfield"
-    ]
+    ],
+    "lat": "52.758369",
+    "long": "-1.880748"
   },
   {
     "metro": "Goodleigh",
     "pop": 93825,
     "cons": [
       "North Devon"
-    ]
+    ],
+    "lat": "51.091667",
+    "long": "-4.006667"
   },
   {
     "metro": "St Eval",
     "pop": 89497,
     "cons": [
       "North Cornwall"
-    ]
+    ],
+    "lat": "50.478",
+    "long": "-4.984"
   },
   {
     "metro": "Pensilva",
     "pop": 88440,
     "cons": [
       "South East Cornwall"
-    ]
+    ],
+    "lat": "50.50328",
+    "long": "-4.41045"
   },
   {
     "metro": "Cotherstone",
     "pop": 87519,
     "cons": [
       "Bishop Auckland"
-    ]
+    ],
+    "lat": "54.57254",
+    "long": "-1.9832"
   },
   {
     "metro": "Swarthmoor",
@@ -1850,91 +1908,117 @@
     "pop": 86965,
     "cons": [
       "Newton Abbot"
-    ]
+    ],
+    "lat": "50.64",
+    "long": "-3.47"
   },
   {
     "metro": "Madron",
     "pop": 86226,
     "cons": [
       "St Ives"
-    ]
+    ],
+    "lat": "50.133",
+    "long": "-5.565"
   },
   {
     "metro": "Kirkby-le-Soken",
     "pop": 85838,
     "cons": [
       "Clacton"
-    ]
+    ],
+    "lat": "51.851",
+    "long": "1.225"
   },
   {
     "metro": "Staveley",
     "pop": 83799,
     "cons": [
       "Westmorland and Lonsdale"
-    ]
+    ],
+    "lat": "54.267222",
+    "long": "-2.953056"
   },
   {
     "metro": "Pegswood",
     "pop": 81898,
     "cons": [
       "Wansbeck"
-    ]
+    ],
+    "lat": "55.1798",
+    "long": "-1.6442"
   },
   {
     "metro": "Arlecdon",
     "pop": 80155,
     "cons": [
       "Copeland"
-    ]
+    ],
+    "lat": "54.55",
+    "long": "-3.48"
   },
   {
     "metro": "Brigham",
     "pop": 78349,
     "cons": [
       "Workington"
-    ]
+    ],
+    "lat": "54.658",
+    "long": "-3.416"
   },
   {
     "metro": "Humshaugh",
     "pop": 76123,
     "cons": [
       "Hexham"
-    ]
+    ],
+    "lat": "55.0333",
+    "long": "-2.1333"
   },
   {
     "metro": "Longframlington",
     "pop": 75558,
     "cons": [
       "Berwick-upon-Tweed"
-    ]
+    ],
+    "lat": "55.2984",
+    "long": "-1.7889"
   },
   {
     "metro": "Trefnant",
     "pop": 71588,
     "cons": [
       "Vale of Clwyd"
-    ]
+    ],
+    "lat": "53.227",
+    "long": "-3.429"
   },
   {
     "metro": "Amlwch",
     "pop": 70091,
     "cons": [
       "Ynys Mon"
-    ]
+    ],
+    "lat": "53.406",
+    "long": "-4.341"
   },
   {
     "metro": "Tal-y-bont (Gwynedd)",
     "pop": 60972,
     "cons": [
       "Dwyfor Meirionnydd"
-    ]
+    ],
+    "lat": "52.77165",
+    "long": "-4.09596"
   },
   {
     "metro": "Penygroes",
     "pop": 60939,
     "cons": [
       "Arfon"
-    ]
+    ],
+    "lat": "53.053",
+    "long": "-4.283"
   },
   {
     "metro": "Ballymena",

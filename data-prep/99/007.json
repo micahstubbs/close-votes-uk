@@ -4506,6 +4506,8 @@
     "cons": [
       "Isle of Wight"
     ],
+    "lat": "50.5976",
+    "long": "-1.2084",
     "voteShare": [
       40.7,
       12.8,
@@ -4565,6 +4567,8 @@
     "cons": [
       "Banbury"
     ],
+    "lat": "51.93",
+    "long": "-1.117",
     "voteShare": [
       53,
       21.3,
@@ -4593,6 +4597,8 @@
     "cons": [
       "Folkestone and Hythe"
     ],
+    "lat": "51.1073",
+    "long": "0.99",
     "voteShare": [
       47.9,
       14.4,
@@ -4621,6 +4627,8 @@
     "cons": [
       "Corby"
     ],
+    "lat": "52.51",
+    "long": "-0.417",
     "voteShare": [
       42.8,
       38.5,
@@ -4649,6 +4657,8 @@
     "cons": [
       "Taunton Deane"
     ],
+    "lat": "50.999",
+    "long": "-3.1799",
     "voteShare": [
       48.1,
       9.2,
@@ -4677,6 +4687,8 @@
     "cons": [
       "Richmond (Yorks)"
     ],
+    "lat": "54.4245",
+    "long": "-1.526",
     "voteShare": [
       51.4,
       13.2,
@@ -4705,6 +4717,8 @@
     "cons": [
       "Yeovil"
     ],
+    "lat": "50.9729",
+    "long": "-2.6778",
     "voteShare": [
       42.5,
       7.1,
@@ -4733,6 +4747,8 @@
     "cons": [
       "Witney"
     ],
+    "lat": "51.917",
+    "long": "-1.59",
     "voteShare": [
       60.2,
       17.2,
@@ -4761,6 +4777,8 @@
     "cons": [
       "Tunbridge Wells"
     ],
+    "lat": "51.1516",
+    "long": "0.2219",
     "voteShare": [
       58.7,
       14.2,
@@ -4789,6 +4807,8 @@
     "cons": [
       "Somerton and Frome"
     ],
+    "lat": "51.1517834",
+    "long": "-2.495001",
     "voteShare": [
       53,
       7.3,
@@ -4817,6 +4837,8 @@
     "cons": [
       "Waveney"
     ],
+    "lat": "52.379",
+    "long": "1.408",
     "voteShare": [
       42.3,
       37.7,
@@ -4845,6 +4867,8 @@
     "cons": [
       "Shrewsbury and Atcham"
     ],
+    "lat": "50.6656287",
+    "long": "-3.3075523",
     "voteShare": [
       45.5,
       27.8,
@@ -4873,6 +4897,8 @@
     "cons": [
       "Mid Norfolk"
     ],
+    "lat": "52.5353",
+    "long": "0.9761",
     "voteShare": [
       52.1,
       18.4,
@@ -4901,6 +4927,8 @@
     "cons": [
       "St Austell and Newquay"
     ],
+    "lat": "50.4019",
+    "long": "-5.0262",
     "voteShare": [
       40.2,
       10.2,
@@ -4929,6 +4957,8 @@
     "cons": [
       "East Yorkshire"
     ],
+    "lat": "54.1317",
+    "long": "-0.1772",
     "voteShare": [
       50.6,
       20.7,
@@ -4957,6 +4987,8 @@
     "cons": [
       "Devizes"
     ],
+    "lat": "51.33",
+    "long": "0.878",
     "voteShare": [
       57.7,
       13,
@@ -4985,6 +5017,8 @@
     "cons": [
       "Torridge and West Devon"
     ],
+    "lat": "50.59141",
+    "long": "-4.12051",
     "voteShare": [
       50.9,
       10.6,
@@ -5013,6 +5047,8 @@
     "cons": [
       "Dover"
     ],
+    "lat": "51.1642",
+    "long": "1.234",
     "voteShare": [
       43.3,
       30.7,
@@ -5041,6 +5077,8 @@
     "cons": [
       "Great Yarmouth"
     ],
+    "lat": "52.606",
+    "long": "1.729",
     "voteShare": [
       42.9,
       29.1,
@@ -5069,6 +5107,8 @@
     "cons": [
       "Thirsk and Malton"
     ],
+    "lat": "54.17175",
+    "long": "-0.97895",
     "voteShare": [
       52.6,
       15.4,
@@ -5097,6 +5137,8 @@
     "cons": [
       "Scarborough and Whitby"
     ],
+    "lat": "54.4503",
+    "long": "-0.6624",
     "voteShare": [
       43.2,
       30.2,
@@ -5125,6 +5167,8 @@
     "cons": [
       "Stafford"
     ],
+    "lat": "52.7725",
+    "long": "-2.0487",
     "voteShare": [
       48.4,
       29.6,
@@ -5153,6 +5197,8 @@
     "cons": [
       "North West Norfolk"
     ],
+    "lat": "52.717",
+    "long": "0.467",
     "voteShare": [
       52.2,
       22.8,
@@ -5181,6 +5227,8 @@
     "cons": [
       "Kettering"
     ],
+    "lat": "52.4408",
+    "long": "-0.6851",
     "voteShare": [
       51.8,
       25.2,
@@ -5209,6 +5257,8 @@
     "cons": [
       "Lichfield"
     ],
+    "lat": "52.758369",
+    "long": "-1.880748",
     "voteShare": [
       55.2,
       19.8,
@@ -5237,6 +5287,8 @@
     "cons": [
       "North Devon"
     ],
+    "lat": "51.091667",
+    "long": "-4.006667",
     "voteShare": [
       42.7,
       7.1,
@@ -5265,6 +5317,8 @@
     "cons": [
       "North Cornwall"
     ],
+    "lat": "50.478",
+    "long": "-4.984",
     "voteShare": [
       45,
       5.4,
@@ -5293,6 +5347,8 @@
     "cons": [
       "South East Cornwall"
     ],
+    "lat": "50.50328",
+    "long": "-4.41045",
     "voteShare": [
       50.5,
       9.3,
@@ -5321,6 +5377,8 @@
     "cons": [
       "Bishop Auckland"
     ],
+    "lat": "54.57254",
+    "long": "-1.9832",
     "voteShare": [
       32.5,
       41.4,
@@ -5379,6 +5437,8 @@
     "cons": [
       "Newton Abbot"
     ],
+    "lat": "50.64",
+    "long": "-3.47",
     "voteShare": [
       47.3,
       9.8,
@@ -5407,6 +5467,8 @@
     "cons": [
       "St Ives"
     ],
+    "lat": "50.133",
+    "long": "-5.565",
     "voteShare": [
       38.3,
       9.3,
@@ -5435,6 +5497,8 @@
     "cons": [
       "Clacton"
     ],
+    "lat": "51.851",
+    "long": "1.225",
     "voteShare": [
       36.7,
       14.4,
@@ -5463,6 +5527,8 @@
     "cons": [
       "Westmorland and Lonsdale"
     ],
+    "lat": "54.267222",
+    "long": "-2.953056",
     "voteShare": [
       33.2,
       5.4,
@@ -5491,6 +5557,8 @@
     "cons": [
       "Wansbeck"
     ],
+    "lat": "55.1798",
+    "long": "-1.6442",
     "voteShare": [
       21.8,
       50,
@@ -5519,6 +5587,8 @@
     "cons": [
       "Copeland"
     ],
+    "lat": "54.55",
+    "long": "-3.48",
     "voteShare": [
       35.8,
       42.3,
@@ -5547,6 +5617,8 @@
     "cons": [
       "Workington"
     ],
+    "lat": "54.658",
+    "long": "-3.416",
     "voteShare": [
       30.1,
       42.3,
@@ -5575,6 +5647,8 @@
     "cons": [
       "Hexham"
     ],
+    "lat": "55.0333",
+    "long": "-2.1333",
     "voteShare": [
       52.7,
       24.9,
@@ -5603,6 +5677,8 @@
     "cons": [
       "Berwick-upon-Tweed"
     ],
+    "lat": "55.2984",
+    "long": "-1.7889",
     "voteShare": [
       41.1,
       14.9,
@@ -5631,6 +5707,8 @@
     "cons": [
       "Vale of Clwyd"
     ],
+    "lat": "53.227",
+    "long": "-3.429",
     "voteShare": [
       39,
       38.4,
@@ -5659,6 +5737,8 @@
     "cons": [
       "Ynys Mon"
     ],
+    "lat": "53.406",
+    "long": "-4.341",
     "voteShare": [
       21.2,
       31.1,
@@ -5687,6 +5767,8 @@
     "cons": [
       "Dwyfor Meirionnydd"
     ],
+    "lat": "52.77165",
+    "long": "-4.09596",
     "voteShare": [
       22.7,
       13.5,
@@ -5715,6 +5797,8 @@
     "cons": [
       "Arfon"
     ],
+    "lat": "53.053",
+    "long": "-4.283",
     "voteShare": [
       13.1,
       30.3,

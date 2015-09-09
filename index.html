@@ -294,13 +294,13 @@ function vis(error, data, parties) {
 
         d3.select("#selectedmetro")
         	.text(data[index]['metro'])
-        /*
+        
         bar
         	.data(data[index]['voteShare'])
         	.transition()
         	.duration(800)
         	.attr("width", function(d) { return bs(d); })
-        */
+        
   }		
 
   var circle = g.selectAll('.metro')
@@ -396,7 +396,9 @@ function vis(error, data, parties) {
 			.remove()
 	});
 
-	var bs = d3.scale.linear().domain([0, 100]).range([0, 200]);
+	var bs = d3.scale.linear()
+		.domain([0, 100])
+		.range([0, 200]);
 
 	var bg = svg.append("g")
 		.attr("transform", "translate(200, 50)")
@@ -411,16 +413,16 @@ function vis(error, data, parties) {
 		.text(String)
 		.style("text-anchor", "end")
 		.style("fill", "#91B6D4")
-/*
+
 	var bar = bg.selectAll("rect")
 		.data(data[index]["voteShare"])
 		.enter().append("rect")
 		.attr("x", 5)
-		.attr("y", function(d, i) { return i * data.length; })
+		.attr("y", function(d, i) { return i * 11; })
 		.attr("height", 10)
 		.attr("width", function(d) { return bs(d); })
 		.style("fill", "#91B6D4")
-*/
+
 
 
 
